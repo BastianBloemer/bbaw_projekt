@@ -1,6 +1,6 @@
 .venv/
 .claude/
 knowledge/
-pipelines/iiif-plattform/data/metadata/
-pipelines/iiif-plattform/data/manifest/raw/
+pipelines/iiif-plattform/backend/data/metadata/
+pipelines/iiif-plattform/backend/data/manifest/raw/
 pipelines/knowledge-graph/examples/
