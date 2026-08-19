@@ -1,0 +1,165 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/03-nouv/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Nouveaux Mémoires de l'Académie Royale des Sciences et Belles-Lettre (1770–1786)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1770.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1770"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1771.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1771"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1772.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1772"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1773.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1773"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1774.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1774"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1775.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1775"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1776.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1776"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1777.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1777"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1778.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1778"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1779.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1779"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1780.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1780"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1781.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1781"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1782.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1782"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1783.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1783"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1784.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1784"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1785.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1785"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/03-nouv_1786.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1786"
+        ]
+      }
+    }
+  ]
+}

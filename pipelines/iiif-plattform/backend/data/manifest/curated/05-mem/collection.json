@@ -1,0 +1,129 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/05-mem/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Mémoires de l'Académie Royale des Sciences et Belles-Lettres (1786–1804)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_17861787.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1786-1787"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_17881789.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1788-1789"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_17901791.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1790-1791"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_17921793.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1792-1793"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_17941795.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1794-1795"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_1796.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1796"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_1797.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1797"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_1798.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1798"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_17991800.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1799-1800"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_1801.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1801"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_1802.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1802"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_1803.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1803"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/05-mem_1804.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1804"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/08-verh/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Bericht über die zur Bekanntmachung geeigneten Verhandlungen der Königlich Preußischen Akademie der Wissenschaften zu Berlin (1836–1855)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1836.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1836"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1837.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1837"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1838.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1838"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1839.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1839"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1840.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1840"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1841.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1841"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1842.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1842"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1843.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1843"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1844.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1844"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1845.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1845"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1846.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1846"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1847.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1847"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1848.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1848"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1849.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1849"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1850.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1850"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1851.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1851"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1852.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1852"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1853.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1853"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1854.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1854"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/08-verh_1855.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1855"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Readme von mir geschrieben
+
+Die JSONs wurden am 06.08.2026 erstellt und berücksichtigen daher auch nur diejenige Literatur, die zu diesem Zeitpunkt in Zotero gewesen ist. Außerdem habe ich sowohl "Meine Bibliothek" als auch die Gruppen-Biblitohek von DH-Bern extrahieren und bewerten lassen. Für die Bewertung habe ich lediglich gesagt, dass auf der Grundlage der Titel geprüft werden soll, ob der Eintrag für das Projekt "Semantische Erschließung mit Wissensgraphen" relevant sein könnte. Was *Relevanz* eigentlich bedeutet, habe ich nicht definiert.
+Ein nächster Schritt wäre, die Unrelevanten und Relevanten Titel noch einmal überprüfen zu lassen.
+Falls meine Zotero-Bibliothek wächst, sollte ich schauen, dass ich nur noch die Titel überprüfen lasse, die neu hinzugekommen sind. Oder ich erstelle eine Sammlung mit dem Titel "Semantische Erschließung mit Wissensgraphen" und füge dort die relevanten Titel ein.

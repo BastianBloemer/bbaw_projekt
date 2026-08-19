@@ -1,0 +1,32 @@
+{
+  "sandbox": {
+    "enabled": true,
+    "filesystem": {
+      "denyRead": ["~/"],
+      "allowRead": [".", "../zotero"],
+      "denyWrite": ["~/",
+      "./knowledge",
+      "./projekts/BBAW_Akademieschriften"],
+      "allowWrite": ["."]
+    }
+  },
+  
+ "permissions": {
+  "allow": [
+    "Edit(.)",
+    "Write(.)",
+    "Read(.)",
+    "Read(../zotero)",
+    "Read(./knowledge)",
+    "Read(./projekts/BBAW_Akademieschriften/**)"
+  ],
+  "deny": [
+    "Edit(./knowledge)",
+    "Write(./knowledge)",
+    "Edit(./projekts/BBAW_Akademieschriften/**)",
+    "Write(./projekts/BBAW_Akademieschriften/**)",
+    "Edit(~/)",
+    "Write(~/)"
+  ]
+}
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/01-misc/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Miscellanea Berolinensia ad incrementum scientiarum, ex scriptis Societati Regiae Scientiarum exhibitis edita (1710–1744)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/01-misc/01-misc_1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/01-misc/01-misc_2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/01-misc/01-misc_3.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/01-misc/01-misc_4.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/01-misc/01-misc_5.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/01-misc/01-misc_6.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/01-misc/01-misc_7-s.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "7-s"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/01-misc/01-misc_7.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "7"
+        ]
+      }
+    }
+  ]
+}

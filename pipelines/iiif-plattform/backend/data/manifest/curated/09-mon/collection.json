@@ -1,0 +1,246 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/09-mon/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Monatsberichte der Königlich Preußischen Akademie der Wissenschaften zu Berlin (1856–1881)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1856.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1856"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1857.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1857"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1858.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1858"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1859.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1859"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1860.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1860"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1861.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1861"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1862.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1862"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1863.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1863"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1864.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1864"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1865.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1865"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1866.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1866"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1867.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1867"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1868.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1868"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1869.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1869"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1870.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1870"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1871.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1871"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1872.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1872"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1873.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1873"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1874.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1874"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1875.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1875"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1876.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1876"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1877.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1877"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1878.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1878"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1879.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1879"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1880.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1880"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/09-mon_1881.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1881"
+        ]
+      }
+    }
+  ]
+}

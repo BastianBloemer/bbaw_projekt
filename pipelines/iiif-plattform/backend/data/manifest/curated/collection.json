@@ -1,0 +1,102 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Digitalisierte Akademieschriften der BBAW"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/01-misc/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Miscellanea Berolinensia ad incrementum scientiarum, ex scriptis Societati Regiae Scientiarum exhibitis edita (1710–1744)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Histoire de l'Académie Royale des Sciences et des Belles-Lettres de Berlin (1745–1769)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/03-nouv/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Nouveaux Mémoires de l'Académie Royale des Sciences et Belles-Lettre (1770–1786)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/04-phys/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Physikalische und medicinische Abhandlungen der Königlichen Academie der Wissenschaften zu Berlin (1781–1786)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/05-mem/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Mémoires de l'Académie Royale des Sciences et Belles-Lettres (1786–1804)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/06-samml/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Sammlung der deutschen Abhandlungen, welche in der Königlichen Akademie der Wissenschaften zu Berlin vorgelesen worden (1788–1803)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/07-abh/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Abhandlungen der Königlichen Preußischen Akademie der Wissenschaften zu Berlin (1804–1900)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/08-verh/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Bericht über die zur Bekanntmachung geeigneten Verhandlungen der Königlich Preußischen Akademie der Wissenschaften zu Berlin (1836–1855)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/09-mon/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Monatsberichte der Königlich Preußischen Akademie der Wissenschaften zu Berlin (1856–1881)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften zu Berlin (1882–1900)"
+        ]
+      }
+    }
+  ]
+}

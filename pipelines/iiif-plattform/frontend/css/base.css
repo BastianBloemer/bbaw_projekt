@@ -1,0 +1,134 @@
+/* ============================================================
+   1. BASE
+   ============================================================ */
+
+html {
+  font-size: 14px;
+  font-family: robotomedium, sans-serif;
+  line-height: 1.5;
+  overflow-x: hidden;
+  background-color: #F0F0F0;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem;
+}
+
+.content {
+    flex: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:not(.work-beziehungen a) {
+  color: #292e33;
+  letter-spacing: 0.05rem;
+  font-size: 1.21rem;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a{
+  text-transform: uppercase;
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+}
+
+a:hover {
+  color: #d70035 !important;
+  text-decoration: none !important;
+}
+
+a.active {color: #d70035 !important;
+  text-decoration: none !important;}
+
+/* ============================================================
+   2. HEADER
+   ============================================================ */
+
+#header {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  color: #3E4955;
+  box-sizing: border-box;
+  margin-bottom: 3em;
+}
+
+#logos {
+    display: flex;
+    gap: 15px;     
+    justify-content: space-between;
+    align-items: center;
+}
+
+#akademieschriften-logo img {
+  height: 56px;
+  width: auto;
+}
+
+#bbaw-logo img {
+  height: 80px;
+  width: auto;
+  display: block;
+}
+
+#bbaw-logo:hover {
+    color: #3E4955 !important;
+    text-decoration: none !important;
+}
+
+#bbaw-logo span {
+    display: block;
+    margin-top: 0.25rem;
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 11px;
+    padding: 2.5px 22px;
+    color: #3E4955;
+}
+
+#primary-nav > li {
+  border-right: 3px #d70035 solid;
+}
+#primary-nav > li:first-child {
+  border-left: 3px #d70035 solid;
+}
+
+/* ============================================================
+   3. FOOTER
+   ============================================================ */
+
+#footer {
+  display: flex;
+  border-top: 2px solid;
+  border-top-color: #d70035;
+  margin-top: 3rem;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+ 
+}
+
+#footer li a {
+  margin-right: 2rem;
+  margin-left: 0em;
+  font-size: 15px;
+}

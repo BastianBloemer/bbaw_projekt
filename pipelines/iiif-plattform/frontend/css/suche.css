@@ -1,0 +1,132 @@
+.content {
+  margin: 0 auto;
+  margin-top: 3em;
+  max-width: 60em;
+}
+
+
+#search-input {
+  display: block;
+  margin: 0 auto;
+  min-width: 50em;
+  padding: 1rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #3E4955;
+}
+
+
+#search-input:focus {
+  outline: 2px solid #3E4955;
+}
+
+#hits {
+  margin-top: 2em;
+  font-weight: bold;
+  text-align: left;
+  color: #292e33;
+}
+
+.contents {
+  margin-bottom: 1em;
+  padding: 1em;
+  text-align: left;
+  border: 1px solid #000000;
+}
+
+.work {
+  position: relative;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  padding-bottom: 1em;
+  padding-right: 15em;
+  font-weight: bold;
+  line-height: 1.25;
+  border-bottom: 1px dashed #3E4955;
+}
+
+.work:last-child {
+  margin-bottom: 0em;
+  border-bottom: none;
+}
+
+.work .work-title {
+  letter-spacing: normal;
+  font-size: 1em
+}
+
+.work-meta {
+  margin-top: 0.8em;
+  font-size: 0.8em;
+  color: #64748b;
+}
+
+.work-beziehungen {
+  margin-top: 2em;
+  margin-right: 10em;
+  font-size: 0.8em;
+  font-weight: normal;
+  font-style: italic;
+  color: #64748b;
+}
+
+.work-beziehungen a {
+  color: #64748b;
+  display: inline-block;
+  margin-bottom: 0.3em;
+}
+
+.beziehung-typ {
+  font-size: 0.8em;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.work-download {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 0;
+  padding-bottom: 0.3em;
+  border: none;
+  background: none;
+  color: #3E4955;
+  cursor: pointer;
+}
+
+.work:last-child .work-download {
+  bottom: -1em;
+}
+
+.work-download:hover {
+  color: #d70035;
+}
+
+.work-download-popup {
+  position: absolute;
+  bottom: 130%;
+  right: 0;
+  white-space: nowrap;
+  padding: 0.3em 0.6em;
+  font-size: 0.8em;
+  font-weight: bold;
+  font-style: normal;
+  color: #ffffff;
+  background-color: #3E4955;
+  border-radius: 4px;
+  z-index: 10;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s ease, visibility 0s linear 0.15s;
+}
+
+.work-download:hover .work-download-popup,
+.work-download:focus .work-download-popup {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.15s ease 0.6s, visibility 0s linear 0.6s;
+}
+
+.work-download:disabled {
+  cursor: default;
+  opacity: 0.6;
+}

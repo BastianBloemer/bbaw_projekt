@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/04-phys/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Physikalische und medicinische Abhandlungen der Königlichen Academie der Wissenschaften zu Berlin (1781–1786)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/04-phys/04-phys_1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/04-phys/04-phys_2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/04-phys/04-phys_3.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/04-phys/04-phys_4.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "4"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+#index-info {
+    display: flex;
+    gap: 2em;
+}
+
+#entdecken {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+    padding-top: 2em;
+}
+
+.kachel {
+    position: relative;
+    aspect-ratio: 4 / 4.8; 
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.kachel:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 14px #3E4955;
+}
+.kachel-bild-wrapper {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.kachel-bild-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+}
+
+.kachel-jahr {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(62, 73, 85, 0.9); 
+    padding: 8px 6px;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    color: #F0F0F0;
+}

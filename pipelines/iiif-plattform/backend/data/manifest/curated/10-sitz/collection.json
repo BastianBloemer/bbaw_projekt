@@ -1,0 +1,327 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/10-sitz/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften zu Berlin (1882–1900)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1882-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1882-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1882-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1882-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1883-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1883-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1883-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1883-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1884-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1884-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1884-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1884-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1885-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1885-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1885-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1885-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1886-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1886-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1886-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1886-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1887-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1887-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1887-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1887-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1888-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1888-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1888-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1888-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1889-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1889-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1889-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1889-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1890-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1890-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1890-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1891-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1891-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1891-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1891-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1892-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1892-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1892-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1892-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1893-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1893-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1893-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1893-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1894-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1894-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1894-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1894-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1895-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1895-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1895-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1895-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1896-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1896-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1896-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1896-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1897-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1897-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1897-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1897-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1898-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1898-1"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1898-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1898-2"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/10-sitz/10-sitz_1899-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1899-1"
+        ]
+      }
+    }
+  ]
+}

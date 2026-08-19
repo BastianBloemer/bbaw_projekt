@@ -1,0 +1,66 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/06-samml/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Sammlung der deutschen Abhandlungen, welche in der Königlichen Akademie der Wissenschaften zu Berlin vorgelesen worden (1788–1803)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/06-samml/06-samml_17881789.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1788-1789"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/06-samml/06-samml_17901791.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1790-1791"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/06-samml/06-samml_17921797.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1792-1797"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/06-samml/06-samml_17981800.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1798-1800"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/06-samml/06-samml_18011802.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1801-1802"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/06-samml/06-samml_1803.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1803"
+        ]
+      }
+    }
+  ]
+}

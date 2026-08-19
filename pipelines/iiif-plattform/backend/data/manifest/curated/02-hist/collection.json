@@ -1,0 +1,237 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/02-hist/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Histoire de l'Académie Royale des Sciences et des Belles-Lettres de Berlin (1745–1769)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1745.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1745"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1746.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1746"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1747.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1747"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1748.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1748"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1749.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1749"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1750.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1750"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1751.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1751"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1752.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1752"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1753.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1753"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1754.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1754"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1755.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1755"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1756.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1756"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1757.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1757"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1758.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1758"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1759.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1759"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1760.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1760"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1761.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1761"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1762.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1762"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1763.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1763"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1764.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1764"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1765.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1765"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1766.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1766"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1767.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1767"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1768.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1768"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/02-hist/02-hist_1769.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "1769"
+        ]
+      }
+    }
+  ]
+}

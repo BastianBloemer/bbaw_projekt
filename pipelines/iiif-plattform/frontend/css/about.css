@@ -1,0 +1,136 @@
+.content {
+  width: 100%;
+  max-width: 60em;
+  margin: 0 auto;
+  margin-top: 3em;
+}
+
+.entry {
+  width: 100%;
+}
+
+/* Aufklappbare Eintraege, orientiert an register.css (.entry/.entry-header/.contents) */
+
+.entry-header {
+  display: flex;
+  align-items: center;
+  padding: 1em 1em;
+  font-weight: bold;
+  border: 1px solid #000000;
+  cursor: pointer;
+  margin-bottom: 0.5em;
+}
+
+.entry-header:hover {
+  background-color: rgba(62, 73, 85, 0.2);
+}
+
+.entry:not(.collapsed) .entry-header {
+  border-bottom: none;
+  background-color: rgba(62, 73, 85, 0.2);
+}
+
+.entry:not(.collapsed) {
+  margin-bottom: 1em;
+  margin-top: 1em;
+  box-shadow: 0 3px 10px #3E4955;
+}
+
+.entry.collapsed .contents {
+  display: none;
+}
+
+.contents {
+  margin-top: -0.5em;
+  margin-bottom: 1em;
+  padding: 1em;
+  text-align: left;
+  border: 1px solid #000000;
+}
+
+.contents p {
+  margin-bottom: 1em;
+}
+
+.about-erklaerung {
+  display: block;
+  list-style: disc;
+  padding-left: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.about-erklaerung li {
+  margin-bottom: 0.6em;
+}
+
+/* Beispiel-Karte, die das Aussehen eines Treffers in Suche/Register nachbildet */
+
+.about-beispiel {
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  background-color: #F0F0F0;
+  border: 1px solid #000000;
+}
+
+.about-beispiel-titel {
+  font-weight: bold;
+  color: #292e33;
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+}
+
+.about-beispiel-typ {
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.about-beispiel-download {
+  color: #3E4955;
+}
+
+.about-beispiel-meta {
+  margin-top: 0.5em;
+  font-size: 0.85em;
+  color: #64748b;
+}
+
+.about-beispiel-beziehung {
+  margin-top: 0.8em;
+  font-size: 0.85em;
+  font-style: italic;
+  color: #64748b;
+}
+
+.about-beispiel-beziehung strong {
+  font-style: normal;
+}
+
+/* Tabelle der Reihenkuerzel */
+
+.about-kuerzel-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+
+.about-kuerzel-table th,
+.about-kuerzel-table td {
+  text-align: left;
+  padding: 0.5em 1em;
+  border: 1px solid #000000;
+}
+
+.about-kuerzel-table th {
+  background-color: #3E4955;
+  color: #ffffff;
+}
+
+.about-kuerzel-table td:first-child {
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.about-kuerzel-table td:last-child {
+  white-space: nowrap;
+}
