@@ -14,7 +14,7 @@ function init() {
   elements.searchInput.addEventListener('keydown', async (e) => {
     if (e.key === 'Enter') {
       e.preventDefault();
-      const query = elements.searchInput.value.trim().toLowerCase();
+      const query = elements.searchInput.value.trim();
 
       if (query.length > 0) {
         await executeSearch(query);
@@ -23,16 +23,90 @@ function init() {
   });
 }
 
+// Entfernt diakritische Zeichen (È -> E, ü -> u, ...), damit die Suche nicht
+// zwischen Akzent-Varianten unterscheidet.
+function normalize(text) {
+  return text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase();
+}
+
+function levenshtein(a, b) {
+  const m = a.length;
+  const n = b.length;
+  if (m === 0) return n;
+  if (n === 0) return m;
+
+  let prev = Array.from({ length: n + 1 }, (_, j) => j);
+  for (let i = 1; i <= m; i++) {
+    const curr = [i];
+    for (let j = 1; j <= n; j++) {
+      curr[j] = a[i - 1] === b[j - 1]
+        ? prev[j - 1]
+        : 1 + Math.min(prev[j - 1], prev[j], curr[j - 1]);
+    }
+    prev = curr;
+  }
+  return prev[n];
+}
+
+// Erlaubte Tippfehler-Distanz je Wortlaenge -- kurze Woerter bleiben exakt,
+// sonst waeren Fehltreffer bei 3-4-Buchstaben-Woertern zu wahrscheinlich.
+function fuzzyThreshold(wordLength) {
+  if (wordLength <= 3) return 0;
+  if (wordLength <= 5) return 1;
+  return 2;
+}
+
+function wordMatches(queryWord, targetText) {
+  if (targetText.includes(queryWord)) return true;
+
+  const threshold = fuzzyThreshold(queryWord.length);
+  if (threshold === 0) return false;
+
+  return targetText.split(/\s+/).some(targetWord =>
+    Math.abs(targetWord.length - queryWord.length) <= threshold &&
+    levenshtein(queryWord, targetWord) <= threshold
+  );
+}
+
+// Ablauf der Suche:
+// 1. Titel/Autor jeder Abhandlung stehen bereits vorberechnet im Feld
+//    "search" (register-abhandlungen.json); beim ersten Aufruf wird daraus
+//    ein Cache gebaut, der pro Eintrag den akzent- und gross-/kleinschreibung-
+//    freien Text ("normalizedSearch") sowie das Jahr als String enthaelt.
+// 2. Die Sucheingabe wird genauso normalisiert (normalize()) und in
+//    einzelne Woerter zerlegt.
+// 3. Ein Eintrag ist ein Treffer, wenn entweder das Jahr die Eingabe
+//    enthaelt ODER jedes Suchwort im normalisierten Suchtext vorkommt
+//    (Reihenfolge der Woerter spielt keine Rolle).
+// 4. "Vorkommen" ist dabei etwas fuzzy: ein Suchwort passt, wenn es als
+//    Teilstring auftaucht (deckt Praefixe/Wortfragmente ab) oder wenn es zu
+//    einem Wort im Suchtext nur um wenige Tippfehler abweicht
+//    (Levenshtein-Distanz, siehe fuzzyThreshold() -- kurze Woerter bleiben
+//    exakt, laengere erlauben 1-2 Fehler).
 async function executeSearch(query) {
   if (!abhandlungenCache) {
     const response = await fetch(PATH_ABHANDLUNGEN);
-    abhandlungenCache = await response.json();
+    const books = await response.json();
+    abhandlungenCache = books.map(book => ({
+      book,
+      normalizedSearch: normalize(book.search || ''),
+      year: String(book.year || '')
+    }));
   }
-    const results = abhandlungenCache.filter(book => {
-    const searchField = (book.search || '').toLowerCase();
-    const year = String(book.year || '');
-    return searchField.includes(query) || year.includes(query);
-  });
+
+  const normalizedQuery = normalize(query);
+  const queryWords = normalizedQuery.split(/\s+/).filter(Boolean);
+
+  const results = abhandlungenCache
+    .filter(({ normalizedSearch, year }) =>
+      year.includes(normalizedQuery) ||
+      queryWords.every(word => wordMatches(word, normalizedSearch))
+    )
+    .map(({ book }) => book);
+
   renderResults(results, query);
 }
 
