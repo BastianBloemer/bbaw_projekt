@@ -56,16 +56,13 @@ function renderEntries(containerEl) {
       work.className = 'work';
 
       const year = book.year ? ` ${book.year}` : '';
-      const anhang = book.anhang ? ` | ${book.anhang}` : '';
       const schriftenreihe = book.schriftenreihe ? ` | ${book.schriftenreihe}` : '';
       const link = `viewer.html?manifest=${book.manifest}${book.startCanvas ? `&canvas=${encodeURIComponent(book.startCanvas)}` : ''}`;
-      const beziehungen = book.textbeziehungen ? `<div class="work-beziehungen">${book.textbeziehungen}</div>` : '';
 
       work.innerHTML = `
         <a class="work-title" href="${link}" target="_blank" rel="noopener">${book.title}</a>
         <button type="button" class="work-download" aria-label="Abhandlung herunterladen">${DOWNLOAD_ICON}<span class="work-download-popup">Abhandlung herunterladen</span></button>
-        <div class="work-meta">${year}${anhang}${schriftenreihe}</div>
-        ${beziehungen}
+        <div class="work-meta">${year}${schriftenreihe}</div>
       `;
 
       work.querySelector('.work-download').onclick = () => startAbhandlungDownload(work.querySelector('.work-download'), book);
