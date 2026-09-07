@@ -1,7 +1,6 @@
 export function createConfig({
   manifestId,
   canvasId = null,
-  isCollection = false,
 }) {
 
   const windowConfig = {
@@ -36,6 +35,12 @@ export function createConfig({
       allowFullscreen: true,
       allowMaximize: false,
       allowTopMenuButton: false,
+      // Toggle-Button fuer die Sidebar bleibt sichtbar/nutzbar --
+      // nur der Startzustand wird unten ueber sideBarOpen: false
+      // gesteuert. Gilt einheitlich fuer alle Ebenen (Schriftenreihe,
+      // Band, Abhandlung), unabhaengig davon, ob man per URL-Parameter
+      // oder durch Klicken innerhalb des laufenden Viewers dorthin
+      // gelangt.
       allowWindowSideBar: true,
       sideBarPanel: 'canvas',
       defaultSidebarPanelHeight: 201,
@@ -43,18 +48,28 @@ export function createConfig({
       defaultView: 'single',
       hideWindowTitle: true,
       highlightAllAnnotations: false,
-      // Bei einer Sammlung (keine einzelne Abhandlung) zeigt der Index nur
-      // eine nicht anklickbare Liste -- deshalb bleibt er dort zu; nur "Zeige
-      // Sammlungen" funktioniert dort ohnehin als Navigation. Auf
-      // Abhandlungsebene bleibt der Index (Inhaltsverzeichnis) wie gehabt an.
-      sideBarOpen: !isCollection,
+      // Seitenleiste ist immer offen, mit dem Inhaltsverzeichnis (canvas-
+      // Panel) als einzigem Tab -- ein eigener "collection"-Tab fuer die
+      // Baende-Liste einer Sammlung existiert in dieser Mirador-Version
+      // nicht (Mirador akzeptiert dafuer nur "canvas" als gueltigen Panel-
+      // Wert, per MUI-Warnung ueberprueft; andere Werte fuehren zu einer
+      // ungueltigen Tab-Auswahl). Bei einer Sammlung (Schriftenreihe) zeigt
+      // dieser Tab zwar auch die Baende, aber nur als reine Text-Liste ohne
+      // Links. Die tatsaechlich klickbaren Links dazu liefert Mirados
+      // eingebauter Sammlungs-Dialog -- dieser wird in mirador-app.js beim
+      // Oeffnen einer Sammlung automatisch aufgerufen, damit er direkt und
+      // ohne Klick auf "Zeige Sammlung" sichtbar ist.
+      //
+      // Start-Zustand: geschlossen. Der Nutzer kann sie ueber den
+      // Sidebar-Toggle-Button jederzeit selbst oeffnen.
+      sideBarOpen: false,
       showLocalePicker: true,
       switchCanvasOnSearch: true,
 
       panels: {
         info: false,
         attribution: false,
-        canvas: !isCollection,
+        canvas: true,
         annotations: false,
         search: false,
         layers: false,

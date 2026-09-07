@@ -24,8 +24,7 @@
 }
 
 .mode.active {
-  background-color: #3E4955;
-  color: #ffffff;
+  background-color: rgba(62, 73, 85, 0.2);
 }
 
 #alphabet-nav {
@@ -53,12 +52,12 @@
 }
 
 .letter.active {
-  background-color: #3E4955;
-  color: #ffffff;
+  background-color: rgba(62, 73, 85, 0.2);
 }
 
 
 /* Ergebnisse */
+
 
 .entry-header {
   display: flex;

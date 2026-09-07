@@ -1,0 +1,75 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "../../backend/data/manifest/curated/ak-gesch/collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Monographien zur Geschichte der Akademie bis 1900 (1711–1950)"
+    ]
+  },
+  "items": [
+    {
+      "id": "../../backend/data/manifest/curated/ak-gesch/ak-gesch_bart-1.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "Bartholmèss, Christian: Histoire philosophique de l'Académie de Prusse depuis Leibniz jusqu'a Schelling, particul. sous Frédéric-le-Grand [Teil 1] (1850)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/ak-gesch/ak-gesch_bart-2.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "Bartholmèss, Christian: Histoire philosophique de l'Académie de Prusse depuis Leibniz jusqu'a Schelling, particul. sous Frédéric-le-Grand [Teil 2] (1851)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/ak-gesch/ak-gesch_bildniss.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "Bildnisse berühmter Mitglieder der Deutschen Akademie der Wissenschaften zu Berlin (1950)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/ak-gesch/ak-gesch_form1750.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "Formey, Jean Henri Samuel: Histoire de l'academie Royale des sciences et belles lettres depuis son origine jusqu'à présent : Avec les pieces originales (1750)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/ak-gesch/ak-gesch_form1752.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "Formey, Johann Heinrich Samuel: Histoire de l'Académie Royale des Sciences et Belles Lettres : depuis son origine jusqu'à présent ; avec les pièces originales (1752)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/ak-gesch/ak-gesch_kurtzeer.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "Friedrich: Kurtze Erzehlung, Welchergestalt Von Sr. Kön. Maj. in Preußen Friederich dem I. in Dero Hauptsitz Berlin die Societæt der Wissenschafften Oder Zu mehrer Aufnahme des gelehrten Wesens abzielende Gesellschafft gestiftet worden Und wie dieselbe zu ihrer völligen Niedersetzung gediehen; Mit Beifügung des Stiftungs-Briefs, der Einrichtungs-Gesetze, derer bey der Niedersetzung gehaltenen Reden und des Catalogi Membrorum Societatis (1711)"
+        ]
+      }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/ak-gesch/ak-gesch_zweijahr.json",
+      "type": "Manifest",
+      "label": {
+        "de": [
+          "Die Zweihundertjahrfeier der Königlich Preussischen Akademie der Wissenschaften : am 19. und 20. März 1900 (1900)"
+        ]
+      }
+    }
+  ]
+}

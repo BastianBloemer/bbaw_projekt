@@ -3,6 +3,27 @@
     gap: 2em;
 }
 
+/* Info-Text: Links mit Icon + Popup (wie im Register) */
+
+#index-info a {
+  position: relative;
+}
+
+#index-info .popup {
+  color: #ffffff;
+  /* Register-Popup: 0.8em auf einem Button (~13.3px) => ~10.7px.
+     Hier sitzt das Popup in einem <a> mit 1.21rem, daher fester Wert. */
+  font-size: 0.75rem;
+  letter-spacing: normal;
+}
+
+#index-info a:hover .popup {
+  color: #ffffff !important;
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.15s ease 0.6s, visibility 0s linear 0.6s;
+}
+
 #entdecken {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));

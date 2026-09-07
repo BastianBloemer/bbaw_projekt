@@ -97,6 +97,15 @@
           "Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften zu Berlin (1882–1900)"
         ]
       }
+    },
+    {
+      "id": "../../backend/data/manifest/curated/ak-gesch/collection.json",
+      "type": "Collection",
+      "label": {
+        "de": [
+          "Monographien zur Geschichte der Akademie bis 1900 (1711–1950)"
+        ]
+      }
     }
   ]
 }

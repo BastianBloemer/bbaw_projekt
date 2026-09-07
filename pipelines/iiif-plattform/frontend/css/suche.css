@@ -12,12 +12,9 @@
   padding: 1rem 1rem;
   font-size: 1rem;
   border: 1px solid #3E4955;
-}
-
-
-#search-input:focus {
   outline: 2px solid #3E4955;
 }
+
 
 #hits {
   margin-top: 2em;
