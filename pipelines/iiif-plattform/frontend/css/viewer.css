@@ -14,30 +14,26 @@ html, body {
   position: relative;
 }
 
-#my-mirador button[aria-label="Kompaktliste"],
-#my-mirador button[aria-label="Miniaturansicht"],
-#my-mirador button[aria-label="Inhaltsverzeichnis"],
 #my-mirador button[aria-label="In Hilfsfenster öffnen"],
-#my-mirador button[aria-label="Index"],
 #my-mirador [aria-label="Hilfsfensternavigation"]  {
   display: none !important;
 }
-[id$="-resource"].MuiAccordion-root,
-#select-collection-rights {
+
+#my-mirador h3 {
   display: none !important;
 }
-.MuiChip-filledPrimary.MuiChip-clickableColorPrimary {
+
+.mirador-companion-window-title-controls {
+  display: none !important;
+}
+
+[id$="-resource"].MuiAccordion-root,
+#select-collection-rights {
   display: none !important;
 }
 .mui-1juypbn-CompanionArea-toggle {
   display: none !important;
 }
-
-/* base.css setzt global "ul { display: flex; flex-wrap: wrap; }" fuer die
-   eigene Navigation. Miradors Canvas-Index (Table of Contents) ist intern
-   selbst ein <ul> (MuiSimpleTreeView) -- ohne diesen Reset wuerden dessen
-   Eintraege je nach Breite der Seitenleiste mehrspaltig umbrechen statt
-   immer genau einer pro Zeile zu stehen. */
 #my-mirador ul {
   display: block;
   flex-wrap: nowrap;
