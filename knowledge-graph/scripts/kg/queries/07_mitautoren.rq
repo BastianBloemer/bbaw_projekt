@@ -1,0 +1,6 @@
+# Kooperationen: Autor + im Titel genannter Mitautor
+SELECT ?autor ?mitautor (COUNT(?a) AS ?gemeinsam)
+WHERE {
+  ?a das:autor/schema:name ?autor ; das:mitautor/schema:name ?mitautor .
+}
+GROUP BY ?autor ?mitautor ORDER BY DESC(?gemeinsam) LIMIT 15

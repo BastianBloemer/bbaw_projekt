@@ -1,0 +1,8 @@
+# Originale und ihre Uebersetzungen (z.B. franzoesische Mémoires -> deutsche Sammlung)
+SELECT ?original_titel ?original_sprache ?uebersetzung_titel ?uebersetzung_sprache
+WHERE {
+  ?o das:hatUebersetzung ?u .
+  ?o dcterms:title ?original_titel ; dcterms:language ?original_sprache .
+  ?u dcterms:title ?uebersetzung_titel ; dcterms:language ?uebersetzung_sprache .
+}
+LIMIT 10

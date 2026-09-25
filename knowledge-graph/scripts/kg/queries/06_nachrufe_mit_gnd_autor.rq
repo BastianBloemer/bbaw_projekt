@@ -1,0 +1,10 @@
+# Nachrufe / Éloges 1792-1807, deren Autor mit der GND verknuepft ist
+SELECT ?jahr ?titel ?autor ?gnd
+WHERE {
+  ?a das:gattung <https://akademieschriften.bbaw.de/kg/resource/gattung/nachruf> ; dcterms:title ?titel ;
+     das:erschienenIm/time:year ?jahr ; das:autor ?p .
+  ?p schema:name ?autor .
+  OPTIONAL { ?p owl:sameAs ?gnd FILTER(STRSTARTS(STR(?gnd), "https://d-nb.info/gnd/")) }
+  FILTER(xsd:integer(STR(?jahr)) >= 1792 && xsd:integer(STR(?jahr)) <= 1807)
+}
+ORDER BY ?jahr

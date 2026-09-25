@@ -1,0 +1,225 @@
+Validation Report
+Conforms: True
+Results (37):
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/09489633X>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094897816>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/09489938X>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094931038>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094937281>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094941327>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094941548>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094941610>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094943427>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/09494394X>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094944822>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094946329>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094946396>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094947473>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094957320>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094961077>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/09496193X>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/09497117X>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/094976198>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/538802227>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Autor (anonym oder unaufgelöst).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:autor ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/538802375>
+	Result Path: das:autor
+	Message: Abhandlung ohne Autor (anonym oder unaufgelöst).
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094897565-14>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094912947-8>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094945330-1>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094945861-5>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094945942-6>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094950334-7>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094951187-17>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094955808-9>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094955824-10>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094956340-2>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094956731-15>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094957096-16>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-09495836X-11>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-09496078X-12>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094962464-13>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("Abhandlung ohne Erscheinungsjahr.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path das:erschienenIm ; sh:severity sh:Warning ]
+	Focus Node: <https://akademieschriften.bbaw.de/kg/resource/abhandlung/NEU-094975892-18>
+	Result Path: das:erschienenIm
+	Message: Abhandlung ohne Erscheinungsjahr.

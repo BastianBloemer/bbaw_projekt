@@ -1,0 +1,10 @@
+# Antrittsreden und die Antworten darauf
+SELECT ?jahr ?redner ?antwortender ?antwort_id
+WHERE {
+  ?rede das:hatAntwort ?antwort .
+  ?rede das:autor/schema:name ?redner .
+  ?antwort dcterms:identifier ?antwort_id .
+  OPTIONAL { ?antwort das:autor/schema:name ?antwortender }
+  OPTIONAL { ?rede das:erschienenIm/time:year ?jahr }
+}
+ORDER BY ?jahr LIMIT 15

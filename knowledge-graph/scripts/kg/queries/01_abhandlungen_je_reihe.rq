@@ -1,0 +1,8 @@
+# Anzahl Abhandlungen und Zeitraum je Schriftenreihe
+SELECT ?kuerzel (COUNT(?a) AS ?abhandlungen) (MIN(?jahr) AS ?von) (MAX(?jahr) AS ?bis)
+WHERE {
+  ?a das:inBand/das:inReihe ?reihe .
+  ?reihe das:kuerzel ?kuerzel .
+  OPTIONAL { ?a das:erschienenIm/time:year ?jahr }
+}
+GROUP BY ?kuerzel ORDER BY ?kuerzel

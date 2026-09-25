@@ -1,0 +1,9 @@
+# Produktivste Autoren mit Normdaten-Verknuepfung
+SELECT ?name (COUNT(?a) AS ?abhandlungen) (SAMPLE(?gnd) AS ?gnd) (SAMPLE(?wd) AS ?wikidata)
+WHERE {
+  ?a das:autor ?p .
+  ?p schema:name ?name .
+  OPTIONAL { ?p owl:sameAs ?gnd FILTER(STRSTARTS(STR(?gnd), "https://d-nb.info/gnd/")) }
+  OPTIONAL { ?p owl:sameAs ?wd  FILTER(STRSTARTS(STR(?wd), "http://www.wikidata.org/")) }
+}
+GROUP BY ?name ORDER BY DESC(?abhandlungen) LIMIT 15

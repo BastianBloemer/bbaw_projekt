@@ -1,0 +1,328 @@
+autor_key,autor,jahr_von,jahr_bis,rang,score,gnd,gnd_name,geburt,tod,akademiemitglied,berufe,affiliation,lobid
+heintz-wilhelm,"Heintz, Wilhelm",1844,1874,1,0.75,116673737,"Heintz, Wilhelm Heinrich",1817.0,1880.0,False,Chemiker; Hochschullehrer; Apotheker,Universität Halle (Saale),https://lobid.org/gnd/116673737
+heintz-wilhelm,"Heintz, Wilhelm",1844,1874,2,0.75,12039619X,"Heintz, Wilhelm",1816.0,1843.0,False,Arzt,Literarischer Sonntags-Verein (Tunnel über der Spree) zu Berlin,https://lobid.org/gnd/12039619X
+fritsch-gustav,"Fritsch, Gustav",1875,1896,1,0.825,115568808,"Fritsch, Gustav",1838.0,1927.0,False,Anthropologe; Arzt; Naturwissenschaftler; Physiologe,Friedrich-Wilhelms-Universität Berlin. Anatomisches Institut Berlin 1; Friedrich-Wilhelms-Universität Berlin. Physiologisches Institut; Friedrich-Wilhelms-Universität Berlin,https://lobid.org/gnd/115568808
+fritsch-gustav,"Fritsch, Gustav",1875,1896,2,0.75,136029256,"Fritsch, Gustav",1806.0,1878.0,False,Jurist; Abgeordneter,,https://lobid.org/gnd/136029256
+klein-karl,"Klein, Karl",1887,1899,1,0.75,116212349,"Klein, Karl",1819.0,1898.0,False,Bischof; Katholischer Theologe,Katholische Kirche. Diözese Limburg,https://lobid.org/gnd/116212349
+klein-karl,"Klein, Karl",1887,1899,2,0.75,1273225031,"Klein, Carl",1861.0,1939.0,False,Pfarrer; Bibliothekar,,https://lobid.org/gnd/1273225031
+klein-karl,"Klein, Karl",1887,1899,3,0.75,1328275760,"Klein-Hamburg, Karl",1843.0,,False,Schriftsteller,,https://lobid.org/gnd/1328275760
+bastide-jean-baptiste,"Bastide, Jean Baptiste",1798,1807,1,0.75,1248806395,"Martin de la Bastide, Jean Baptiste",1760.0,1815.0,False,Kartograf; Essayist,,https://lobid.org/gnd/1248806395
+bastide-jean-baptiste,"Bastide, Jean Baptiste",1798,1807,2,0.65,116080906,"Bastide, Jean-Baptiste",1737.0,1810.0,False,,,https://lobid.org/gnd/116080906
+bastide-jean-baptiste,"Bastide, Jean Baptiste",1798,1807,3,0.65,122390784,"La Bastide, Jean-Baptiste Gallois de",1765.0,1817.0,False,,,https://lobid.org/gnd/122390784
+kayser-heinrich,"Kayser, Heinrich",1884,1897,1,0.825,119464748,"Kayser, Heinrich",1853.0,1940.0,False,Physiker,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher; Technische Hochschule Hannover; Friedrich-Wilhelms-Universität Berlin,https://lobid.org/gnd/119464748
+kayser-heinrich,"Kayser, Heinrich",1884,1897,2,0.75,1033293350,"Kayser, Heinrich",1863.0,,False,Arzt,,https://lobid.org/gnd/1033293350
+kayser-heinrich,"Kayser, Heinrich",1884,1897,3,0.65,119288540,"Kayser, Heinrich",1842.0,1917.0,False,Architekt,,https://lobid.org/gnd/119288540
+weber-rudolf,"Weber, Rudolf",1856,1883,1,0.67,1162236353,"Fricke, Wilhelm",1839.0,1908.0,False,Lehrer; Schriftsteller,,https://lobid.org/gnd/1162236353
+weber-rudolf,"Weber, Rudolf",1856,1883,2,0.225,1181258480,"Weber, Rudolf",1842.0,1905.0,False,Forstwissenschaftler,Ludwig-Maximilians-Universität München,https://lobid.org/gnd/1181258480
+weber-rudolf,"Weber, Rudolf",1856,1883,3,0.225,130016195,"Weber, Rudolf",1843.0,1915.0,False,Schriftsteller,,https://lobid.org/gnd/130016195
+schneider-robert,"Schneider, Robert",1855,1890,1,0.75,116837098,"Schneider, Robert",1807.0,1871.0,False,Jurist; Politiker; Justizminister,,https://lobid.org/gnd/116837098
+schneider-robert,"Schneider, Robert",1855,1890,2,0.75,11682459X,"Schneider, Ernst Robert",1825.0,1900.0,False,Chemiker,,https://lobid.org/gnd/11682459X
+schneider-robert,"Schneider, Robert",1855,1890,3,0.67,10428398X,"Schneider, Robert",1839.0,,False,Klassischer Philologe; Oberlehrer,,https://lobid.org/gnd/10428398X
+studer-theophil,"Studer, Theophil",1876,1885,1,0.75,117354120,"Studer, Theophil",1845.0,1922.0,False,Zoologe; Arzt,Universität Bern,https://lobid.org/gnd/117354120
+studer-theophil,"Studer, Theophil",1876,1885,2,0.67,117354058,"Studer, Gottlieb Ludwig",1801.0,1889.0,False,Historiker; Theologe; Hochschullehrer,Universität Bern,https://lobid.org/gnd/117354058
+vogel-hermann-wilhelm,"Vogel, Hermann Wilhelm",1862,1888,1,0.75,1048190714,"Vogel, Hermann",1841.0,1917.0,False,Unternehmer; Kunstsammler; Numismatiker; Geheimer Rat,,https://lobid.org/gnd/1048190714
+vogel-hermann-wilhelm,"Vogel, Hermann Wilhelm",1862,1888,2,0.725,117463191,"Vogel, Hermann Wilhelm",1834.0,1898.0,False,,Technische Hochschule Berlin; Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/117463191
+konig-arthur,"König, Arthur",1884,1897,1,0.75,116302747,"König, Arthur",1856.0,1901.0,False,Physiker; Physiologe,,https://lobid.org/gnd/116302747
+konig-arthur,"König, Arthur",1884,1897,2,0.75,116302755,"König, Arthur",1843.0,1921.0,False,Katholischer Religionslehrer; Katholischer Theologe; Dompropst,Universität Breslau,https://lobid.org/gnd/116302755
+konig-arthur,"König, Arthur",1884,1897,3,0.65,1247002357,"König, Arthur",1859.0,1945.0,False,Forstamtsleiter,,https://lobid.org/gnd/1247002357
+hirschfeld-gustav,"Hirschfeld, Gustav",1874,1888,1,0.75,101160097,"Hirschfeld, Gustav",1847.0,1895.0,False,Archäologe,Albertus-Universität zu Königsberg i. Pr.,https://lobid.org/gnd/101160097
+hirschfeld-gustav,"Hirschfeld, Gustav",1874,1888,2,0.75,116188898,"Birch-Hirschfeld, Adolf",1849.0,1917.0,False,Philologe; Romanist; Hochschullehrer,Justus-Liebig-Universität Gießen; Universität Leipzig,https://lobid.org/gnd/116188898
+hirschfeld-gustav,"Hirschfeld, Gustav",1874,1888,3,0.67,12306483X,"Hirschfeld, Gustav",1857.0,1938.0,False,Politiker,,https://lobid.org/gnd/12306483X
+karsten-hermann,"Karsten, Hermann",1849,1860,1,0.825,116186909,"Karsten, Hermann",1817.0,1908.0,False,Biologe; Botaniker; Geologe; Forschungsreisender,Universität Wien; Friedrich-Wilhelms-Universität Berlin; Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116186909
+karsten-hermann,"Karsten, Hermann",1849,1860,2,0.825,116186887,"Karsten, Hermann",1809.0,1877.0,False,Geologe; Mathematiker,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116186887
+karsten-hermann,"Karsten, Hermann",1849,1860,3,0.75,120907690,"Karsten, Hermann",1801.0,1882.0,False,Diakon; Superintendent; Evangelischer Theologe; Evangelischer Religionslehrer,,https://lobid.org/gnd/120907690
+naude-philipp-der-jungere,"Naude, Philipp der jüngere",1710,1746,1,1.0,138677123,"Naudé, Philipp",1684.0,1745.0,True,Mathematiker,,https://lobid.org/gnd/138677123
+naude-philipp-der-jungere,"Naude, Philipp der jüngere",1710,1746,2,1.0,129964026,"Naudé, Philippe",1654.0,1729.0,True,Mathematiker,,https://lobid.org/gnd/129964026
+rodiger-emil,"Rödiger, Emil",1864,1876,1,0.65,116581050,"Rödiger, Emil",1801.0,1874.0,False,Orientalist,,https://lobid.org/gnd/116581050
+wulff-ludwig,"Wulff, Ludwig",1893,1896,1,0.75,1047477793,"Wulff, Ludwig",1859.0,,False,Arzt,,https://lobid.org/gnd/1047477793
+wulff-ludwig,"Wulff, Ludwig",1893,1896,2,0.65,129221341,"Wulff, Heinrich Carl Hans Ludwig",1855.0,1930.0,False,Oberlehrer; Pädagoge,,https://lobid.org/gnd/129221341
+wulff-ludwig,"Wulff, Ludwig",1893,1896,3,0.171,1231070544,"Wulff, Ludwig Christoph",1815.0,1882.0,False,,,https://lobid.org/gnd/1231070544
+nagel-wilhelm,"Nagel, Wilhelm",1887,1892,1,0.75,1012760375,"Nagel, Wilhelm",1866.0,1945.0,False,Maler; Künstler; Hochschullehrer,,https://lobid.org/gnd/1012760375
+nagel-wilhelm,"Nagel, Wilhelm",1887,1892,2,0.75,116880295,"Nagel, Wilhelm",1856.0,1937.0,False,Arzt; Gynäkologe,,https://lobid.org/gnd/116880295
+nagel-wilhelm,"Nagel, Wilhelm",1887,1892,3,0.67,1031896074,"Nagel, Wilhelm",1868.0,,False,Arzt,,https://lobid.org/gnd/1031896074
+weber-heinrich-friedrich,"Weber, Heinrich Friedrich",1880,1888,1,0.75,117163120,"Weber, Heinrich Friedrich",1843.0,1912.0,False,Physiker; Hochschullehrer,,https://lobid.org/gnd/117163120
+weber-heinrich-friedrich,"Weber, Heinrich Friedrich",1880,1888,2,0.75,118765833,"Weber, Friedrich Wilhelm",1813.0,1894.0,False,Schriftsteller; Lyriker; Übersetzer; Arzt,Deutsche Zentrumspartei; Preußen. Landtag,https://lobid.org/gnd/118765833
+strahl-johannes-karl,"Strahl, Johannes Karl",1861,1862,1,0.65,121167429,"Strahl, Johannes Carl",1820.0,,False,,,https://lobid.org/gnd/121167429
+holtz-wilhelm,"Holtz, Wilhelm",1875,1876,1,0.75,102611416,"Holtz, Wilhelm",1836.0,1913.0,False,Physiker; Erfinder,,https://lobid.org/gnd/102611416
+holtz-wilhelm,"Holtz, Wilhelm",1875,1876,2,0.65,115762264X,"Holtz, Wilhelm von",1828.0,1892.0,False,Landrat,,https://lobid.org/gnd/115762264X
+holtz-wilhelm,"Holtz, Wilhelm",1875,1876,3,0.171,116970081,"Holtz, Wilhelm Gottfried Karl von",1801.0,1868.0,False,,,https://lobid.org/gnd/116970081
+rohde-emil,"Rohde, Emil",1886,1892,1,0.75,116597216,"Rohde, Emil",1858.0,,False,Zoologe,,https://lobid.org/gnd/116597216
+rohde-emil,"Rohde, Emil",1886,1892,2,0.65,116597224,"Rohde, Emil",1839.0,1913.0,False,Schauspieler; Schauspieler,,https://lobid.org/gnd/116597224
+rohde-emil,"Rohde, Emil",1886,1892,3,0.195,116597232,"Rohde, Emil",1874.0,,False,Schauspieler,,https://lobid.org/gnd/116597232
+borchardt-ludwig,"Borchardt, Ludwig",1888,1898,1,0.75,116246243,"Borchardt, Ludwig",1863.0,1938.0,False,Ägyptologe; Architekt,Deutsches Institut für Ägyptische Altertumskunde in Kairo; Borchardt-Institut für Ägyptische Bauforschung und Altertumskunde,https://lobid.org/gnd/116246243
+borchardt-ludwig,"Borchardt, Ludwig",1888,1898,2,0.67,1054445818,"Borchardt, Ludwig",1816.0,1883.0,False,Arzt,,https://lobid.org/gnd/1054445818
+boll-franz,"Boll, Franz",1875,1877,1,0.75,118513060,"Boll, Franz",1849.0,1879.0,False,Arzt; Physiologe,,https://lobid.org/gnd/118513060
+boll-franz,"Boll, Franz",1875,1877,2,0.75,118661191,"Boll, Franz",1805.0,1875.0,False,Theologe; Pfarrer; Pädagoge; Historiker,,https://lobid.org/gnd/118661191
+hermann-leonhard-david,"Hermann, Leonhard David",1734,1781,1,0.65,128898208,"Hermann, Leonhard David",1670.0,1736.0,False,Pfarrer; Heimatkundler,,https://lobid.org/gnd/128898208
+blau-otto,"Blau, Otto",1855,1870,1,0.65,116200790,"Blau, Ernst Otto Friedrich August",1828.0,1879.0,False,Orientalist; Konsul; Diplomat,,https://lobid.org/gnd/116200790
+kruger-paul,"Krüger, Paul",1879,1880,1,0.75,116563540,"Krüger, Paul",1840.0,1926.0,False,Jurist,,https://lobid.org/gnd/116563540
+kruger-paul,"Krüger, Paul",1879,1880,2,0.75,118778099,"Kruger, Paul",1825.0,1904.0,False,Politiker; Präsident,,https://lobid.org/gnd/118778099
+kruger-paul,"Krüger, Paul",1879,1880,3,0.65,1077504918,"Krueger, Paul",1847.0,1914.0,False,Oberlehrer,,https://lobid.org/gnd/1077504918
+hopf-karl,"Hopf, Karl",1862,1864,1,0.75,1210885387,"Hopf, Karl Sebastian",1808.0,1889.0,False,Pfarrer; Lutherischer Theologe; Dekan <Kirche>,,https://lobid.org/gnd/1210885387
+hopf-karl,"Hopf, Karl",1862,1864,2,0.75,116981288,"Hopf, Carl",1832.0,1873.0,False,Historiker; Byzantinist; Hochschullehrer; Bibliothekar,,https://lobid.org/gnd/116981288
+hopf-karl,"Hopf, Karl",1862,1864,3,0.65,1166333884,"Hopf, Karl",1808.0,1889.0,False,Pfarrer,,https://lobid.org/gnd/1166333884
+auerbach-leopold,"Auerbach, Leopold",1890,1893,1,0.825,116859709,"Auerbach, Leopold",1828.0,1897.0,False,Arzt; Neurologe; Anatom; Pathologe,Universität Breslau; Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116859709
+auerbach-leopold,"Auerbach, Leopold",1890,1893,2,0.75,129632228,"Auerbach, Leopold",1847.0,1925.0,False,Jurist; Schriftsteller; Journalist,,https://lobid.org/gnd/129632228
+auerbach-leopold,"Auerbach, Leopold",1890,1893,3,0.75,123585180X,"Auerbach, Leopold",1857.0,1936.0,False,Arzt; Neurologe,,https://lobid.org/gnd/123585180X
+will-ludwig,"Will, Ludwig",1889,1898,1,0.75,117386790,"Will, Ludwig",1861.0,1946.0,False,Zoologe; Hochschullehrer,Universität Rostock,https://lobid.org/gnd/117386790
+will-ludwig,"Will, Ludwig",1889,1898,2,0.75,101785341X,"Willutzky, Ludwig Oskar",1847.0,1932.0,False,Schauspieler; Schriftsteller; Regisseur; Regisseur,,https://lobid.org/gnd/101785341X
+hildebrandt-johann-maria,"Hildebrandt, Johann Maria",1875,1880,1,0.65,116804211,"Hildebrandt, Johann Maria",1847.0,1881.0,False,,,https://lobid.org/gnd/116804211
+clairaut-jean-baptiste,"Clairaut, Jean Baptiste",1734,1743,1,0.67,1160412200,"Clairaut, Jean-Baptiste",1716.0,1733.0,False,Mathematiker; Geodät,,https://lobid.org/gnd/1160412200
+mendelssohn-moritz,"Mendelssohn, Moritz",1882,1885,1,0.282,1384086668,"Mendelsohn, Felix",,1933.0,False,Redakteur,,https://lobid.org/gnd/1384086668
+langerhans-paul,"Langerhans, Paul",1877,1878,1,0.75,104242213,"Langerhans, Paul",1820.0,1909.0,False,Arzt; Politiker; Abgeordneter,Deutsches Reich. Reichstag,https://lobid.org/gnd/104242213
+langerhans-paul,"Langerhans, Paul",1877,1878,2,0.75,118847031,"Langerhans, Paul",1847.0,1888.0,False,Arzt,Zoologischer Garten Berlin. Aquarium,https://lobid.org/gnd/118847031
+gottsche-karl,"Gottsche, Karl",1886,1887,1,0.75,116798025,"Gottsche, Carl",1855.0,1909.0,False,Geologe; Mineraloge; Paläontologe,Mineralogisch-Geologisches Institut (Hamburg); Tōkyō Daigaku; Naturhistorisches Museum (Hamburg),https://lobid.org/gnd/116798025
+gottsche-karl,"Gottsche, Karl",1886,1887,2,0.745,117550434,"Gottsche, Karl Moritz",1808.0,1892.0,False,Arzt; Botaniker,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/117550434
+harold-edgar-freiherr-von,"Harold, Edgar Freiherr von",1878,1880,1,0.65,116483806,"Harold, Edgar von",1830.0,1886.0,False,Major,,https://lobid.org/gnd/116483806
+bauer-max,"Bauer, Max",1877,1881,1,0.825,116085614,"Bauer, Max",1844.0,1917.0,False,Geologe; Mineraloge; Hochschullehrer; Schriftsteller,Königliche Albertus-Universität zu Königsberg i. Pr.; Philipps-Universität Marburg; Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116085614
+bauer-max,"Bauer, Max",1877,1881,2,0.75,113668775,"Bauer, Max",1829.0,1914.0,False,Schriftsteller; Jurist; Landwirt,,https://lobid.org/gnd/113668775
+bauer-max,"Bauer, Max",1877,1881,3,0.57,118653768,"Bauer, Max",1861.0,1932.0,False,Publizist; Journalist,,https://lobid.org/gnd/118653768
+wiebe-hermann-friedrich,"Wiebe, Hermann Friedrich",1884,1885,1,0.65,173171729,"Wiebe, Hermann F.",1852.0,,False,,,https://lobid.org/gnd/173171729
+hildebrand-friedrich,"Hildebrand, Friedrich",1866,1872,1,0.825,116802502,"Hildebrand, Friedrich",1835.0,1915.0,False,Botaniker,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116802502
+hildebrand-friedrich,"Hildebrand, Friedrich",1866,1872,2,0.75,118550942,"Hildebrand, Bruno",1812.0,1878.0,False,Wirtschaftswissenschaftler; Staatswissenschaftler; Jurist; Politiker,Friedrich-Schiller-Universität Jena; Philipps-Universität Marburg,https://lobid.org/gnd/118550942
+hildebrand-friedrich,"Hildebrand, Friedrich",1866,1872,3,0.65,1314903101,"Hildebrand, Friedrich Wilhelm",1833.0,1944.0,False,Oberlehrer,,https://lobid.org/gnd/1314903101
+hertz-martin,"Hertz, Martin",1847,1891,1,0.75,116754427,"Hertz, Martin",1818.0,1895.0,False,Philologe; Klassischer Philologe,,https://lobid.org/gnd/116754427
+hertz-martin,"Hertz, Martin",1847,1891,2,0.75,117523437,"Hertz, Martin",1817.0,1879.0,False,Politiker,,https://lobid.org/gnd/117523437
+schneider-anton,"Schneider, Anton",1856,1861,1,0.825,116822759,"Schneider, Friedrich Anton",1831.0,1890.0,False,Zoologe; Cytologe,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116822759
+schneider-anton,"Schneider, Anton",1856,1861,2,0.75,106753122X,"Schneider, Anton",1798.0,1867.0,False,Pädagoge; Schulleiter; Schriftsteller,,https://lobid.org/gnd/106753122X
+schneider-anton,"Schneider, Anton",1856,1861,3,0.67,143479296,"Schneider, Anton Rudolf",1841.0,1900.0,False,Politiker; Gymnasiallehrer; Zoologe,Deutsche Königliche Böhmische Landwirtschaftliche Landesmittelschule in Kaaden,https://lobid.org/gnd/143479296
+schmidt-karl,"Schmidt, Karl",1891,1896,1,0.825,117644293,"Schmidt, Karl Eduard Franz",1862.0,1946.0,False,Physiker; Hochschullehrer,Königliche Albertus-Universität zu Königsberg i. Pr.; Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher; Kaiser-Wilhelms-Universität Straßburg,https://lobid.org/gnd/117644293
+schmidt-karl,"Schmidt, Karl",1891,1896,2,0.75,142011479,"Schmidt, Karl",1869.0,1948.0,False,Gymnasiallehrer; Klassischer Philologe; Pädagoge; Musiklehrer,Königliches Konservatorium der Musik zu Leipzig; Großherzoglich Hessisches Gymnasium Fridericianum (Laubach),https://lobid.org/gnd/142011479
+schmidt-karl,"Schmidt, Karl",1891,1896,3,0.75,1053271743,"Schmidt, Karl",1830.0,,False,Pädagoge; Gymnasiallehrer; Klassischer Philologe; Lateinlehrer,,https://lobid.org/gnd/1053271743
+gross-theodor,"Gross, Theodor",1877,1879,1,0.65,1055351116,"Gross, Theodor",1846.0,1913.0,False,,,https://lobid.org/gnd/1055351116
+gross-theodor,"Gross, Theodor",1877,1879,2,0.442,120034050,"Groß, Theodor Hermann",1819.0,,False,,,https://lobid.org/gnd/120034050
+schumann-karl,"Schumann, Karl",1889,1900,1,0.825,117294713,"Schumann, Karl",1851.0,1904.0,False,Botaniker,Botanisches Museum zu Berlin; Deutsche Kakteen-Gesellschaft; Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/117294713
+schumann-karl,"Schumann, Karl",1889,1900,2,0.75,130681075,"Schumann, Carl",1828.0,,False,Arzt,,https://lobid.org/gnd/130681075
+schumann-karl,"Schumann, Karl",1889,1900,3,0.67,1159532508,"Schumann, Carl",1872.0,1943.0,False,Mundartschriftsteller; Tischler,,https://lobid.org/gnd/1159532508
+schultz-sellack-karl,"Schultz-sellack, Karl",1869,1871,1,0.55,1159096171,"Schultz-Sellack, Karl",,,False,,,https://lobid.org/gnd/1159096171
+schubring-julius,"Schubring, Julius",1865,1866,1,0.75,133675491,"Schubring, Julius",1839.0,1914.0,False,Klassischer Philologe; Pädagoge; Gymnasiallehrer,Katharineum zu Lübeck,https://lobid.org/gnd/133675491
+schubring-julius,"Schubring, Julius",1865,1866,2,0.75,119020238,"Schubring, Julius",1806.0,1889.0,False,Theologe; Pfarrer; Diakon; Konsistorialrat,,https://lobid.org/gnd/119020238
+schulze-franz,"Schulze, Franz",1844,1855,1,0.75,115754016,"Schulze, Franz Ferdinand",1815.0,1873.0,False,Chemiker; Hochschullehrer,Universität Rostock,https://lobid.org/gnd/115754016
+schulze-franz,"Schulze, Franz",1844,1855,2,0.75,118762575,"Schulze-Delitzsch, Hermann",1808.0,1883.0,False,Politiker; Volkswirt; Jurist; Abgeordneter,Deutsche Fortschrittspartei,https://lobid.org/gnd/118762575
+schulze-franz,"Schulze, Franz",1844,1855,3,0.67,104297824,"Schulze, Franz",1764.0,1844.0,False,Pfarrer; Evangelischer Theologe,,https://lobid.org/gnd/104297824
+schroeder-paul,"Schroeder, Paul",1872,1884,1,0.75,117646571,"Schroeder, Paul",1844.0,1912.0,False,Konsul; Klassischer Philologe; Orientalist; Philologe,,https://lobid.org/gnd/117646571
+schroeder-paul,"Schroeder, Paul",1872,1884,2,0.75,117079073,"Schroeder, Paul",1851.0,1900.0,False,Schauspieler; Schriftsteller; Schauspieler; Schriftsteller,,https://lobid.org/gnd/117079073
+schroeder-paul,"Schroeder, Paul",1872,1884,3,0.75,131787764,"Schroeder, Paul",1841.0,,False,Arzt,,https://lobid.org/gnd/131787764
+spiess-n,"Spiess, N",1727,1781,1,0.235,130803154,Spiess,,,False,,,https://lobid.org/gnd/130803154
+spiess-n,"Spiess, N",1727,1781,2,0.225,132309386,"Spiess, Fred Noel",1919.0,,False,Physiker; Meereskundler,,https://lobid.org/gnd/132309386
+spiess-n,"Spiess, N",1727,1781,3,0.195,1319068944,"Spiess, Johann Nepomuk",1838.0,1887.0,False,Maler; Künstler,,https://lobid.org/gnd/1319068944
+holst-gabriel,"Holst, Gabriel",1727,1781,1,0.55,1157526381,"Holst, Gabriel",,,False,,,https://lobid.org/gnd/1157526381
+holst-gabriel,"Holst, Gabriel",1727,1781,2,0.111,117453528,"Scott, Gabriel",1874.0,1958.0,False,Schriftsteller,,https://lobid.org/gnd/117453528
+johrenius-martin-daniel,"Johrenius, Martin Daniel",1727,1781,1,0.195,100364098,"Johren, Martin Daniel",,1718.0,False,,,https://lobid.org/gnd/100364098
+johrenius-martin-daniel,"Johrenius, Martin Daniel",1727,1781,2,0.094,124496008,"Johren, Conrad",1653.0,1715.0,False,Arzt,Königliches Joachimsthalsches Gymnasium. Bibliothek,https://lobid.org/gnd/124496008
+kruger,Krüger,1844,1844,1,0.57,104705938X,"Krüger, Carl",1815.0,1883.0,False,Abgeordneter; Jurist; Justizbeamter; Abgeordneter,Mecklenburg. Abgeordnetenversammlung,https://lobid.org/gnd/104705938X
+kruger,Krüger,1844,1844,2,0.49,118778099,"Kruger, Paul",1825.0,1904.0,False,Politiker; Präsident,,https://lobid.org/gnd/118778099
+kruger,Krüger,1844,1844,3,0.49,120654466,"Krüger, Hermann",1828.0,,False,Arzt,,https://lobid.org/gnd/120654466
+krause-rudolf,"Krause, Rudolf",1897,1900,1,0.825,1055314733,"Krause, Rudolph",1834.0,1895.0,False,Arzt; Anthropologe,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/1055314733
+krause-rudolf,"Krause, Rudolf",1897,1900,2,0.75,1179406192,"Krause, Rudolf",1877.0,1915.0,False,Unternehmer; Politiker; Offizier,Der Wahlausschuß der rechtsstehenden Parteien (Sachsen-Gotha); Theodor Krause Zinnspielwarenfabrik,https://lobid.org/gnd/1179406192
+krause-rudolf,"Krause, Rudolf",1897,1900,3,0.75,117578517,"Krause, Rudolf",1865.0,1939.0,False,Anatom; Arzt,,https://lobid.org/gnd/117578517
+runge-karl,"Runge, Karl",1895,1895,1,0.75,1366493753,"Runge, Carl",1875.0,,False,Arzt,,https://lobid.org/gnd/1366493753
+runge-karl,"Runge, Karl",1895,1895,2,0.75,1316298086,"Runge, Carl",1859.0,1932.0,False,Theologe; Pfarrer,,https://lobid.org/gnd/1316298086
+runge-karl,"Runge, Karl",1895,1895,3,0.75,131368907,"Runge, Carl Friedrich Ferdinand",1834.0,,False,Arzt,,https://lobid.org/gnd/131368907
+schmidt-alexander,"Schmidt, Alexander",1861,1861,1,0.825,117644145,"Schmidt, Alexander",1831.0,1894.0,False,Physiologe,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/117644145
+schmidt-alexander,"Schmidt, Alexander",1861,1861,2,0.75,117121452,"Schmidt, Alexander",1838.0,1909.0,False,Schriftsteller; Journalist; Schriftsteller,,https://lobid.org/gnd/117121452
+schmidt-alexander,"Schmidt, Alexander",1861,1861,3,0.75,117644137,"Schmidt, Alexander",1816.0,1887.0,False,Philologe; Pädagoge; Schulleiter,,https://lobid.org/gnd/117644137
+forster-richard,"Förster, Richard",1885,1896,1,0.75,116643137,"Förster, Richard Carl Friedrich",1825.0,1902.0,False,Augenarzt; Sachbuchautor,,https://lobid.org/gnd/116643137
+forster-richard,"Förster, Richard",1885,1896,2,0.75,104083409,"Foerster, Richard",1843.0,1922.0,False,Archäologe; Klassischer Philologe; Altertumswissenschaftler; Kunsthistoriker,Universität Rostock; Christian-Albrechts-Universität zu Kiel; Universität Breslau,https://lobid.org/gnd/104083409
+forster-richard,"Förster, Richard",1885,1896,3,0.75,1207417300,"Förster, Richard",1862.0,,False,Kontrabassist; Musiker,Gewandhausorchester; Königliches Konservatorium der Musik zu Leipzig,https://lobid.org/gnd/1207417300
+busch-wilhelm,"Busch, Wilhelm",1849,1849,1,0.75,11718098X,"Busch, Wilhelm",1826.0,1881.0,False,Arzt; Chirurg,,https://lobid.org/gnd/11718098X
+busch-wilhelm,"Busch, Wilhelm",1849,1849,2,0.75,100065252,"Busch, Dietrich Wilhelm Heinrich",1788.0,1858.0,False,Arzt; Gynäkologe,Philipps-Universität Marburg,https://lobid.org/gnd/100065252
+busch-wilhelm,"Busch, Wilhelm",1849,1849,3,0.67,118517880,"Busch, Wilhelm",1832.0,1908.0,False,Schriftsteller; Karikaturist; Künstler; Lyriker,,https://lobid.org/gnd/118517880
+cohn-emil,"Cohn, Emil",1889,1891,1,0.75,116629150,"Cohn, Emil",1854.0,1944.0,False,Physiker; Hochschullehrer; Physiker,,https://lobid.org/gnd/116629150
+cohn-emil,"Cohn, Emil",1889,1891,2,0.67,1205164081,"Cohn, Emil",1872.0,,False,Arzt,,https://lobid.org/gnd/1205164081
+cohn-emil,"Cohn, Emil",1889,1891,3,0.65,129761710,"Cohn, Emil",1832.0,1905.0,False,Verleger; Unternehmer; Gutsherr,Gesellschaft der Freunde (Berlin),https://lobid.org/gnd/129761710
+du-bois-heinrich,"Du Bois, Heinrich",1890,1892,1,0.639,118527665,"Du Bois-Reymond, Emil",1818.0,1896.0,True,Arzt; Philosoph; Physiologe; Hochschullehrer,Friedrich-Wilhelms-Universität Berlin; Preußische Akademie der Wissenschaften; Königliche Akademie der Wissenschaften (Berlin),https://lobid.org/gnd/118527665
+du-bois-heinrich,"Du Bois, Heinrich",1890,1892,2,0.161,132771616,"Dubois, Hendrick",,1628.0,False,Künstler; Maler,,https://lobid.org/gnd/132771616
+mangoldt-hans,"Mangoldt, Hans",1894,1897,1,0.75,115525661,"Mangoldt, Hans von",1854.0,1925.0,False,Mathematiker; Hochschullehrer,Königliche Technische Hochschule Danzig; Rheinisch-Westfälische Technische Hochschule Aachen,https://lobid.org/gnd/115525661
+mangoldt-hans,"Mangoldt, Hans",1894,1897,2,0.75,1205831991,"Mangoldt, Hans Hermann Friedrich von",1857.0,1909.0,False,Chirurg,,https://lobid.org/gnd/1205831991
+mangoldt-hans,"Mangoldt, Hans",1894,1897,3,0.75,116731133,"Mangoldt, Karl von",1868.0,1945.0,False,Politiker,Institut für Gemeinwohl; Verein Reichs-Wohnungsgesetz,https://lobid.org/gnd/116731133
+duane-william,"Duane, William",1896,1896,1,0.65,1057658154,"Duane, William",1872.0,,False,,,https://lobid.org/gnd/1057658154
+duane-william,"Duane, William",1896,1896,2,0.195,1027362990,"Duane, William",1807.0,1882.0,False,,,https://lobid.org/gnd/1027362990
+frankel-max,"Fränkel, Max",1897,1898,1,0.75,116691611,"Fränkel, Max",1846.0,1903.0,False,Bibliothekar; Klassischer Philologe; Archäologe; Redakteur,Königliche Museen zu Berlin,https://lobid.org/gnd/116691611
+frankel-max,"Fränkel, Max",1897,1898,2,0.75,1038350654,"Fränkel, Max",1865.0,,False,Arzt,,https://lobid.org/gnd/1038350654
+frankel-max,"Fränkel, Max",1897,1898,3,0.57,1055850074,"Fraenkel, Max",1882.0,,False,,,https://lobid.org/gnd/1055850074
+albrecht-paul,"Albrecht, Paul",1885,1886,1,0.825,116283939,"Albrecht, Paul",1851.0,1894.0,False,Arzt; Anatom; Philologe,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116283939
+albrecht-paul,"Albrecht, Paul",1885,1886,2,0.75,116284110,"Albrecht, Paul",1845.0,1923.0,False,Klassischer Philologe; Lehrer,,https://lobid.org/gnd/116284110
+albrecht-paul,"Albrecht, Paul",1885,1886,3,0.75,130847577,"Albrecht, Paul",1863.0,,False,Schriftsteller; Eisenbahner,,https://lobid.org/gnd/130847577
+wolff-julius,"Wolff, Julius",1884,1884,1,0.825,117441295,"Wolff, Julius",1836.0,1902.0,False,Chirurg; Arzt,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/117441295
+wolff-julius,"Wolff, Julius",1884,1884,2,0.75,121830780,"Wolff, Julius",1816.0,,False,Arzt,,https://lobid.org/gnd/121830780
+wolff-julius,"Wolff, Julius",1884,1884,3,0.75,1055226303,"Wolff, Julius",1858.0,,False,Jurist,,https://lobid.org/gnd/1055226303
+wolf-rudolf,"Wolf, Rudolf",1852,1852,1,0.75,119160358,"Wolf, Rudolf",1816.0,1893.0,False,Astronom; Mathematiker; Historiker; Hochschullehrer,Eidgenössische Sternwarte (Zürich); Naturforschende Gesellschaft in Zürich; Eidgenössisches Polytechnicum,https://lobid.org/gnd/119160358
+wolf-rudolf,"Wolf, Rudolf",1852,1852,2,0.65,1107070996,"Wolf, Rudolf",1831.0,1910.0,False,Konstrukteur; Unternehmer,,https://lobid.org/gnd/1107070996
+wolf-rudolf,"Wolf, Rudolf",1852,1852,3,0.225,1058149377,"Volf, Rudolf",1838.0,1926.0,False,Theologe; Pfarrer,,https://lobid.org/gnd/1058149377
+henning-karl-andreas,"Henning, Karl Andreas",1727,1727,1,0.65,144037998,"Hennings, Karl Andreas",1693.0,1729.0,False,Gymnasiallehrer,Berlinisches Gymnasium Zum Grauen Kloster,https://lobid.org/gnd/144037998
+hertel-christian-gottlieb,"Hertel, Christian Gottlieb",1727,1727,1,0.75,131807471,"Hertel, Christian Gottlieb",1683.0,1743.0,False,Mathematiker,,https://lobid.org/gnd/131807471
+hertel-christian-gottlieb,"Hertel, Christian Gottlieb",1727,1727,2,0.75,123913217,"Härtel, Christian Gottlieb",1679.0,,False,Jurist,,https://lobid.org/gnd/123913217
+wentzel-georg,"Wentzel, Georg",1895,1895,1,0.75,1032150599,"Wentzel, Georg",1869.0,,False,Arzt,,https://lobid.org/gnd/1032150599
+wentzel-georg,"Wentzel, Georg",1895,1895,2,0.75,117293938,"Wentzel, Georg",1862.0,1919.0,False,Klassischer Philologe,,https://lobid.org/gnd/117293938
+maurer-julius,"Maurer, Julius",1887,1887,1,0.75,11685572X,"Maurer, Julius",1857.0,1938.0,False,Meteorologe; Astronom,Schweizerische Meteorologische Zentralanstalt,https://lobid.org/gnd/11685572X
+maurer-julius,"Maurer, Julius",1887,1887,2,0.65,1050969111,"Maurer, Julius",1855.0,1922.0,False,Maler; Tiermaler,,https://lobid.org/gnd/1050969111
+maurice-frederic-baron,"Maurice, Frédéric Baron",1804,1804,1,0.75,1052753523,"Maurice, Frédéric-Guillaume",1750.0,1826.0,False,Rechtsanwalt; Politiker; Meteorologe; Agrarwissenschaftler,,https://lobid.org/gnd/1052753523
+maurice-frederic-baron,"Maurice, Frédéric Baron",1804,1804,2,0.75,117557625,"Maurice, Frédéric de",1775.0,1851.0,False,Mathematiker,,https://lobid.org/gnd/117557625
+meissel-ernst,"Meissel, Ernst",1889,1889,1,0.65,116864079,"Meissel, Ernst",1826.0,1895.0,False,,,https://lobid.org/gnd/116864079
+melanderhjelm-daniel,"Melanderhjelm, Daniel",1804,1804,1,0.67,116872470,"Melanderhielm, Daniel",1726.0,1810.0,False,Astronom,Uppsala universitet,https://lobid.org/gnd/116872470
+fournier-theodor,"Fournier, Theodor",1863,1863,1,0.55,116677821,"Fournier, Theodor",,,False,Lehrer,,https://lobid.org/gnd/116677821
+moritz-bernhard,"Moritz, Bernhard",1890,1890,1,0.65,116929251,"Moritz, Bernhard",1859.0,1939.0,False,Orientalist; Arabist,,https://lobid.org/gnd/116929251
+morsch-hermann,"Morsch, Hermann",1851,1851,1,0.65,1398707910,"Morsch, Julius Hermann",1809.0,1869.0,False,,,https://lobid.org/gnd/1398707910
+morsch-hermann,"Morsch, Hermann",1851,1851,2,0.55,117088765,"Moersch, Hermann",,,False,,,https://lobid.org/gnd/117088765
+morsch-hermann,"Morsch, Hermann",1851,1851,3,0.144,1062311043,"Wetzke, Eva",1924.0,,False,Fernsehredakteurin; Theaterwissenschaftlerin; Schauspielerin,,https://lobid.org/gnd/1062311043
+meyer-wilhelm,"Meyer, Wilhelm",1890,1890,1,0.825,117556696,"Meyer, Wilhelm Franz",1856.0,1934.0,False,Mathematiker,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/117556696
+meyer-wilhelm,"Meyer, Wilhelm",1890,1890,2,0.75,1255159227,"Meyer, Wilhelm",1868.0,,False,Arzt,,https://lobid.org/gnd/1255159227
+meyer-wilhelm,"Meyer, Wilhelm",1890,1890,3,0.75,1273287959,"Meyer, Wilhelm",1844.0,1944.0,False,Grafiker,,https://lobid.org/gnd/1273287959
+frenzel-johannes,"Frenzel, Johannes",1883,1883,1,0.65,1055413782,"Frenzel, Johannes",1858.0,1897.0,False,,,https://lobid.org/gnd/1055413782
+frenzel-johannes,"Frenzel, Johannes",1883,1883,2,0.65,120033534,"Frenzel, Johann",1817.0,,False,,,https://lobid.org/gnd/120033534
+frey-karl,"Frey, Karl",1883,1883,1,0.75,1012264459,"Frey, Karl",1818.0,1895.0,False,Politiker,,https://lobid.org/gnd/1012264459
+frey-karl,"Frey, Karl",1883,1883,2,0.75,116784024,"Frey, Karl",1857.0,1917.0,False,Kunsthistoriker; Hochschullehrer,,https://lobid.org/gnd/116784024
+frey-karl,"Frey, Karl",1883,1883,3,0.75,141593687,"Frey, Carl von",1826.0,1896.0,False,Kaufmann; Musiker; Maler; Kunstsammler,,https://lobid.org/gnd/141593687
+ferber-johann-jakob,"Ferber, Johann Jakob",1796,1796,1,0.247,118686690,"Ferber, Johann Jacob",1743.0,1790.0,False,Physiker; Mineraloge,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher; Academia Petrina (Mitau),https://lobid.org/gnd/118686690
+moricke-wilhelm,"Möricke, Wilhelm",1896,1896,1,0.225,138395616,"Möricke, Wilhelm",1891.0,1897.0,False,Paläontologe; Geologe,,https://lobid.org/gnd/138395616
+moricke-wilhelm,"Möricke, Wilhelm",1896,1896,2,0.225,1397451394,"Möricke, Carl Friedrich Wilhelm",1770.0,1859.0,False,Apotheker,,https://lobid.org/gnd/1397451394
+moricke-wilhelm,"Möricke, Wilhelm",1896,1896,3,0.118,1012719170,"Möricke, Carl Abraham",1806.0,1874.0,False,Apotheker; Arzt,,https://lobid.org/gnd/1012719170
+curtius-karl,"Curtius, Karl",1876,1876,1,0.75,116766859,"Curtius, Carl",1841.0,1921.0,False,Bibliothekar; Gymnasiallehrer; Oberlehrer; Klassischer Philologe,,https://lobid.org/gnd/116766859
+curtius-karl,"Curtius, Karl",1876,1876,2,0.75,11676662X,"Curtius, Friedrich",1851.0,1933.0,False,Jurist; Theologe,,https://lobid.org/gnd/11676662X
+curtius-karl,"Curtius, Karl",1876,1876,3,0.225,116766824,"Curtius, Karl",1863.0,1934.0,False,Verleger; Jurist,Karl Curtius (Firma); Williams & Norgate,https://lobid.org/gnd/116766824
+naude-philipp-der-altere,"Naudé, Philipp der ältere",1727,1727,1,1.0,138677123,"Naudé, Philipp",1684.0,1745.0,True,Mathematiker,,https://lobid.org/gnd/138677123
+naude-philipp-der-altere,"Naudé, Philipp der ältere",1727,1727,2,0.92,129964026,"Naudé, Philippe",1654.0,1729.0,True,Mathematiker,,https://lobid.org/gnd/129964026
+nichols-ernest-fox,"Nichols, Ernest Fox",1896,1896,1,0.65,1055470360,"Nichols, Ernest Fox",1869.0,1924.0,False,,,https://lobid.org/gnd/1055470360
+erdmann-oskar,"Erdmann, Oskar",1880,1880,1,0.65,116531045,"Erdmann, Oskar",1846.0,1895.0,False,Germanist; Lehrer,Universität Breslau; Königliches König-Wilhelms-Gymnasium; Christian-Albrechts-Universität zu Kiel,https://lobid.org/gnd/116531045
+marshall-william,"Marshall, William",1884,1884,1,0.825,116792965,"Marshall, William",1845.0,1907.0,False,Biologe; Zoologe; Übersetzer,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116792965
+marshall-william,"Marshall, William",1884,1884,2,0.75,1196630321,"Marshall, William Rainey",1825.0,1896.0,False,Gouverneur; Politiker; Brigadegeneral,Republican Party (USA),https://lobid.org/gnd/1196630321
+marshall-william,"Marshall, William",1884,1884,3,0.67,143706543,"Marshall, William Stanley",1866.0,1947.0,False,Biologe; Zoologe; Botaniker,,https://lobid.org/gnd/143706543
+liebig-georg-freiherr-von,"Liebig, Georg Freiherr von",1850,1850,1,0.75,116996889,"Liebig, Georg von",1827.0,1903.0,False,Arzt,,https://lobid.org/gnd/116996889
+liebig-georg-freiherr-von,"Liebig, Georg Freiherr von",1850,1850,2,0.75,1104279193,"Liebig, Georg Karl",1818.0,1870.0,False,Apotheker,,https://lobid.org/gnd/1104279193
+lohmann-friedrich,"Lohmann, Friedrich",1898,1898,1,0.75,132748851,"Lohmann, Friedrich Wilhelm",1875.0,1952.0,False,Historiker; Pfarrer; Archivar; Katholischer Theologe,,https://lobid.org/gnd/132748851
+lohmann-friedrich,"Lohmann, Friedrich",1898,1898,2,0.75,104102357,"Lohmann, Friedrich",1869.0,1956.0,False,Syndikusanwalt; Wirtschaftshistoriker,,https://lobid.org/gnd/104102357
+lohmann-friedrich,"Lohmann, Friedrich",1898,1898,3,0.65,1281783188,"Lohmann, Friedrich",1876.0,,False,,,https://lobid.org/gnd/1281783188
+landauer-samuel,"Landauer, Samuel",1884,1884,1,0.65,116671920,"Landauer, Samuel",1846.0,1937.0,False,Orientalist,,https://lobid.org/gnd/116671920
+futterer-karl,"Futterer, Karl",1893,1893,1,0.75,116879211,"Futterer, Karl",1866.0,1906.0,False,Geologe; Mineraloge; Hochschullehrer; Forschungsreisender,Museum für Naturkunde Berlin; Technische Hochschule Karlsruhe; Friedrich-Wilhelms-Universität Berlin,https://lobid.org/gnd/116879211
+futterer-karl,"Futterer, Karl",1893,1893,2,0.65,118694367,"Futterer, Carl",1873.0,1927.0,False,Komponist; Komponist; Lehrer,,https://lobid.org/gnd/118694367
+ribbach-johann-ernst,"Ribbach, Johann Ernst",1793,1793,1,0.65,1012023907,"Ribbach, Johann Ernst",1729.0,1795.0,False,Pfarrer,,https://lobid.org/gnd/1012023907
+cohn-leopold,"Cohn, Leopold",1891,1891,1,0.75,128190043,"Cohn, Leopold",1856.0,1915.0,False,Klassischer Philologe; Bibliothekar,,https://lobid.org/gnd/128190043
+cohn-leopold,"Cohn, Leopold",1891,1891,2,0.65,116650230,"Connard, Leo",1860.0,1931.0,False,Schauspieler; Regisseur,,https://lobid.org/gnd/116650230
+cohnstein-wilhelm,"Cohnstein, Wilhelm",1896,1896,1,0.195,1052728235,"Cohnstein, Wilhelm Berkan",1799.0,,False,,,https://lobid.org/gnd/1052728235
+cuper-gisbert,"Cuper, Gisbert",1723,1723,1,0.201,100096093,"Cuper, Gisbert",1644.0,1716.0,False,Altertumswissenschaftler; Historiker; Politiker,,https://lobid.org/gnd/100096093
+gelzer-heinrich,"Gelzer, Heinrich",1872,1872,1,0.75,104123966,"Gelzer, Heinrich",1847.0,1906.0,False,Klassischer Philologe; Historiker; Byzantinist; Hochschullehrer,,https://lobid.org/gnd/104123966
+gelzer-heinrich,"Gelzer, Heinrich",1872,1872,2,0.75,118716751,"Gelzer, Johann Heinrich",1813.0,1889.0,False,Theologe; Historiker; Hochschullehrer; Politiker,,https://lobid.org/gnd/118716751
+langberg-christian,"Langberg, Christian",1845,1845,1,0.195,125047215,"Langberg, Christian Bjelland",1916.0,,False,,,https://lobid.org/gnd/125047215
+langberg-christian,"Langberg, Christian",1845,1845,2,0.166,100811698,"Longomontanus, Christen Sørensen",1562.0,1647.0,False,Mathematiker; Astronom,,https://lobid.org/gnd/100811698
+burg-otto,"Burg, Otto",1864,1864,1,0.55,1061779882,"Burg, Otto",,,False,Regisseur,,https://lobid.org/gnd/1061779882
+burg-otto,"Burg, Otto",1864,1864,2,0.55,126169365,"Bürgi, Otto",,,False,,,https://lobid.org/gnd/126169365
+burg-otto,"Burg, Otto",1864,1864,3,0.168,117433233,"Wollenberg, Otto",1898.0,1973.0,False,Journalist; Funktionär,Sozialdemokratische Partei Deutschlands; Kommunistische Partei Deutschlands (Deutsches Reich),https://lobid.org/gnd/117433233
+reiche-karl,"Reiche, Karl",1895,1895,1,0.75,116397845,"Reiche, Karl",1860.0,1929.0,False,Botaniker; Reisender,,https://lobid.org/gnd/116397845
+reiche-karl,"Reiche, Karl",1895,1895,2,0.75,1045161993,"Reiche, Alfred",1850.0,,False,Arzt,,https://lobid.org/gnd/1045161993
+reiche-karl,"Reiche, Karl",1895,1895,3,0.67,1046852078,"Reiche, Alfred",1877.0,,False,Tierarzt,,https://lobid.org/gnd/1046852078
+lamansky-sergei,"Lamansky, Sergei",1871,1871,1,0.65,117574147,"Lamansky, Sergei J...",,,False,Physiker,,https://lobid.org/gnd/117574147
+krause-hermann,"Krause, Hermann",1883,1883,1,0.75,116399295,"Krause, Hermann",1848.0,,False,Arzt,,https://lobid.org/gnd/116399295
+krause-hermann,"Krause, Hermann",1883,1883,2,0.75,1215215738,"Krause, Hermann",1854.0,,False,Botaniker,,https://lobid.org/gnd/1215215738
+krause-hermann,"Krause, Hermann",1883,1883,3,0.67,125125702X,"Krause, Hermann",1868.0,1935.0,False,Ministerialrat; Ministerialdirektor; Jurist; Amtsrichter,,https://lobid.org/gnd/125125702X
+robert-francois,"Robert, François",1793,1793,1,0.75,116575883,"Robert, François",1737.0,1819.0,False,Mathematiker; Geograf,,https://lobid.org/gnd/116575883
+robert-francois,"Robert, François",1793,1793,2,0.75,1089214308,"Robert, Pierre-François-Joseph",1763.0,1826.0,False,Politiker; Hochschullehrer; Journalist; Jurist,,https://lobid.org/gnd/1089214308
+salomon-wilhelm,"Salomon, Wilhelm",1896,1896,1,0.75,1336256990,"Salomon, Wilhelm",1851.0,,False,Arzt,,https://lobid.org/gnd/1336256990
+salomon-wilhelm,"Salomon, Wilhelm",1896,1896,2,0.75,116767340,"Salomon-Calvi, Wilhelm",1868.0,1941.0,False,Geologe; Paläontologe; Hochschullehrer,Universität Heidelberg; Universität Heidelberg. Geologisch-Paläontologisches Institut; Ankara Üniversitesi,https://lobid.org/gnd/116767340
+rose-karl,"Röse, Karl",1893,1893,1,0.75,119074699,"Roese, Carl",1864.0,1947.0,False,Zahnarzt; Privatdozent,,https://lobid.org/gnd/119074699
+rose-karl,"Röse, Karl",1893,1893,2,0.75,1036374777,"Roese, Eduard",1855.0,1918.0,False,Pädagoge; Schulleiter; Klassischer Philologe; Germanist,,https://lobid.org/gnd/1036374777
+rose-karl,"Röse, Karl",1893,1893,3,0.75,1143128621,"Rosa, Carl",1842.0,1889.0,False,Musiker; Dirigent; Theaterintendant; Geiger,Conservatorium der Musik,https://lobid.org/gnd/1143128621
+busse-friedrich,"Busse, Friedrich",1896,1896,1,0.75,133985989,"Busse, Friedrich Ernst von",1828.0,1916.0,False,Politiker; Abgeordneter; Gutsherr,Deutsches Reich. Reichstag,https://lobid.org/gnd/133985989
+busse-friedrich,"Busse, Friedrich",1896,1896,2,0.75,129625450,"Busse, Paul",1862.0,,False,Arzt,,https://lobid.org/gnd/129625450
+busse-friedrich,"Busse, Friedrich",1896,1896,3,0.65,136187188,"Busse, Friedrich",1835.0,1898.0,False,Reeder,,https://lobid.org/gnd/136187188
+krause-wilhelm,"Krause, Wilhelm",1886,1886,1,0.75,116400218,"Krause, Wilhelm",1833.0,1902.0,False,Arzt,,https://lobid.org/gnd/116400218
+krause-wilhelm,"Krause, Wilhelm",1886,1886,2,0.75,1076138462,"Krause, Wilhelm",1845.0,,False,Arzt,,https://lobid.org/gnd/1076138462
+krause-wilhelm,"Krause, Wilhelm",1886,1886,3,0.75,1141609479,"Krause, Wilhelm",1863.0,1935.0,False,Grafiker; Oberlehrer,Handwerker- und Kunstgewerbeschule Breslau,https://lobid.org/gnd/1141609479
+kruger-martin,"Krüger, Martin",1898,1898,1,0.75,101331753X,"Krüger, Martin Hermann",1866.0,,False,Chemiker,,https://lobid.org/gnd/101331753X
+kruger-martin,"Krüger, Martin",1898,1898,2,0.75,1331102650,"Krüger, Martin",1865.0,,False,Arzt,,https://lobid.org/gnd/1331102650
+saint-auban-marquis-de,"Saint-auban, Marquis de",1782,1782,1,0.47,130583901,"Baratier, Jacques Antoine",1713.0,1783.0,False,Generalleutnant,,https://lobid.org/gnd/130583901
+sala-luigi,"Sala, Luigi",1893,1893,1,0.65,117600245,"Sala, Luigi",,,False,Arzt,,https://lobid.org/gnd/117600245
+sala-luigi,"Sala, Luigi",1893,1893,2,0.55,104306092,"Salas, Luigi",,,False,,,https://lobid.org/gnd/104306092
+sala-luigi,"Sala, Luigi",1893,1893,3,0.306,1024307573,"Sala, Massimiliano",,,False,Autor; Musikwissenschaftler,,https://lobid.org/gnd/1024307573
+klatt-johannes,"Klatt, Johannes",1892,1892,1,0.75,116206020,"Klatt, Johannes",1852.0,1903.0,False,Orientalist; Bibliothekar,,https://lobid.org/gnd/116206020
+klatt-johannes,"Klatt, Johannes",1892,1892,2,0.75,1277022666,"Klatt, Johannes",1868.0,,False,Arzt,,https://lobid.org/gnd/1277022666
+buff-heinrich,"Buff, Heinrich",1876,1876,1,0.75,117153028,"Buff, Heinrich Ludwig",1828.0,1872.0,False,Hochschullehrer; Chemiker,,https://lobid.org/gnd/117153028
+buff-heinrich,"Buff, Heinrich",1876,1876,2,0.75,135697239,"Buff, Heinrich",1844.0,1902.0,False,Chemiker; Unternehmer,,https://lobid.org/gnd/135697239
+buff-heinrich,"Buff, Heinrich",1876,1876,3,0.67,117153001,"Buff, Johann Heinrich",1805.0,1878.0,False,Physiker; Chemiker; Hochschullehrer,Justus-Liebig-Universität Gießen,https://lobid.org/gnd/117153001
+schmidt-moriz,"Schmidt, Moriz",1874,1874,1,0.75,117515833,"Schmidt, Moritz",1823.0,1888.0,False,Klassischer Philologe; Gräzist; Gymnasiallehrer; Hochschullehrer,,https://lobid.org/gnd/117515833
+schmidt-moriz,"Schmidt, Moriz",1874,1874,2,0.65,103055871X,"Schmidt, Moriz",1834.0,1903.0,False,General,,https://lobid.org/gnd/103055871X
+schmitz-friedrich,"Schmitz, Friedrich",1883,1883,1,0.825,116815876,"Schmitz, Friedrich Karl Johann",1850.0,1895.0,False,Botaniker,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116815876
+schmitz-friedrich,"Schmitz, Friedrich",1883,1883,2,0.75,105579266X,"Schmitz, Friedrich",1827.0,1892.0,False,Schriftsteller,,https://lobid.org/gnd/105579266X
+schmitz-friedrich,"Schmitz, Friedrich",1883,1883,3,0.65,1025759702,"Schmitz, Friedrich",1862.0,1925.0,False,Pädagoge; Oberlehrer; Schulleiter,,https://lobid.org/gnd/1025759702
+schiller-nikolaj,"Schiller, Nikolaj",1875,1875,1,0.525,117643122,"Schiller, Nikolai Nikolajevitch",1848.0,1904.0,False,Physiker,,https://lobid.org/gnd/117643122
+schilling-gottfried-wilhelm,"Schilling, Gottfried Wilhelm",1772,1772,1,0.65,1055510524,"Schilling, Gottfried Wilhelm",,,False,Arzt,,https://lobid.org/gnd/1055510524
+schilling-gottfried-wilhelm,"Schilling, Gottfried Wilhelm",1772,1772,2,0.152,118607049,"Schelling, Caroline von",1763.0,1809.0,False,Schriftstellerin,,https://lobid.org/gnd/118607049
+schlesinger-ludwig,"Schlesinger, Ludwig",1898,1898,1,0.825,117326259,"Schlesinger, Ludwig",1864.0,1933.0,False,Mathematiker,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher; Rheinische Friedrich-Wilhelms-Universität Bonn; Budapesti Királyi Magyar Tudományegyetem,https://lobid.org/gnd/117326259
+schlesinger-ludwig,"Schlesinger, Ludwig",1898,1898,2,0.75,138214379,"Schlesinger, Ludwig",1838.0,1899.0,False,Politiker; Historiker; Lehrer; Schulleiter,,https://lobid.org/gnd/138214379
+schlesinger-ludwig,"Schlesinger, Ludwig",1898,1898,3,0.57,1030035334,"Schlesinger, Louis",1827.0,1900.0,False,Abenteurer,,https://lobid.org/gnd/1030035334
+schmidt-carl,"Schmidt, Carl",1895,1895,1,0.75,129842737,"Schmidt, Carl",1867.0,,False,Arzt,Christian-Albrechts-Universität zu Kiel,https://lobid.org/gnd/129842737
+schmidt-carl,"Schmidt, Carl",1895,1895,2,0.75,117494097,"Vorsteher-Schmidt, Carl August",1841.0,1903.0,False,Unternehmer; Schriftsteller,,https://lobid.org/gnd/117494097
+schmidt-carl,"Schmidt, Carl",1895,1895,3,0.67,1209622114,"Schmidt, Carl",1876.0,,False,Arzt,,https://lobid.org/gnd/1209622114
+schutt-franz,"Schütt, Franz",1892,1892,1,0.75,117139823,"Schütt, Franz",1859.0,1921.0,False,Botaniker; Hochschullehrer,Ernst-Moritz-Arndt-Universität Greifswald,https://lobid.org/gnd/117139823
+schutt-franz,"Schütt, Franz",1892,1892,2,0.745,1225893135,"Schütt, Franz",1874.0,1962.0,False,Maler; Grafiker,Königliche Akademie für Kunst und Kunstgewerbe (Breslau),https://lobid.org/gnd/1225893135
+schwartze-moritz-gotthilf,"Schwartze, Moritz Gotthilf",1848,1848,1,0.65,117653470,"Schwartze, Moritz Gotthilf",1802.0,1848.0,False,Orientalist,,https://lobid.org/gnd/117653470
+sieben-georg,"Sieben, Georg",1889,1889,1,0.65,1054315248,"Sieben, Georg",1855.0,,False,,,https://lobid.org/gnd/1054315248
+brandt-karl,"Brandt, Karl",1881,1881,1,0.825,116406151,"Brandt, Karl",1854.0,1931.0,False,Meeresbiologe; Zoologe,Albertus-Universität zu Königsberg i. Pr.; Christian-Albrechts-Universität zu Kiel. Zoologisches Institut; Kaiserliche Marine-Akademie und Schule,https://lobid.org/gnd/116406151
+brandt-karl,"Brandt, Karl",1881,1881,2,0.75,131431188,"Brandt, Carl August",1834.0,,False,Arzt,,https://lobid.org/gnd/131431188
+brandt-karl,"Brandt, Karl",1881,1881,3,0.75,101443706,"Brandt, Carl J.",1817.0,1889.0,False,Philologe,,https://lobid.org/gnd/101443706
+brinkmann-august,"Brinkmann, August",1894,1894,1,0.75,116519908,"Brinkmann, August",1863.0,1923.0,False,Philologe; Klassischer Philologe; Archäologe,Rheinische Friedrich-Wilhelms-Universität Bonn,https://lobid.org/gnd/116519908
+brinkmann-august,"Brinkmann, August",1894,1894,2,0.65,189465727,"Brinkmann, August",1846.0,1924.0,False,Kaufmann; Unternehmer,,https://lobid.org/gnd/189465727
+brinkmann-august,"Brinkmann, August",1894,1894,3,0.65,1331077354,"Brinkmann, August",1828.0,1897.0,False,,,https://lobid.org/gnd/1331077354
+brock-johannes,"Brock, Johannes",1886,1886,1,0.825,1243844272,"Brock, Johannes Georg",1852.0,1889.0,False,Zoologe; Anatom,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/1243844272
+brock-johannes,"Brock, Johannes",1886,1886,2,0.825,116526424,"Brock, Johann",1852.0,1889.0,False,Zoologe,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116526424
+bruckner-alexander,"Brückner, Alexander",1890,1890,1,0.75,118903039,"Brückner, Alexander",1834.0,1896.0,False,Historiker; Hochschullehrer,Universität Dorpat,https://lobid.org/gnd/118903039
+bruckner-alexander,"Brückner, Alexander",1890,1890,2,0.75,118515861,"Brückner, Aleksander",1856.0,1939.0,False,Philologe; Slawist; Hochschullehrer; Historiker,,https://lobid.org/gnd/118515861
+kiessling-johannes,"Kiessling, Johannes",1886,1886,1,0.65,102478597,"Kießling, Johannes",1839.0,1905.0,False,Lehrer,Königliches Joachimsthalsches Gymnasium; Gelehrtenschule des Johanneums,https://lobid.org/gnd/102478597
+hagen-otto,"Hagen, Otto",1858,1858,1,0.75,117642592,"Hagen, Otto Albert",1835.0,1862.0,False,Physiker,,https://lobid.org/gnd/117642592
+hagen-otto,"Hagen, Otto",1858,1858,2,0.65,101440316,"Hagen, Otto von",1817.0,1880.0,False,Förster,,https://lobid.org/gnd/101440316
+hagen-otto,"Hagen, Otto",1858,1858,3,0.195,1034748335,"Hagen, Otto von dem",1846.0,1927.0,False,Maler,,https://lobid.org/gnd/1034748335
+steinen-karl,"Steinen, Karl",1888,1888,1,0.825,117251992,"Steinen, Karl von den",1855.0,1929.0,False,Ethnologe; Forschungsreisender; Klassischer Philologe; Arzt,Museum für Völkerkunde Berlin; Linden-Museum Stuttgart; Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/117251992
+steinen-karl,"Steinen, Karl",1888,1888,2,0.75,121286517,"Steinen, Carl von den",1824.0,,False,Arzt,,https://lobid.org/gnd/121286517
+stephan-heinrich-von,"Stephan, Heinrich von",1886,1886,1,0.65,118798715,"Stephan, Heinrich von",1831.0,1897.0,False,,,https://lobid.org/gnd/118798715
+stephan-heinrich-von,"Stephan, Heinrich von",1886,1886,2,0.65,1082242446,"Stephan, Heinrich von",1858.0,1912.0,False,Schulleiter,,https://lobid.org/gnd/1082242446
+stephan-heinrich-von,"Stephan, Heinrich von",1886,1886,3,0.65,1329914961,"Stephan, Heinrich Carl",1819.0,1890.0,False,Inspizient; Opernsänger; Chorsänger,,https://lobid.org/gnd/1329914961
+strehlke-friedrich,"Strehlke, Friedrich",1850,1850,1,0.75,12116828X,"Strehlke, Friedrich",1825.0,1896.0,False,Pädagoge; Schulleiter; Literaturwissenschaftler,,https://lobid.org/gnd/12116828X
+strehlke-friedrich,"Strehlke, Friedrich",1850,1850,2,0.75,117313300,"Strehlke, Friedrich",1797.0,1886.0,False,Naturwissenschaftler,,https://lobid.org/gnd/117313300
+boehm-richard,"Boehm, Richard",1879,1879,1,0.75,116220589,"Boehm, Richard",1854.0,1884.0,False,Forschungsreisender; Zoologe; Anatom,,https://lobid.org/gnd/116220589
+boehm-richard,"Boehm, Richard",1879,1879,2,0.67,1036985970,"Böhm, Richard",1864.0,,False,Pädagoge; Oberlehrer; Naturwissenschaftler; Mathematiker,,https://lobid.org/gnd/1036985970
+boehm-richard,"Boehm, Richard",1879,1879,3,0.65,1081402059,"Boehm, Richard",1852.0,,False,,,https://lobid.org/gnd/1081402059
+bertrand-louis,"Bertrand, Louis",1755,1755,1,0.75,118658603,"Bertrand, Louis",1731.0,1812.0,False,Mathematiker; Selbstverleger,,https://lobid.org/gnd/118658603
+bertrand-louis,"Bertrand, Louis",1755,1755,2,0.65,1037624831,"Bertrand, Louis",1713.0,1779.0,False,Buchdrucker; Drucker; Buchhändler,,https://lobid.org/gnd/1037624831
+solbrig-david,"Solbrig, David",1723,1723,1,0.65,141112484,"Solbrig, David",1658.0,1730.0,False,Pfarrer; Superintendent,Königlich Preußische Sozietät der Wissenschaften,https://lobid.org/gnd/141112484
+hansemann-gustav,"Hansemann, Gustav",1877,1877,1,0.65,101882173,"Hansemann, Gustav",1829.0,1902.0,False,Unternehmer,,https://lobid.org/gnd/101882173
+jordan-heinrich,"Jordan, Heinrich",1867,1867,1,0.75,117182486,"Jordan, Heinrich",1833.0,1886.0,False,Klassischer Philologe; Historiker; Hochschullehrer,,https://lobid.org/gnd/117182486
+jordan-heinrich,"Jordan, Heinrich",1867,1867,2,0.75,140055584,"Jordan, Hendrich",1841.0,1910.0,False,Lehrer; Kantor; Übersetzer; Volkskundler,Maćica Serbska,https://lobid.org/gnd/140055584
+jordan-heinrich,"Jordan, Heinrich",1867,1867,3,0.65,1067931953,"Jordan, Theodor",1821.0,1890.0,False,,,https://lobid.org/gnd/1067931953
+joseph-max,"Joseph, Max",1888,1888,1,0.75,124531849,"Joseph, Max",1860.0,1932.0,False,Arzt; Hautarzt,,https://lobid.org/gnd/124531849
+joseph-max,"Joseph, Max",1888,1888,2,0.65,1164105744,"Yosef, Maḳs",1868.0,1950.0,False,Rabbiner,,https://lobid.org/gnd/1164105744
+stein-ludwig,"Stein, Ludwig",1888,1888,1,0.75,117243469,"Stein, Ludwig",1868.0,1934.0,False,Schriftsteller; Dramatiker,,https://lobid.org/gnd/117243469
+stein-ludwig,"Stein, Ludwig",1888,1888,2,0.75,1036151344,"Stein, Ludwig",1864.0,1942.0,False,Arzt; Internist; Neurologe,,https://lobid.org/gnd/1036151344
+stein-ludwig,"Stein, Ludwig",1888,1888,3,0.75,117243426,"Stein, Ludwig",1859.0,1930.0,False,Philosoph; Rabbiner; Publizist,Eidgenössisches Polytechnicum; Universität Bern; Universität Zürich,https://lobid.org/gnd/117243426
+stadelmann-hermann,"Stadelmann, Hermann",1895,1895,1,0.75,1209641488,"Stadelmann, Hermann",1862.0,,False,Zoologe,,https://lobid.org/gnd/1209641488
+stadelmann-hermann,"Stadelmann, Hermann",1895,1895,2,0.65,1370630875,"Stadelmann, Hermann",1867.0,,False,,,https://lobid.org/gnd/1370630875
+velsen-arthur-von,"Velsen, Arthur von",1856,1856,1,0.65,104286288,"Velsen, Arthur von",1826.0,,False,,,https://lobid.org/gnd/104286288
+villari-emilio,"Villari, Emilio",1865,1865,1,0.55,1056175869,"Villarino, Emilio",,,False,,,https://lobid.org/gnd/1056175869
+jaffe-benno,"Jaffé, Benno",1864,1864,1,0.65,1065464541,"Jaffé, Benno",1840.0,,False,,,https://lobid.org/gnd/1065464541
+tonnies-friedrich-wilhelm,"Tönnies, Friedrich Wilhelm",1819,1819,1,0.65,123076269,"Tönnies, Friedrich Wilhelm",1796.0,1817.0,False,,,https://lobid.org/gnd/123076269
+huth-georg,"Huth, Georg",1895,1895,1,0.75,117073563,"Huth, Georg",1867.0,1906.0,False,Philologe; Tibetologe; Mongolist; Indologe,Museum für Völkerkunde Berlin,https://lobid.org/gnd/117073563
+huth-georg,"Huth, Georg",1895,1895,2,0.65,1037902440,"Huth, Georg",1858.0,,False,Pädagoge; Oberlehrer; Gymnasiallehrer,,https://lobid.org/gnd/1037902440
+huth-georg,"Huth, Georg",1895,1895,3,0.57,1026035708,"Huth, Theodor",1821.0,1896.0,False,Maler; Landschaftsmaler; Fotograf,,https://lobid.org/gnd/1026035708
+hartmann-johannes,"Hartmann, Johannes",1898,1898,1,0.825,11649848X,"Hartmann, J.",1865.0,1936.0,False,Astronom,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher; Universidad Nacional de La Plata. Observatorio Astronómico; Sternwarte Göttingen,https://lobid.org/gnd/11649848X
+hartmann-johannes,"Hartmann, Johannes",1898,1898,2,0.75,1355499577,"Hartmann, Johannes",1878.0,,False,Arzt,,https://lobid.org/gnd/1355499577
+hartmann-johannes,"Hartmann, Johannes",1898,1898,3,0.75,1029421803,"Hartmann, Johann Philipp",1829.0,,False,Jurist; Theologe,,https://lobid.org/gnd/1029421803
+heder-johann-elias,"Heder, Johann Elias",1727,1727,1,0.65,1014286697,"Heder, Johann Elias",1674.0,1722.0,False,Prediger,,https://lobid.org/gnd/1014286697
+bergemann-karl,"Bergemann, Karl",1851,1851,1,0.825,117586994,"Bergemann, Karl Wilhelm",1804.0,1884.0,False,Chemiker,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/117586994
+bergemann-karl,"Bergemann, Karl",1851,1851,2,0.75,1052890342,"Bergemann, Carolus",1803.0,,False,Chemiker,,https://lobid.org/gnd/1052890342
+batigne,Batigne,1772,1772,1,0.645,102642761,"Batigne, Paul",,1773.0,False,Arzt,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/102642761
+batigne,Batigne,1772,1772,2,0.57,117768561,"Beatigné, Paul",,1773.0,False,Arzt,,https://lobid.org/gnd/117768561
+batigne,Batigne,1772,1772,3,0.171,134779215,"Batigne, Jean",1933.0,2015.0,False,Musiker; Schlagzeuger,,https://lobid.org/gnd/134779215
+vockerodt-johann-gotthilf,"Vockerodt, Johann Gotthilf",1758,1758,1,0.65,13310429X,"Vockerodt, Johann Gotthilf",1693.0,1757.0,False,Diplomat; Geheimer Rat,,https://lobid.org/gnd/13310429X
+bekker-ernst-immanuel,"Bekker, Ernst Immanuel",1898,1898,1,0.67,118655027,"Bekker, Ernst Immanuel",1827.0,1916.0,False,Jurist; Hochschullehrer,Universität Heidelberg; Ernst-Moritz-Arndt-Universität Greifswald,https://lobid.org/gnd/118655027
+hincks-edward,"Hincks, Edward",1866,1866,1,0.67,117525073,"Hincks, Edward",1792.0,1866.0,False,Philologe,,https://lobid.org/gnd/117525073
+baltzer-richard,"Baltzer, Richard",1861,1861,1,0.75,116046694,"Baltzer, Richard",1818.0,1887.0,False,Mathematiker; Hochschullehrer,Justus-Liebig-Universität Gießen,https://lobid.org/gnd/116046694
+baltzer-richard,"Baltzer, Richard",1861,1861,2,0.745,117561940,"Baltzer, Armin",1842.0,1913.0,False,Geologe; Mineraloge,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher; Kantonsschule Zürich; Universität Bern,https://lobid.org/gnd/117561940
+wetzstein-johann-gottfried,"Wetzstein, Johann Gottfried",1864,1864,1,0.65,118897845,"Wetzstein, Johann Gottfried",1815.0,1905.0,False,Orientalist; Konsul; Diplomat; Forschungsreisender,Humboldt-Universität zu Berlin,https://lobid.org/gnd/118897845
+francheville-de,"Francheville, de",1784,1784,1,0.565,10428496X,"Du Fresne de Francheville, Joseph",1704.0,1781.0,False,Archäologe; Historiker; Übersetzer; Selbstverleger,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/10428496X
+francheville-de,"Francheville, de",1784,1784,2,0.47,104303611,"Du Fresne de Francheville, André",1731.0,1803.0,False,Domkapitular; Pfarrer; Selbstverleger,,https://lobid.org/gnd/104303611
+aschoff-hermann,"Aschoff, Hermann",1860,1860,1,0.65,122077765X,"Aschoff, Hermann",,,False,Chemiker,,https://lobid.org/gnd/122077765X
+aschoff-hermann,"Aschoff, Hermann",1860,1860,2,0.55,126141541,"Aschoff, Hermann",,,False,,,https://lobid.org/gnd/126141541
+aschoff-hermann,"Aschoff, Hermann",1860,1860,3,0.225,1149939699,"Aschoff, Hermann",1878.0,,False,Tierarzt,,https://lobid.org/gnd/1149939699
+alton-eduard-d,"Alton, Eduard d'",1833,1833,1,0.825,119061341,"Alton, Eduard d'",1772.0,1840.0,False,Anatom; Archäologe; Kupferstecher; Radierer,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/119061341
+alton-eduard-d,"Alton, Eduard d'",1833,1833,2,0.825,116295546,"Alton, Eduard d'",1803.0,1854.0,False,Anatom; Arzt; Zoologe,Kaiserlich Leopoldinisch-Carolinische Deutsche Akademie der Naturforscher,https://lobid.org/gnd/116295546
+argenson-marc-antoine-rene-de-voyer-de-paulmy-marquis-d,"Argenson, Marc Antoine René de Voyer de Paulmy Marquis d'",1748,1748,1,0.75,118796380,"Argenson, René Louis de Voyer d'",1694.0,1757.0,False,Politiker; Minister; Philosoph,,https://lobid.org/gnd/118796380
+argenson-marc-antoine-rene-de-voyer-de-paulmy-marquis-d,"Argenson, Marc Antoine René de Voyer de Paulmy Marquis d'",1748,1748,2,0.725,12068859X,"Argenson, Marc Antoine René de Voyer de Paulmy d'",1722.0,1787.0,False,Bibliograf; Minister; Diplomat; Bibliophiler,Académie Française,https://lobid.org/gnd/12068859X

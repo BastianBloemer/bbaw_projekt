@@ -1,0 +1,67 @@
+# ==========================================================================
+# SHACL-Shapes fuer den Wissensgraphen der Akademieschriften
+# Verletzungen mit sh:Violation sind Fehler, sh:Warning sind bekannte Luecken
+# in den Quelldaten (z.B. anonyme Abhandlungen, fehlende Jahre).
+# ==========================================================================
+
+@prefix sh:      <http://www.w3.org/ns/shacl#> .
+@prefix das:     <https://akademieschriften.bbaw.de/kg/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema:  <https://schema.org/> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix time:    <http://www.w3.org/2006/time#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix shp:     <https://akademieschriften.bbaw.de/kg/shapes#> .
+
+shp:AbhandlungShape a sh:NodeShape ;
+    sh:targetClass das:Abhandlung ;
+    sh:property [
+        sh:path dcterms:title ; sh:minCount 1 ; sh:maxCount 1 ; sh:datatype xsd:string ;
+        sh:message "Abhandlung braucht genau einen Titel." ] ;
+    sh:property [
+        sh:path das:inBand ; sh:minCount 1 ; sh:maxCount 1 ; sh:class das:Band ;
+        sh:message "Abhandlung muss in genau einem Band stehen." ] ;
+    sh:property [
+        sh:path das:autor ; sh:maxCount 1 ; sh:class das:Person ;
+        sh:message "Höchstens ein Hauptautor pro Abhandlung." ] ;
+    sh:property [
+        sh:path das:autor ; sh:minCount 1 ; sh:severity sh:Warning ;
+        sh:message "Abhandlung ohne Autor (anonym oder unaufgelöst)." ] ;
+    sh:property [
+        sh:path das:erschienenIm ; sh:maxCount 1 ; sh:class das:Jahr ;
+        sh:message "Höchstens ein Erscheinungsjahr." ] ;
+    sh:property [
+        sh:path das:erschienenIm ; sh:minCount 1 ; sh:severity sh:Warning ;
+        sh:message "Abhandlung ohne Erscheinungsjahr." ] ;
+    sh:property [
+        sh:path das:digitalisat ; sh:nodeKind sh:IRI ] ;
+    sh:property [
+        sh:path das:textbeziehung ; sh:class das:Abhandlung ;
+        sh:message "Textbeziehungen müssen auf Abhandlungen zeigen." ] ;
+    sh:property [
+        sh:path dcterms:language ; sh:maxCount 1 ; sh:nodeKind sh:IRI ] .
+
+shp:BandShape a sh:NodeShape ;
+    sh:targetClass das:Band ;
+    sh:property [ sh:path das:inReihe ; sh:minCount 1 ; sh:maxCount 1 ; sh:class das:Schriftenreihe ] ;
+    sh:property [ sh:path das:erschienenIm ; sh:maxCount 1 ; sh:class das:Jahr ] .
+
+shp:ReiheShape a sh:NodeShape ;
+    sh:targetClass das:Schriftenreihe ;
+    sh:property [ sh:path dcterms:title ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path das:kuerzel ; sh:minCount 1 ; sh:maxCount 1 ] .
+
+shp:PersonShape a sh:NodeShape ;
+    sh:targetClass das:Person ;
+    sh:property [ sh:path schema:name ; sh:minCount 1 ] ;
+    sh:property [ sh:path schema:birthDate ; sh:maxCount 1 ; sh:datatype xsd:gYear ] ;
+    sh:property [ sh:path schema:deathDate ; sh:maxCount 1 ; sh:datatype xsd:gYear ] .
+
+shp:JahrShape a sh:NodeShape ;
+    sh:targetClass das:Jahr ;
+    sh:property [ sh:path time:year ; sh:minCount 1 ; sh:maxCount 1 ; sh:datatype xsd:gYear ] .
+
+shp:KonzeptShape a sh:NodeShape ;
+    sh:targetClass das:Gattung , das:Disziplin , das:Thema ;
+    sh:property [ sh:path skos:prefLabel ; sh:minCount 1 ] ;
+    sh:property [ sh:path skos:inScheme ; sh:minCount 1 ] .

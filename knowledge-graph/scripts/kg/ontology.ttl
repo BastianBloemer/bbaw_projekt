@@ -1,0 +1,216 @@
+# ==========================================================================
+# Ontologie "Digitalisierte Akademieschriften" (das:)
+# --------------------------------------------------------------------------
+# Eigene Klassen und Properties des Projekts. Jede Anbindung an ein externes
+# Vokabular (rdfs:subClassOf / rdfs:subPropertyOf / owl:equivalent...) ist mit
+#
+#     # NAMESPACE-HOOK
+#
+# markiert. Dort kann das Zielvokabular ausgetauscht oder ergaenzt werden
+# (z.B. BIBO statt FaBiO, CIDOC-CRM statt schema.org), ohne dass sich die
+# Instanzdaten aendern: Sie verwenden immer die das:-Begriffe.
+#
+# Die Praefixe muessen mit namespaces.py uebereinstimmen.
+# ==========================================================================
+
+@prefix das:     <https://akademieschriften.bbaw.de/kg/ontology#> .
+@prefix fabio:   <http://purl.org/spar/fabio/> .
+@prefix cito:    <http://purl.org/spar/cito/> .
+@prefix frbr:    <http://purl.org/vocab/frbr/core#> .
+@prefix prism:   <http://prismstandard.org/namespaces/basic/2.0/> .
+@prefix schema:  <https://schema.org/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix time:    <http://www.w3.org/2006/time#> .
+@prefix gndo:    <https://d-nb.info/standards/elementset/gnd#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+<https://akademieschriften.bbaw.de/kg/ontology>
+    a owl:Ontology ;
+    rdfs:label "Ontologie der Digitalisierten Akademieschriften"@de ;
+    rdfs:comment "Abhandlungen der Berliner Akademie der Wissenschaften 1710–1900, gewonnen aus den Katalogmetadaten und der Analyse der Titel."@de .
+
+# ==========================================================================
+# Klassen
+# ==========================================================================
+
+das:Abhandlung a owl:Class ;
+    rdfs:label "Abhandlung"@de ;
+    rdfs:comment "Ein einzelner Beitrag in einer Schriftenreihe der Akademie."@de ;
+    rdfs:subClassOf fabio:JournalArticle .           # NAMESPACE-HOOK (Alternative: bibo:AcademicArticle)
+
+das:Person a owl:Class ;
+    rdfs:label "Person"@de ;
+    rdfs:subClassOf schema:Person , foaf:Person ;    # NAMESPACE-HOOK
+    owl:equivalentClass gndo:DifferentiatedPerson .  # NAMESPACE-HOOK (Anbindung an GND-Ontologie)
+
+das:Schriftenreihe a owl:Class ;
+    rdfs:label "Schriftenreihe"@de ;
+    rdfs:subClassOf fabio:Journal .                  # NAMESPACE-HOOK (Alternative: bibo:Periodical)
+
+das:Band a owl:Class ;
+    rdfs:label "Band"@de ;
+    rdfs:subClassOf fabio:JournalVolume .            # NAMESPACE-HOOK (Alternative: bibo:Issue)
+
+das:Jahr a owl:Class ;
+    rdfs:label "Jahr"@de ;
+    rdfs:comment "Ein Kalenderjahr als eigene Entität (Knoten für Filter und Zeitachsen)."@de ;
+    rdfs:subClassOf time:DateTimeDescription .       # NAMESPACE-HOOK
+
+das:Gattung a owl:Class ;
+    rdfs:label "Gattung"@de ;
+    rdfs:comment "Textsorte, z.B. Nachruf, Antrittsrede, Beobachtung."@de ;
+    rdfs:subClassOf skos:Concept .                   # NAMESPACE-HOOK
+
+das:Disziplin a owl:Class ;
+    rdfs:label "Disziplin"@de ;
+    rdfs:subClassOf skos:Concept .                   # NAMESPACE-HOOK
+
+das:Thema a owl:Class ;
+    rdfs:label "Thema"@de ;
+    rdfs:comment "Schlagwort; wo möglich per skos:exactMatch mit einem GND-Sachbegriff verknüpft."@de ;
+    rdfs:subClassOf skos:Concept .                   # NAMESPACE-HOOK
+
+das:Anlass a owl:Class ;
+    rdfs:label "Anlass"@de ;
+    rdfs:comment "Wiederkehrender Anlass einer Rede, z.B. Leibniztag."@de ;
+    rdfs:subClassOf schema:Event .                   # NAMESPACE-HOOK (Alternative: crm:E5_Event)
+
+das:Ort a owl:Class ;
+    rdfs:label "Ort"@de ;
+    rdfs:subClassOf schema:Place .                   # NAMESPACE-HOOK (Alternative: gndo:PlaceOrGeographicName)
+
+das:Werk a owl:Class ;
+    rdfs:label "Werk"@de ;
+    rdfs:comment "Im Titel erwähntes Werk, Text oder Handschrift."@de ;
+    rdfs:subClassOf schema:CreativeWork .            # NAMESPACE-HOOK (Alternative: gndo:Work)
+
+# ==========================================================================
+# Bibliographische Properties
+# ==========================================================================
+
+das:inBand a owl:ObjectProperty ;
+    rdfs:label "erschienen in Band"@de ;
+    rdfs:domain das:Abhandlung ; rdfs:range das:Band ;
+    rdfs:subPropertyOf frbr:partOf .                 # NAMESPACE-HOOK
+
+das:inReihe a owl:ObjectProperty ;
+    rdfs:label "gehört zur Reihe"@de ;
+    rdfs:domain das:Band ; rdfs:range das:Schriftenreihe ;
+    rdfs:subPropertyOf frbr:partOf .                 # NAMESPACE-HOOK
+
+das:erschienenIm a owl:ObjectProperty ;
+    rdfs:label "erschienen im Jahr"@de ;
+    rdfs:range das:Jahr .
+
+das:autor a owl:ObjectProperty ;
+    rdfs:label "Autor"@de ;
+    rdfs:domain das:Abhandlung ; rdfs:range das:Person ;
+    rdfs:subPropertyOf dcterms:creator .             # NAMESPACE-HOOK
+
+das:beteiligt a owl:ObjectProperty ;
+    rdfs:label "beteiligte Person"@de ;
+    rdfs:comment "Oberbegriff für im Titel genannte weitere Beteiligte."@de ;
+    rdfs:range das:Person ;
+    rdfs:subPropertyOf dcterms:contributor .         # NAMESPACE-HOOK
+
+das:mitautor      a owl:ObjectProperty ; rdfs:label "Mitautor"@de ;              rdfs:subPropertyOf das:beteiligt .
+das:kommentator   a owl:ObjectProperty ; rdfs:label "Kommentator"@de ;           rdfs:subPropertyOf das:beteiligt .
+das:vorwort       a owl:ObjectProperty ; rdfs:label "Verfasser des Vorworts"@de ; rdfs:subPropertyOf das:beteiligt .
+das:briefschreiber a owl:ObjectProperty ; rdfs:label "Briefschreiber"@de ;       rdfs:subPropertyOf das:beteiligt .
+das:mitwirkung    a owl:ObjectProperty ; rdfs:label "Mitwirkung"@de ;            rdfs:subPropertyOf das:beteiligt .
+
+# Bewusst ohne rdfs:subPropertyOf dcterms:title: Bei der Materialisierung
+# haette jede mehrteilige Abhandlung sonst zwei dcterms:title.
+das:haupttitel a owl:DatatypeProperty ; rdfs:label "Haupttitel (ohne Teilbezeichnung)"@de .
+das:teil a owl:DatatypeProperty ; rdfs:label "Teilbezeichnung"@de .
+das:teilTyp a owl:DatatypeProperty ; rdfs:label "Art des Teils"@de .
+das:teilNummer a owl:DatatypeProperty ; rdfs:label "Nummer des Teils"@de .
+das:titelDeutsch a owl:DatatypeProperty ; rdfs:label "deutsche Wiedergabe des Titels"@de ;
+    rdfs:subPropertyOf dcterms:alternative .         # NAMESPACE-HOOK
+das:anzahlTafeln a owl:DatatypeProperty ; rdfs:label "Anzahl Tafeln"@de .
+das:anzahlTabellen a owl:DatatypeProperty ; rdfs:label "Anzahl Tabellen"@de .
+das:hatFiguren a owl:DatatypeProperty ; rdfs:label "enthält Figuren"@de .
+das:ppn a owl:DatatypeProperty ; rdfs:label "K10plus-PPN"@de .
+das:kuerzel a owl:DatatypeProperty ; rdfs:label "Kürzel"@de .
+das:bandnummer a owl:DatatypeProperty ; rdfs:label "Bandbezeichnung"@de .
+das:jahrQuelle a owl:DatatypeProperty ; rdfs:label "Herkunft der Jahresangabe"@de .
+das:behandelterZeitraum a owl:DatatypeProperty ; rdfs:label "behandelter Zeitraum"@de .
+das:erwaehntesDatum a owl:DatatypeProperty ; rdfs:label "im Titel genanntes Datum"@de .
+das:erwaehntesJahr a owl:DatatypeProperty ; rdfs:label "im Titel genanntes Jahr"@de .
+das:taxon a owl:DatatypeProperty ; rdfs:label "erwähntes Taxon"@de .
+das:objekt a owl:DatatypeProperty ; rdfs:label "erwähntes Objekt"@de .
+das:klammerzusatz a owl:DatatypeProperty ; rdfs:label "Zusatz in eckigen Klammern"@de .
+
+das:digitalisat a owl:ObjectProperty ;
+    rdfs:label "Digitalisat"@de ;
+    rdfs:subPropertyOf foaf:page .                   # NAMESPACE-HOOK
+
+# ==========================================================================
+# Inhaltliche Properties
+# ==========================================================================
+
+das:gattung a owl:ObjectProperty ; rdfs:label "Gattung"@de ; rdfs:range das:Gattung ;
+    rdfs:subPropertyOf dcterms:type .                # NAMESPACE-HOOK
+das:disziplin a owl:ObjectProperty ; rdfs:label "Disziplin"@de ; rdfs:range das:Disziplin ;
+    rdfs:subPropertyOf dcterms:subject .             # NAMESPACE-HOOK
+das:thema a owl:ObjectProperty ; rdfs:label "Thema"@de ; rdfs:range das:Thema ;
+    rdfs:subPropertyOf dcterms:subject .             # NAMESPACE-HOOK
+das:anlass a owl:ObjectProperty ; rdfs:label "Anlass"@de ; rdfs:range das:Anlass .
+
+das:handeltVon a owl:ObjectProperty ;
+    rdfs:label "handelt von"@de ;
+    rdfs:comment "Person, Ort oder Werk als Gegenstand der Abhandlung."@de ;
+    rdfs:subPropertyOf schema:about .                # NAMESPACE-HOOK
+
+das:erwaehnt a owl:ObjectProperty ;
+    rdfs:label "erwähnt"@de ;
+    rdfs:subPropertyOf schema:mentions .             # NAMESPACE-HOOK
+
+# ==========================================================================
+# Beziehungen zwischen Abhandlungen (aus der Spalte "Textbeziehungen")
+# Lesart: "A das:hatFortsetzung B" = B ist die Fortsetzung von A.
+# ==========================================================================
+
+das:textbeziehung a owl:ObjectProperty ;
+    rdfs:label "Textbeziehung"@de ;
+    rdfs:domain das:Abhandlung ; rdfs:range das:Abhandlung ;
+    rdfs:subPropertyOf dcterms:relation .            # NAMESPACE-HOOK
+
+das:verweistAuf a owl:ObjectProperty , owl:SymmetricProperty ;
+    rdfs:label "verweist auf"@de ; rdfs:subPropertyOf das:textbeziehung ;
+    rdfs:subPropertyOf rdfs:seeAlso .                # NAMESPACE-HOOK (evtl. cito:cites, falls echte Zitate)
+
+# Kein owl:inverseOf zu das:hatHauptteil: In den Daten ist "Hauptteil" die
+# Gegenrichtung sowohl zu "Fortsetzung" als auch zu "Nachtrag". Eine doppelte
+# Inversion wuerde hatFortsetzung und hatNachtrag gleichsetzen.
+das:hatFortsetzung a owl:ObjectProperty ; rdfs:label "hat Fortsetzung"@de ;
+    rdfs:subPropertyOf das:textbeziehung .
+das:hatHauptteil a owl:ObjectProperty ; rdfs:label "hat Hauptteil"@de ;
+    rdfs:comment "Gegenrichtung zu das:hatFortsetzung und das:hatNachtrag."@de ;
+    rdfs:subPropertyOf das:textbeziehung .
+das:hatNachtrag a owl:ObjectProperty ; rdfs:label "hat Nachtrag"@de ;
+    rdfs:subPropertyOf das:textbeziehung .
+das:hatAuszug a owl:ObjectProperty ; rdfs:label "hat Auszug"@de ;
+    rdfs:subPropertyOf das:textbeziehung ; owl:inverseOf das:hatVolltext .
+das:hatVolltext a owl:ObjectProperty ; rdfs:label "hat Volltext"@de ;
+    rdfs:subPropertyOf das:textbeziehung .
+das:hatUebersetzung a owl:ObjectProperty ; rdfs:label "hat Übersetzung"@de ;
+    rdfs:subPropertyOf das:textbeziehung ; owl:inverseOf das:hatOriginal ;
+    rdfs:subPropertyOf frbr:translation .            # NAMESPACE-HOOK
+das:hatOriginal a owl:ObjectProperty ; rdfs:label "hat Original"@de ;
+    rdfs:subPropertyOf das:textbeziehung .
+das:hatAntwort a owl:ObjectProperty ; rdfs:label "hat Antwort"@de ;
+    rdfs:subPropertyOf das:textbeziehung ; owl:inverseOf das:hatAntrittsrede .
+das:hatAntrittsrede a owl:ObjectProperty ; rdfs:label "antwortet auf Antrittsrede"@de ;
+    rdfs:subPropertyOf das:textbeziehung .
+
+# ==========================================================================
+# Abgleich / Qualitaet (liegt im Named Graph graph:gnd)
+# ==========================================================================
+
+das:abgleichStatus a owl:DatatypeProperty ; rdfs:label "Status des Normdatenabgleichs"@de .
+das:abgleichScore a owl:DatatypeProperty ; rdfs:label "Score des Normdatenabgleichs"@de .

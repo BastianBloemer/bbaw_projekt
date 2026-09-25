@@ -1,0 +1,7 @@
+# Festreden nach Anlass und Jahrzehnt
+SELECT ?anlass ?jahrzehnt (COUNT(?a) AS ?reden)
+WHERE {
+  ?a das:anlass/rdfs:label ?anlass ; das:erschienenIm/time:year ?jahr .
+  BIND(FLOOR(xsd:integer(STR(?jahr)) / 10) * 10 AS ?jahrzehnt)
+}
+GROUP BY ?anlass ?jahrzehnt ORDER BY ?anlass ?jahrzehnt

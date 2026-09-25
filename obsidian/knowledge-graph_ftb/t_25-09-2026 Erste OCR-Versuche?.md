@@ -5,3 +5,5 @@ Als ich mir die erste Ausgabe von **abh** angeschaut hatte, hatte ich einen klei
 Zuerst muss ich mir ein Skript schreiben, um die Abhandlungen von dem Bildserver herunterzuladen. Möglicherweise kann ich auch arbeiten, ohne die Bilder herunterzuladen, und zwar, indem ich einem LLM Zugriff auf den Bildserver gebe. Mal schauen, was möglich ist. Dann wird es doch auch wichtig sein, ein bisschen Layout zu erkennen. Es könnte den einfachen Nutzen haben, dass das LLM später bei der Extraktion von Informationen in kleineren Einheiten vorgehen kann.
 
 Außerdem sollte ich die LLM auch darauf hinweisen, welche Strukturmerkmale bzw. typographischen Phänomene auftauchen können. Es kann beispielsweise zu Tabellen und mathematischen Formeln kommen.
+
+Sollte ich vielleicht erst einmal nur die Titel analysieren lassen bzw. Informationen aus den bisher bestehenden Metadaten extrahieren und zu einem Graphen strukturieren? Das ist eigentlich eine gute Idee. Danach ließe sich dieser Graph dann anreichern. Diese Idee strukturiert meine ganze Thesis noch einmal neu. 
