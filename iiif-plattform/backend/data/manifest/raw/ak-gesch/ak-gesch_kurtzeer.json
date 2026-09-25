@@ -1,0 +1,2123 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "Manifest",
+  "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif",
+  "label": {
+    "en": [
+      "[Scanned work silo10/Bibliothek.tiff/ak-gesch/kurtzeer/tif]"
+    ]
+  },
+  "summary": {
+    "en": [
+      "[Automatically generated manifest for scanned work silo10/Bibliothek.tiff/ak-gesch/kurtzeer/tif]"
+    ]
+  },
+  "items": [
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p1",
+      "label": {
+        "none": [
+          "00000001"
+        ]
+      },
+      "height": 2862,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p1/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p1/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000001/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000001",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p2",
+      "label": {
+        "none": [
+          "00000002"
+        ]
+      },
+      "height": 3127,
+      "width": 2407,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p2/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p2/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000002/full/770,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 770,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000002",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p3",
+      "label": {
+        "none": [
+          "00000003"
+        ]
+      },
+      "height": 2863,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p3/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p3/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000003/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000003",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p4",
+      "label": {
+        "none": [
+          "00000004"
+        ]
+      },
+      "height": 2862,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p4/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p4/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000004/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000004",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p5",
+      "label": {
+        "none": [
+          "00000005"
+        ]
+      },
+      "height": 2869,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p5/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p5/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000005/full/722,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 722,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000005",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p6",
+      "label": {
+        "none": [
+          "00000006"
+        ]
+      },
+      "height": 2868,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p6/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p6/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000006/full/722,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 722,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000006",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p7",
+      "label": {
+        "none": [
+          "00000007"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p7/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p7/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000007/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000007",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p8",
+      "label": {
+        "none": [
+          "00000008"
+        ]
+      },
+      "height": 2868,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p8/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p8/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000008/full/722,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 722,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000008",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p9",
+      "label": {
+        "none": [
+          "00000009"
+        ]
+      },
+      "height": 2866,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p9/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p9/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000009/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000009",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p10",
+      "label": {
+        "none": [
+          "00000010"
+        ]
+      },
+      "height": 2864,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p10/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p10/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000010/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000010",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p11",
+      "label": {
+        "none": [
+          "00000011"
+        ]
+      },
+      "height": 2862,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p11/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p11/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000011/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000011",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p12",
+      "label": {
+        "none": [
+          "00000012"
+        ]
+      },
+      "height": 2862,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p12/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p12/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000012/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000012",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p13",
+      "label": {
+        "none": [
+          "00000013"
+        ]
+      },
+      "height": 2865,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p13/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p13/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000013/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000013",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p14",
+      "label": {
+        "none": [
+          "00000014"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p14/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p14/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000014/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000014",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p15",
+      "label": {
+        "none": [
+          "00000015"
+        ]
+      },
+      "height": 2862,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p15/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p15/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000015/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000015",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p16",
+      "label": {
+        "none": [
+          "00000016"
+        ]
+      },
+      "height": 2872,
+      "width": 2080,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p16/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p16/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000016/full/724,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 724,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000016",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p17",
+      "label": {
+        "none": [
+          "00000017"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p17/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p17/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000017/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000017",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p18",
+      "label": {
+        "none": [
+          "00000018"
+        ]
+      },
+      "height": 2865,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p18/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p18/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000018/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000018",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p19",
+      "label": {
+        "none": [
+          "00000019"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p19/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p19/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000019/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000019",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p20",
+      "label": {
+        "none": [
+          "00000020"
+        ]
+      },
+      "height": 2867,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p20/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p20/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000020/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000020",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p21",
+      "label": {
+        "none": [
+          "00000021"
+        ]
+      },
+      "height": 2865,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p21/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p21/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000021/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000021",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p22",
+      "label": {
+        "none": [
+          "00000022"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p22/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p22/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000022/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000022",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p23",
+      "label": {
+        "none": [
+          "00000023"
+        ]
+      },
+      "height": 2862,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p23/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p23/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000023/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000023",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p24",
+      "label": {
+        "none": [
+          "00000024"
+        ]
+      },
+      "height": 2870,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p24/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p24/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000024/full/722,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 722,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000024",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p25",
+      "label": {
+        "none": [
+          "00000025"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p25/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p25/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000025/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000025",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p26",
+      "label": {
+        "none": [
+          "00000026"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p26/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p26/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000026/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000026",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p27",
+      "label": {
+        "none": [
+          "00000027"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p27/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p27/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000027/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000027",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p28",
+      "label": {
+        "none": [
+          "00000028"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p28/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p28/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000028/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000028",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p29",
+      "label": {
+        "none": [
+          "00000029"
+        ]
+      },
+      "height": 2866,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p29/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p29/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000029/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000029",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p30",
+      "label": {
+        "none": [
+          "00000030"
+        ]
+      },
+      "height": 2867,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p30/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p30/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000030/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000030",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p31",
+      "label": {
+        "none": [
+          "00000031"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p31/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p31/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000031/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000031",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p32",
+      "label": {
+        "none": [
+          "00000032"
+        ]
+      },
+      "height": 2862,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p32/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p32/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000032/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000032",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p33",
+      "label": {
+        "none": [
+          "00000033"
+        ]
+      },
+      "height": 2862,
+      "width": 2061,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p33/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p33/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000033/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000033",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p34",
+      "label": {
+        "none": [
+          "00000034"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p34/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p34/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000034/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000034",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p35",
+      "label": {
+        "none": [
+          "00000035"
+        ]
+      },
+      "height": 2870,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p35/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p35/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000035/full/722,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 722,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000035",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p35"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p36",
+      "label": {
+        "none": [
+          "00000036"
+        ]
+      },
+      "height": 2865,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p36/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p36/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000036/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000036",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p37",
+      "label": {
+        "none": [
+          "00000037"
+        ]
+      },
+      "height": 2868,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p37/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p37/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000037/full/722,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 722,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000037",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p38",
+      "label": {
+        "none": [
+          "00000038"
+        ]
+      },
+      "height": 2867,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p38/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p38/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000038/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000038",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p38"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p39",
+      "label": {
+        "none": [
+          "00000039"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p39/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p39/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000039/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000039",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p40",
+      "label": {
+        "none": [
+          "00000040"
+        ]
+      },
+      "height": 2865,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p40/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p40/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000040/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000040",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p41",
+      "label": {
+        "none": [
+          "00000041"
+        ]
+      },
+      "height": 2867,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p41/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p41/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000041/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000041",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p42",
+      "label": {
+        "none": [
+          "00000042"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p42/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p42/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000042/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000042",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p43",
+      "label": {
+        "none": [
+          "00000043"
+        ]
+      },
+      "height": 2862,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p43/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p43/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000043/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000043",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p44",
+      "label": {
+        "none": [
+          "00000044"
+        ]
+      },
+      "height": 2862,
+      "width": 2061,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p44/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p44/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000044/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000044",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p45",
+      "label": {
+        "none": [
+          "00000045"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p45/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p45/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000045/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000045",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p46",
+      "label": {
+        "none": [
+          "00000046"
+        ]
+      },
+      "height": 2862,
+      "width": 2062,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p46/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p46/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000046/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000046",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p47",
+      "label": {
+        "none": [
+          "00000047"
+        ]
+      },
+      "height": 2862,
+      "width": 2061,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p47/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p47/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000047/full/720,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 720,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000047",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p48",
+      "label": {
+        "none": [
+          "00000048"
+        ]
+      },
+      "height": 2862,
+      "width": 2064,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p48/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p48/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000048/full/721,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 721,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000048",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p49",
+      "label": {
+        "none": [
+          "00000049"
+        ]
+      },
+      "height": 2868,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p49/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p49/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000049/full/722,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 722,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000049",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p50",
+      "label": {
+        "none": [
+          "00000050"
+        ]
+      },
+      "height": 2873,
+      "width": 2080,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p50/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p50/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000050/full/724,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 724,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000050",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p51",
+      "label": {
+        "none": [
+          "00000051"
+        ]
+      },
+      "height": 2876,
+      "width": 2088,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p51/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p51/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000051/full/726,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 726,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000051",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p52",
+      "label": {
+        "none": [
+          "00000052"
+        ]
+      },
+      "height": 2868,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p52/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p52/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000052/full/722,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 722,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000052",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p53",
+      "label": {
+        "none": [
+          "00000053"
+        ]
+      },
+      "height": 2864,
+      "width": 2072,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p53/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p53/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000053/full/723,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 723,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000053",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Canvas",
+      "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p54",
+      "label": {
+        "none": [
+          "00000054"
+        ]
+      },
+      "height": 4278,
+      "width": 2825,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p54/annopage",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p54/anno-image",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000054/full/660,1000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 660,
+                "service": [
+                  {
+                    "id": "https://digilib.bbaw.de/Scaler/IIIF/3/silo10%21Bibliothek.tiff%21ak-gesch%21kurtzeer%21tif%2100000054",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://digilib.bbaw.de/Manifester/IIIF/3/silo10!Bibliothek.tiff!ak-gesch!kurtzeer!tif/canvas/p54"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
