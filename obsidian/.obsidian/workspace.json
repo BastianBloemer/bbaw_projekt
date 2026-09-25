@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge-graph_ftb/t_24-09-2026_b Reflexionen über das UX.md",
+                "file": "knowledge-graph_ftb/t_25-09-2026_b Gespräch mit Markus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "t_24-09-2026_b Reflexionen über das UX"
+              "title": "t_25-09-2026_b Gespräch mit Markus"
+            }
+          },
+          {
+            "id": "c794e35990366e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge-graph_thesis/1. einleitung/1.3 Repräsentation im KI-Zeitalter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Repräsentation im KI-Zeitalter"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,36 +199,37 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "5fe0821488a69949",
+  "active": "c794e35990366e76",
   "lastOpenFiles": [
-    "knowledge-graph_ftb/t_24-09-2026_a Analyse bestehender Ontologien und Graphen.md",
+    "knowledge-graph_thesis/2. praxis/2.1 Textauswahl.md",
+    "knowledge-graph_thesis/2. praxis/2.3 \"Dirty\" OCR.md",
+    "knowledge-graph_thesis/2. praxis/2.2 Graph-Datenbank 1.0.md",
+    "knowledge-graph_thesis/3. fazit/3.1 Evaluation OCR.md",
+    "knowledge-graph_thesis/2. praxis/2.4 Graph-Datenbank 2.0.md",
+    "knowledge-graph_thesis/2. praxis/2.5 Interface.md",
+    "knowledge-graph_ftb/t_25-09-2026_b Gespräch mit Markus.md",
+    "knowledge-graph_thesis/1. einleitung/1.1 Textsammlungen und Bibliotheken.md",
     "knowledge-graph_thesis/1. einleitung/1.2 Formen der Repräsentation.md",
     "knowledge-graph_thesis/1. einleitung/1.3 Repräsentation im KI-Zeitalter.md",
-    "knowledge-graph_ftb/t_25-09-2026 Erste OCR-Versuche.md",
+    "knowledge-graph_ftb/t_25-09-2026_a Erste OCR-Versuche.md",
+    "knowledge-graph_ftb/Unbenannt",
     "knowledge-graph_ftb/t_24-09-2026_b Reflexionen über das UX.md",
+    "knowledge-graph_ftb/t_24-09-2026_a Analyse bestehender Ontologien und Graphen.md",
     "knowledge-graph_ftb/t_06-08-2026 Einrichtung der KI-Werkstatt.md",
     "knowledge-graph_ftb/t_23-09-2026 Literaturrecherche.md",
     "knowledge-graph_ftb/t_21-09-2026 Erstes Lesen einer zufälligen Abhandlung.md",
     "knowledge-graph_ftb/t_22-09-2026 Analyse bestehender Ontologien und Graphen.md",
-    "knowledge-graph_thesis/2. praxis/2.2 \"Dirty\" OCR.md",
     "readme.md",
     "knowledge-graph_ftb/readme.md",
     "knowledge-graph_thesis/1. einleitung/1.4 Technische und Epistemische Bedingungen.md",
-    "knowledge-graph_thesis/1. einleitung/1.1 Textsammlungen und Bibliotheken.md",
     "knowledge-graph_thesis/1. einleitung/1.5 Kontrollierte oder Emergente Repräsentation.md",
     "knowledge-graph_thesis/1. einleitung/1.2 Symbolische oder subsymbolische Repräsentation.md",
     "knowledge-graph_thesis/1. einleitung/1.2 Semantische Erschließung und Repräsentation.md",
     "knowledge-graph_thesis/1. einleitung/1.2 Nutzen von Wissensgraphen.md",
     "knowledge-graph_thesis/3. fazit",
-    "knowledge-graph_thesis/2. praxis/2.3 Graph-Datenbank.md",
     "knowledge-graph_thesis/4. literatur/recherche_doku.md",
-    "knowledge-graph_thesis/2. praxis/2.1 Textauswahl.md",
-    "knowledge-graph_thesis/2. praxis/2.4 Interface.md",
     "knowledge-graph_ftb/1. Monat/t_06-08-2026 KI-Literaturverwaltung.md",
     "Unbenannt",
-    "knowledge-graph_thesis/4. literatur/bibliographie.md",
-    "iiif-plattform_ftb/Praktikumsbericht.md",
-    "iiif-plattform_ftb/2. Monat/t_31_07_2026 Schnelles Ende!.md",
     "iiif-plattform_ftb/bericht",
     "iiif-plattform_ftb/images/Pasted image 20260623173345.png",
     "iiif-plattform_ftb/images/Pasted image 20260716113314.png",
@@ -225,7 +241,6 @@
     "knowledge-graph_ftb",
     "iiif-plattform_ftb/images",
     "sew_manuell/struktur/3 reflexion",
-    "sew_manuell/struktur/2 praxis",
     "Pasted image 20260716105644.png",
     "Pasted image 20260716093352.png",
     "Pasted image 20260716093048.png",
