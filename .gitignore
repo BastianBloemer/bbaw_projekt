@@ -1,5 +1,2 @@
 .venv/
 .claude/
-pipelines/iiif-plattform/backend/data/metadata/
-pipelines/iiif-plattform/backend/data/manifest/raw/
-pipelines/knowledge-graph/examples/
