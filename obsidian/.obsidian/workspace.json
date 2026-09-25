@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "6b9b1e5f7def0e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9731b1133ab82e04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe0821488a69949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge-graph_ftb/t_24-09-2026_b Reflexionen über das UX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "t_24-09-2026_b Reflexionen über das UX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5678aa10cd26bffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ccb90c5a9e2b0f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29b2fec8fb1fd4c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "5f7271b02a764575",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "2bbc6f3e05ecbe1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.3312683105469
+  },
+  "right": {
+    "id": "5c2b67ad43ce68a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5346ad60ba819f61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "929bc68b500a688c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "110b6f623081bb15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tagebuch/03.06.2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von 03.06.2026 öffnen"
+            }
+          },
+          {
+            "id": "c4df92bc3198b424",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78d540328d81d1e5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "bfb6ed1a76af8ca2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tagebuch/03.06.2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von 03.06.2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "5fe0821488a69949",
+  "lastOpenFiles": [
+    "knowledge-graph_ftb/t_24-09-2026_a Analyse bestehender Ontologien und Graphen.md",
+    "knowledge-graph_thesis/1. einleitung/1.2 Formen der Repräsentation.md",
+    "knowledge-graph_thesis/1. einleitung/1.3 Repräsentation im KI-Zeitalter.md",
+    "knowledge-graph_ftb/t_25-09-2026 Erste OCR-Versuche.md",
+    "knowledge-graph_ftb/t_24-09-2026_b Reflexionen über das UX.md",
+    "knowledge-graph_ftb/t_06-08-2026 Einrichtung der KI-Werkstatt.md",
+    "knowledge-graph_ftb/t_23-09-2026 Literaturrecherche.md",
+    "knowledge-graph_ftb/t_21-09-2026 Erstes Lesen einer zufälligen Abhandlung.md",
+    "knowledge-graph_ftb/t_22-09-2026 Analyse bestehender Ontologien und Graphen.md",
+    "knowledge-graph_thesis/2. praxis/2.2 \"Dirty\" OCR.md",
+    "readme.md",
+    "knowledge-graph_ftb/readme.md",
+    "knowledge-graph_thesis/1. einleitung/1.4 Technische und Epistemische Bedingungen.md",
+    "knowledge-graph_thesis/1. einleitung/1.1 Textsammlungen und Bibliotheken.md",
+    "knowledge-graph_thesis/1. einleitung/1.5 Kontrollierte oder Emergente Repräsentation.md",
+    "knowledge-graph_thesis/1. einleitung/1.2 Symbolische oder subsymbolische Repräsentation.md",
+    "knowledge-graph_thesis/1. einleitung/1.2 Semantische Erschließung und Repräsentation.md",
+    "knowledge-graph_thesis/1. einleitung/1.2 Nutzen von Wissensgraphen.md",
+    "knowledge-graph_thesis/3. fazit",
+    "knowledge-graph_thesis/2. praxis/2.3 Graph-Datenbank.md",
+    "knowledge-graph_thesis/4. literatur/recherche_doku.md",
+    "knowledge-graph_thesis/2. praxis/2.1 Textauswahl.md",
+    "knowledge-graph_thesis/2. praxis/2.4 Interface.md",
+    "knowledge-graph_ftb/1. Monat/t_06-08-2026 KI-Literaturverwaltung.md",
+    "Unbenannt",
+    "knowledge-graph_thesis/4. literatur/bibliographie.md",
+    "iiif-plattform_ftb/Praktikumsbericht.md",
+    "iiif-plattform_ftb/2. Monat/t_31_07_2026 Schnelles Ende!.md",
+    "iiif-plattform_ftb/bericht",
+    "iiif-plattform_ftb/images/Pasted image 20260623173345.png",
+    "iiif-plattform_ftb/images/Pasted image 20260716113314.png",
+    "iiif-plattform_ftb/images/Pasted image 20260716121347.png",
+    "iiif-plattform_ftb/images/Pasted image 20260716153308.png",
+    "knowledge-graph_thesis/1. einleitung",
+    "knowledge-graph_thesis/4. literatur",
+    "knowledge-graph_ftb/1. Monat",
+    "knowledge-graph_ftb",
+    "iiif-plattform_ftb/images",
+    "sew_manuell/struktur/3 reflexion",
+    "sew_manuell/struktur/2 praxis",
+    "Pasted image 20260716105644.png",
+    "Pasted image 20260716093352.png",
+    "Pasted image 20260716093048.png",
+    "Pasted image 20260714141712.png",
+    "Pasted image 20260716111854.png",
+    "Pasted image 20260716110626.png"
+  ]
+}

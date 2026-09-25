@@ -1,0 +1,1 @@
+Dies ist die entstehende Thesis, die meine Entwicklung des Wissensgraphen zu den *digitalisierten Akademieschriften* begleitet. Die Thesis ist logisch geordnet. Zusätzlich gibt es ein Forschungstagebuch, in dem ich meine Arbeitsschritte, Ideen und Frustrationen festhalte. Das Tagebuch ist chronologisch geordnet.

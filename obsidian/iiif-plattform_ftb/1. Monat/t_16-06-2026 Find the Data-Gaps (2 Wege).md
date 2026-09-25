@@ -1,0 +1,9 @@
+Nachdem ich für alle Einträge die Start- und Endseite festgestellt hatte, konnte ich mir die Abstände zwischen zwischen den Einträgen berechnen lassen. Kleine Abstände können oft dadurch erklärt werden, dass die nicht repräsentierten Seiten zwischen den Einträgen Kapitelüberschriften oder andere Strukturinformationen enthalten. Ich konnte aber auch [mehrere 100 Abstände](https://github.com/BastianBloemer/skripts/tree/main/bbaw/df-dokumente/df_luecken) feststellen, die anders erklärt werden müssen, da sie zu groß sind und eher ganze nicht-repräsentierte Abhandlungen nahelegen. In einem Gespräch mit Herrn Schnöpf haben wir aber festgelegt, dass ich mich nun zunächst einmal um die IIIF-Manifeste kümmer, und die Sorge um die Datenlücken hintenanstelle. 
+
+Außerdem war ich das erste mal in der Bibliothek der BBAW und habe mir die Akademieschriften in Buchform angeschaut. Bei einer nur kurzen Autopsie habe ich bemerkt, dass es noch mindestens zwei weitere Leerstellen in den Daten gibt, die ich nun zur Weiterverarbeitung benutze:
+
+- Die Einträge lassen sich normalerweise nicht nur Bändern sondern auch Klassen wie *historisch-philosophisch* zuordnen. In den Daten finden sich diese Klassen aber nur dann wieder, wenn sie auf dem Buchrücken stehen. Bei den meisten Bänden ist es aber so, dass die Klassen als Kapitelüberschrift auf den nicht erschlossenen (aber fotografierten) Buchseiten zu finden sind
+- Außerdem lassen sich die Sitzungsberichte noch den einzelnen Sitzungen zuordnen. Diese Zuordnung fehlt in den Daten vollständig, ist in den Büchern aber als kleine und eher unauffällige Zwischenüberschrift enthalten. Herr Schnöpf hat mir aber die [Akademie-Registres]((https://akademieregistres.bbaw.de/) gezeigt, die digitalisierten Sitzungsprotokolle. Auf dieser Grundlage könnte man sich die fehlende Zuordnung erschließen
+
+
+

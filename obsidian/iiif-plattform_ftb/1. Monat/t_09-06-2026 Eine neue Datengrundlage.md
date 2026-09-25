@@ -1,0 +1,4 @@
+Da bei ungefähr 400 von 8000 Einträgen in den ris-Dokumenten die Seiteninformationen fehlten, hat sich Herr Schnöpf mit mir noch einmal den Online-Katalog der BBAW angeschaut. Bei einer Stichprobe haben wir gesehen, dass in diesem Katalog auch die Einträge Seiteninformationen enthielten, die in dem ris-Dokument keine enthielten. Daher haben wir uns dazu entschieden, alle Einträge noch einmal als [Vollanzeige](https://github.com/BastianBloemer/skripts/blob/main/bbaw/gbv-dokumente/gbv-vollanzeige.txt) herunterzuladen. Die Vollanzeige enthält genau die Informationen, die auf der Katalog-Oberfläche sichtbar sind, diese Informationen sind aber nicht streng strukturiert. Eine erste Aufgabe wird es daher sein, die in der Vollanzeige enthaltenen Informationen zu strukturieren, ebenfalls in ein Dataframe zu transformieren und mit dem alten Dataframe zusammenzubringen. 
+
+
+
