@@ -1,0 +1,6 @@
+**Autor:** Albert Meroño-Peñuela, Ashkan Ashkpour, Marieke Van Erp, Kees Mandemakers, Leen Breure, Andrea Scharnhorst, Stefan Schlobach, Frank Van Harmelen, Aldo Gangemi
+**Datum:** 2014-10-16
+
+**Zusammenfassung**
+
+During the nineties of the last century, historians and computer scientists created together a research agenda around the life cycle of historical information. It comprised the tasks of creation, design, enrichment, editing, retrieval, analysis and presentation of historical information with help of information technology. They also identified a number of problems and challenges in this field, some of them closely related to semantics and meaning. In this survey paper we study the joint work of historians and computer scientists in the use of Semantic Web methods and technologies in historical research. We analyse to what extent these contributions help in solving the open problems in the agenda of historians, and we describe open challenges and possible lines of research pushing further a still young, but promising, historical Semantic Web.

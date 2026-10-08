@@ -1,0 +1,6 @@
+**Autor:** Sepideh Alassi
+**Datum:** 2026-03-09
+
+**Zusammenfassung**
+
+This article presents a methodological framework for representing historical diaries as multi-layered, interactive, region-based RDF knowledge graphs, enabling precise and granular modeling of manuscripts, pages, textual regions, and annotations. It identifies five significant challenges in scholarly digital editions and demonstrates how these can be addressed through a framework that supports segment-level text representation, targeted annotation, and interoperability across editions, languages, and manuscript witnesses. This framework incorporates a segment-level citation system with resolvable, timestamped identifiers, ensuring reproducibility, stable referencing, and reliable scholarly citation over time. To describe the suggested methodologies and functionalities, this paper provides examples from digital editions of Jacob Bernoulli’s Meditationes and Reisbüchlein, highlighting the potential of RDF ontologies to capture complex editorial layers, including transcriptions, translations, and scholarly commentary.

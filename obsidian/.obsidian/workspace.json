@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9731b1133ab82e04",
+        "id": "41f219baf722205c",
         "type": "tabs",
         "children": [
           {
-            "id": "5fe0821488a69949",
+            "id": "e50b8e19fd0785c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge-graph_ftb/t_25-09-2026_b Gespräch mit Markus.md",
+                "file": "knowledge-graph_thesis/2. praxis/2.1 metadata to knowlege-graph/draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "t_25-09-2026_b Gespräch mit Markus"
-            }
-          },
-          {
-            "id": "c794e35990366e76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge-graph_ftb/t_25-09-2026 Erste OCR-Versuche?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "t_25-09-2026 Erste OCR-Versuche?"
+              "title": "draft"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +71,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Lesezeichen"
             }
@@ -95,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.3312683105469
+    "width": 363.0903015136719
   },
   "right": {
     "id": "5c2b67ad43ce68a1",
@@ -190,62 +178,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
+      "switcher:Schnellauswahl öffnen": true,
       "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
+      "canvas:Neuen Canvas erstellen": true,
+      "daily-notes:Heutige Notiz öffnen": true,
+      "templates:Vorlage einfügen": true,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": true
     }
   },
-  "active": "c794e35990366e76",
+  "active": "e50b8e19fd0785c7",
   "lastOpenFiles": [
-    "knowledge-graph_ftb/t_25-09-2026_b Gespräch mit Markus.md",
-    "knowledge-graph_ftb/t_25-09-2026 Erste OCR-Versuche?.md",
-    "knowledge-graph_thesis/1. einleitung/1.3 Repräsentation im KI-Zeitalter.md",
-    "knowledge-graph_thesis/2. praxis/2.1 Textauswahl.md",
-    "knowledge-graph_thesis/2. praxis/2.3 \"Dirty\" OCR.md",
-    "knowledge-graph_thesis/2. praxis/2.2 Graph-Datenbank 1.0.md",
-    "knowledge-graph_thesis/3. fazit/3.1 Evaluation OCR.md",
-    "knowledge-graph_thesis/2. praxis/2.4 Graph-Datenbank 2.0.md",
-    "knowledge-graph_thesis/2. praxis/2.5 Interface.md",
-    "knowledge-graph_thesis/1. einleitung/1.1 Textsammlungen und Bibliotheken.md",
-    "knowledge-graph_thesis/1. einleitung/1.2 Formen der Repräsentation.md",
-    "knowledge-graph_ftb/Unbenannt",
-    "knowledge-graph_ftb/t_24-09-2026_b Reflexionen über das UX.md",
-    "knowledge-graph_ftb/t_24-09-2026_a Analyse bestehender Ontologien und Graphen.md",
-    "knowledge-graph_ftb/t_06-08-2026 Einrichtung der KI-Werkstatt.md",
-    "knowledge-graph_ftb/t_23-09-2026 Literaturrecherche.md",
-    "knowledge-graph_ftb/t_21-09-2026 Erstes Lesen einer zufälligen Abhandlung.md",
-    "knowledge-graph_ftb/t_22-09-2026 Analyse bestehender Ontologien und Graphen.md",
-    "readme.md",
-    "knowledge-graph_ftb/readme.md",
-    "knowledge-graph_thesis/1. einleitung/1.4 Technische und Epistemische Bedingungen.md",
-    "knowledge-graph_thesis/1. einleitung/1.5 Kontrollierte oder Emergente Repräsentation.md",
-    "knowledge-graph_thesis/1. einleitung/1.2 Symbolische oder subsymbolische Repräsentation.md",
-    "knowledge-graph_thesis/1. einleitung/1.2 Semantische Erschließung und Repräsentation.md",
-    "knowledge-graph_thesis/1. einleitung/1.2 Nutzen von Wissensgraphen.md",
-    "knowledge-graph_thesis/3. fazit",
-    "knowledge-graph_thesis/4. literatur/recherche_doku.md",
-    "knowledge-graph_ftb/1. Monat/t_06-08-2026 KI-Literaturverwaltung.md",
-    "Unbenannt",
-    "iiif-plattform_ftb/bericht",
+    "knowledge-graph_thesis/2. praxis/2.1 metadata to knowlege-graph/idee.md",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/idee.md",
+    "knowledge-graph_thesis/2. praxis/2.1 metadata to knowlege-graph/draft.md",
+    "knowledge-graph_thesis/2. praxis/2.1 metadata to knowlege-graph/2.1.5 Ontologiekonstruktion.md",
+    "knowledge-graph_thesis/2. praxis/2.1 metadata to knowlege-graph/2.1.3 Informationsextraktion.md",
+    "knowledge-graph_thesis/2. praxis/2.2 \"dirty\" ocr & cv/draft.md",
+    "knowledge-graph_thesis/2. praxis/2.1 metadata to knowlege-graph/abstracts",
+    "knowledge-graph_thesis/2. praxis/2.2 \"dirty\" ocr & cv/abstracts",
+    "knowledge-graph_thesis/2. praxis/2.1 metadata to knowlege-graph/2.1.2 Metadatenkuration.md",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/2.3.2 close-ie/draft.md",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/2.3.2 open-ie/draft.md",
+    "knowledge-graph_thesis/2. praxis/2.1 metadata to knowlege-graph/2.1.6 Evaluation & Interface.md",
+    "knowledge-graph_thesis/2. praxis/2.1 metadata to knowlege-graph/2.1.4 Informationsverlinkung.md",
+    "knowledge-graph_thesis/2. praxis/2.4 retrival & interface/abstracts/Ontology-based federated information systems with NLP-enhanced retrieval.md",
+    "knowledge-graph_thesis/2. praxis/2.4 retrival & interface/abstracts/Digitales Entdecken im Graph.md",
+    "knowledge-graph_thesis/1. introduction/1.3 nlp & llm-usage/draft.md",
+    "knowledge-graph_thesis/1. introduction/1.1 wide context/draft.md",
+    "knowledge-graph_thesis/1. introduction/1.2 knowledge-graph & ontology/draft.md",
+    "knowledge-graph_thesis/1. introduction/1.3 nlp & llm-usage/abstracts/Understanding Natural Language Processing (NLP) Techniques.md",
+    "knowledge-graph_thesis/1. introduction/1.3 nlp & llm-usage/abstracts/Train the model, change the prompt or adapt the data.md",
+    "knowledge-graph_thesis/1. introduction/1.3 nlp & llm-usage/abstracts/On the Dangers of Stochastic Parrots - Can Language Models Be Too Big 🦜.md",
+    "knowledge-graph_thesis/1. introduction/1.3 nlp & llm-usage/abstracts/Natural language processing - state of the art, current trends and challenges.md",
+    "knowledge-graph_thesis/1. introduction/1.3 nlp & llm-usage/abstracts/Die Maschine und die Geschichtswissenschaft - Der Einfluss von deep learning auf eine Disziplin.md",
+    "knowledge-graph_thesis/1. introduction/1.3 nlp & llm-usage/abstracts/Constructing knowledge graphs by Large Language Models - Methodology, practice, and challenges.md",
+    "knowledge-graph_thesis/1. introduction/1.3 nlp & llm-usage/abstracts/Climbing towards NLU - On Meaning, Form, and Understanding in the Age of Data.md",
+    "knowledge-graph_thesis/1. introduction/1.3 nlp & llm-usage/abstracts/A dancing bear, a colleague, or a sharpened toolbox The cautious adoption of generative AI technologies in digital humanities research.md",
+    "knowledge-graph_thesis/1. introduction/1.1 wide context/abstracts/State of the Field - Digital History.md",
+    "knowledge-graph_thesis/1. introduction/1.1 wide context/abstracts/Semantic technologies for historical research - A survey.md",
+    "knowledge-graph_thesis/3. conclusion/abstracts",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/2.3.2 close-ie/abstracts",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/2.3.2 open extraction/Unbenannt",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/2.3.1 text-modell/abstracts",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/2.3.1 text-modell",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/2.3.2 close-ie",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/2.4 open extraction/Unbenannt",
+    "knowledge-graph_thesis/2. praxis/2.3 text to knowledge-graph/2.3.2 open-ie/abstracts",
+    "material/used_images/Pasted image 20260929112614.png",
+    "Unbenannt.canvas",
+    "images/Pasted image 20260929112329.png",
+    "Pasted image 20260929112259.png",
     "iiif-plattform_ftb/images/Pasted image 20260623173345.png",
     "iiif-plattform_ftb/images/Pasted image 20260716113314.png",
     "iiif-plattform_ftb/images/Pasted image 20260716121347.png",
     "iiif-plattform_ftb/images/Pasted image 20260716153308.png",
-    "knowledge-graph_thesis/1. einleitung",
-    "knowledge-graph_thesis/4. literatur",
-    "knowledge-graph_ftb/1. Monat",
-    "knowledge-graph_ftb",
-    "iiif-plattform_ftb/images",
-    "sew_manuell/struktur/3 reflexion",
     "Pasted image 20260716105644.png",
     "Pasted image 20260716093352.png",
-    "Pasted image 20260716093048.png",
-    "Pasted image 20260714141712.png",
-    "Pasted image 20260716111854.png",
-    "Pasted image 20260716110626.png"
+    "Pasted image 20260716093048.png"
   ]
 }

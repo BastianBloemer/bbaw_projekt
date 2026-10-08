@@ -1,0 +1,6 @@
+**Autor:** Sandrine Chausson, Björn Ross
+**Datum:** 2026-10-04
+
+**Zusammenfassung**
+
+A large part of political discourse on social media is built and expressed at a level of claims: i.e. declarative, typically single-clause statements, which convey a particular interpretation of reality and can range from factual to evaluative. Moreover, rather than occurring randomly, claims coalesce, recur in patterns, and come to be associated with different world views. When paired with structural computational tools such as Social Network Analysis, claims can be a powerful unit of analysis to study political phenomena such as echo chambers or polarisation. In this paper, we present a pipeline that uses a large language model (LLM) to inductively extract and catalogue claims from large social media corpora, and apply it to two different Twitter datasets: one relating to the 2020 US presidential election and the other to the 2022 FIFA World Cup. We comprehensively evaluate the approach by measuring the pipeline’s recall and precision against manually annotated samples, run ablation studies isolating the contribution of its various components, and perform a qualitative error analysis. We discuss the value of the approach in the context of Computational Social Science research, and illustrate its capabilities by presenting the claims catalogue obtained from each dataset.

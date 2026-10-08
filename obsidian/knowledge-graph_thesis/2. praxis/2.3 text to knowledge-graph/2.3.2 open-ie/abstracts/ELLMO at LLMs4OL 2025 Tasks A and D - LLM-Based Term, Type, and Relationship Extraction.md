@@ -1,0 +1,6 @@
+**Autor:** Ryan Roche, Ryn Gray, Jaimie Murdock, Douglas C. Crowder
+**Datum:** 2025-10-01
+
+**Zusammenfassung**
+
+This paper presents an approach to building ontologies using Large Language Models (LLMs), addressing the need in many domains for quality knowledge data extraction from vast stores of text data. In particular, we focus on extracting terms and types from text and discovering relationships between types. This work was completed as part of the 2025 LLMs4OL Challenge, where quality training and testing data, as well as several defined tasks were provided. Many teams competed to produce the best output data across many domains. Our methodology involved prompt engineering, classification, clustering, and vector databases. For the first task, discovering terms and types, we used two methods, (1) directly tailoring prompts to find the terms and types separately and (2) an approach that discovered terms and types simultaneously and then classified them afterwards. For discovering relationships, we used clustering and vector databases to attempt to reduce the number of potential edges; then, we queried the LLM for probabilities for each of the potential edges. While our findings indicate promising results, further work is necessary to address challenges related to processing large datasets, particularly in optimizing efficiency and accuracy.
