@@ -13789,6 +13789,18 @@
               "1746"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp17\" target=\"_blank\" rel=\"noopener\">Ueber das Licht und die Farben <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
+            ]
+          }
         }
       ]
     },
@@ -13840,6 +13852,18 @@
           "value": {
             "de": [
               "1746"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp25\" target=\"_blank\" rel=\"noopener\">Ueber den Stoß und den Druck <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }
@@ -13897,6 +13921,18 @@
           "value": {
             "de": [
               "1746"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp28\" target=\"_blank\" rel=\"noopener\">Ueber die Beschaffenheit der kleinsten Theilchen der Materie <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }
@@ -14196,220 +14232,12 @@
       "type": "Range",
       "label": {
         "de": [
-          "Sur quelques propriétés des Sections Coniques, qui conviennent à une infinité d'autres lignes courbes : Auszug (S. 1–53)"
+          "Sur quelques propriétés des Sections Coniques, qui conviennent à une infinité d'autres lignes courbes : Auszug (S. 53)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p69",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p70",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p71",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p72",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p73",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p74",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p75",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p76",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p77",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p78",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p79",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p80",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p81",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p82",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p83",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p84",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p85",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p86",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p87",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p88",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p89",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p90",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p91",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p92",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p93",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p94",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p95",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p96",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p97",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p98",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p99",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p100",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p101",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p102",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p103",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p104",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p105",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p106",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p107",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p108",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p109",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p110",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p111",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p112",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p113",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p114",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p115",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p116",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p117",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p118",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p119",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p120",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p121",
           "type": "Canvas"
         }
       ],
@@ -14490,232 +14318,12 @@
       "type": "Range",
       "label": {
         "de": [
-          "Nouveau Problème de Mécanique résolu : Auszug (S. 1–56)"
+          "Nouveau Problème de Mécanique résolu : Auszug (S. 56)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p72",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p73",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p74",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p75",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p76",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p77",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p78",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p79",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p80",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p81",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p82",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p83",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p84",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p85",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p86",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p87",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p88",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p89",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p90",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p91",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p92",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p93",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p94",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p95",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p96",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p97",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p98",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p99",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p100",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p101",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p102",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p103",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p104",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p105",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p106",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p107",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p108",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p109",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p110",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p111",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p112",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p113",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p114",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p115",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p116",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p117",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p118",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p119",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p120",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p121",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p122",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p123",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p124",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p125",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p126",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1745!tif/canvas/p127",
           "type": "Canvas"
         }
       ],
@@ -15269,7 +14877,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\">Examen du Spinozisme et des Objections de Mr. Bayle contre ce Système : Auszug <span class=\"beziehung-typ\">(Verweis)</span></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/02-hist/02-hist_1745.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2102-hist%211745%21tif%2Fcanvas%2Fp265\" target=\"_blank\" rel=\"noopener\">Examen du Spinozisme et des Objections de Mr. Bayle contre ce Système <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -16307,6 +15915,18 @@
               "mit 1 Tafel"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp45\" target=\"_blank\" rel=\"noopener\">Abhandlung über die Electricität der Barometer <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
+            ]
+          }
         }
       ]
     },
@@ -16366,6 +15986,18 @@
           "value": {
             "de": [
               "1746"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp52\" target=\"_blank\" rel=\"noopener\">Von der Auflösung verschiedener Metalle in dem aufgelöseten Alcali <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }
@@ -16435,6 +16067,18 @@
           "value": {
             "de": [
               "mit 2 Tafeln"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp49\" target=\"_blank\" rel=\"noopener\">Beschreibung eines Instrumentes zu den Microscopischen Beobachtungen lebendiger Thiere <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }
@@ -17136,6 +16780,18 @@
           "value": {
             "de": [
               "1746"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/02-hist/02-hist_1745.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2102-hist%211745%21tif%2Fcanvas%2Fp101\" target=\"_blank\" rel=\"noopener\">Examen du Spinozisme et des Objections de Mr. Bayle contre ce Système : Auszug <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }

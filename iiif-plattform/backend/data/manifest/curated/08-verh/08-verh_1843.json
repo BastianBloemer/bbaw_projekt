@@ -13713,7 +13713,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Demonstration von Modellen leichter, gebrannter Mauersteine aus Infusorien-Erde (S. 441)"
+          "Demonstration von Modellen leichter, gebrannter Mauersteine aus Infusorien-Erde (S. 41)"
         ]
       },
       "items": [
@@ -13974,7 +13974,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über einen von Platon (de legg. IV. p. 716) erwähnten palaios logos (S. 660)"
+          "Über einen von Platon (de legg. IV. p. 716) erwähnten palaios logos (S. 60)"
         ]
       },
       "items": [
@@ -14129,7 +14129,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Wiederkehr des Cometen von Pons im Jahre 1838"
+          "Über die Wiederkehr des Cometen von Pons im Jahre 1838 (S. 71–75)"
         ]
       },
       "items": [
@@ -14186,7 +14186,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über das ballistischeproblem"
+          "Über das ballistischeproblem (S. 76–78)"
         ]
       },
       "items": [
@@ -14495,7 +14495,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Beobachtungen des Cometen [März 1843], welche auf der Berliner Sternwarte angestellt sind"
+          "Beobachtungen des Cometen [März 1843], welche auf der Berliner Sternwarte angestellt sind (S. 107–110)"
         ]
       },
       "items": [
@@ -14662,7 +14662,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Bahn des [März 1843] auf der Berliner Sternwarte beobachteten Cometen"
+          "Über die Bahn des [März 1843] auf der Berliner Sternwarte beobachteten Cometen (S. 120–121)"
         ]
       },
       "items": [
@@ -14764,7 +14764,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Bestand der philosophischen Schulen in Athen und die Succession der Scholarchen : Auszug (S. 1126)"
+          "Über den Bestand der philosophischen Schulen in Athen und die Succession der Scholarchen : Auszug (S. 126)"
         ]
       },
       "items": [
@@ -14806,48 +14806,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1842.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211842%21tif%2Fcanvas%2Fp373\" target=\"_blank\" rel=\"noopener\">Über den Bestand der philosophischen Schulen in Athen und die Succession der Scholarchen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1842.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211842%21tif%2Fcanvas%2Fp212\" target=\"_blank\" rel=\"noopener\">Über den Bestand der philosophischen Schulen in Athen und die Succession der Scholarchen : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1843!tif/range/r_NEU-094974365-38",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über den Bestand der philosophischen Schulen in Athen und die Succession der Scholarchen : Auszug (S. 126)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1843!tif/canvas/p126",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Zumpt, Karl Gottlob"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1842.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211842%21tif%2Fcanvas%2Fp212\" target=\"_blank\" rel=\"noopener\">Über den Bestand der philosophischen Schulen in Athen und die Succession der Scholarchen : Auszug <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1842.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211842%21tif%2Fcanvas%2Fp212\" target=\"_blank\" rel=\"noopener\">Über den Bestand der philosophischen Schulen in Athen und die Succession der Scholarchen : Auszug <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1842.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211842%21tif%2Fcanvas%2Fp373\" target=\"_blank\" rel=\"noopener\">Über den Bestand der philosophischen Schulen in Athen und die Succession der Scholarchen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1842.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211842%21tif%2Fcanvas%2Fp212\" target=\"_blank\" rel=\"noopener\">Über den Bestand der philosophischen Schulen in Athen und die Succession der Scholarchen : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span>"
             ]
           }
         }
@@ -15445,7 +15404,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über neuentdeckte griechische Münzen der Sammlung S. E. des K. K. Gesandten zu Athen Hrn. v. Prokesch-Osten (S. 1175)"
+          "Über neuentdeckte griechische Münzen der Sammlung S. E. des K. K. Gesandten zu Athen Hrn. v. Prokesch-Osten (S. 175)"
         ]
       },
       "items": [
@@ -16046,7 +16005,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über ein, in Justinian's Pandekten enthaltenes, Verzeichnis ausländischer Waaren, von denen eine Eingangssteuer an den Zollstätten des römischen Reiches erhoben wurde : Auszug (S. 2247)"
+          "Über ein, in Justinian's Pandekten enthaltenes, Verzeichnis ausländischer Waaren, von denen eine Eingangssteuer an den Zollstätten des römischen Reiches erhoben wurde : Auszug (S. 247)"
         ]
       },
       "items": [

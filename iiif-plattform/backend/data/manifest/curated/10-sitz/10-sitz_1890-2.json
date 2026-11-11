@@ -35187,6 +35187,18 @@
               "Köhler, Ulrich"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
         }
       ]
     },
@@ -35218,6 +35230,18 @@
           "value": {
             "de": [
               "Kayser, Heinrich"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -35271,6 +35295,18 @@
           "value": {
             "de": [
               "Kronecker, Leopold"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -35433,6 +35469,18 @@
           "value": {
             "de": [
               "Siemens, Werner von"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -35620,6 +35668,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -35691,6 +35751,18 @@
           "value": {
             "de": [
               "Rammelsberg, Karl Friedrich"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -35842,6 +35914,18 @@
               "Klein, Karl"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
         }
       ]
     },
@@ -35925,6 +36009,18 @@
           "value": {
             "de": [
               "Auerbach, Leopold"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -36151,7 +36247,19 @@
           },
           "value": {
             "de": [
-              "Du Bois-Reymond, Emil"
+              "Du Bois-reymond, Emil"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         },
@@ -36197,6 +36305,18 @@
           "value": {
             "de": [
               "Weinhold, Karl"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         },
@@ -36250,6 +36370,18 @@
           "value": {
             "de": [
               "Gabelentz, Georg von der"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         },
@@ -36329,6 +36461,71 @@
       ]
     },
     {
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/range/r_094933391",
+      "type": "Range",
+      "label": {
+        "de": [
+          "Antrittsrede (S. 788–791)"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/canvas/p239",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/canvas/p240",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/canvas/p241",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/canvas/p242",
+          "type": "Canvas"
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Autor"
+            ]
+          },
+          "value": {
+            "de": [
+              "Harnack, Adolf"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp242\" target=\"_blank\" rel=\"noopener\">Antwort auf die Antrittsrede von Harnack <span class=\"beziehung-typ\">(Antwort)</span></a></span>"
+            ]
+          }
+        }
+      ]
+    },
+    {
       "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/range/r_565126539",
       "type": "Range",
       "label": {
@@ -36383,7 +36580,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp739\" target=\"_blank\" rel=\"noopener\">Antrittsrede <span class=\"beziehung-typ\">(Antrittsrede)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp239\" target=\"_blank\" rel=\"noopener\">Antrittsrede <span class=\"beziehung-typ\">(Antrittsrede)</span></a></span>"
             ]
           }
         }
@@ -36618,6 +36815,18 @@
           "value": {
             "de": [
               "Brunner, Heinrich"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -36869,6 +37078,18 @@
           "value": {
             "de": [
               "Schneider, Robert"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         },
@@ -37246,6 +37467,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Abbildungen"
             ]
           },
@@ -37297,6 +37530,18 @@
           "value": {
             "de": [
               "Arons, Leo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -37569,6 +37814,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -37779,6 +38036,18 @@
               "Schimper, Andreas Franz Wilhelm"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
         }
       ]
     },
@@ -37834,6 +38103,18 @@
           "value": {
             "de": [
               "Kronecker, Leopold"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -37931,6 +38212,18 @@
           "value": {
             "de": [
               "Kirchhoff, Adolf"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -38034,6 +38327,18 @@
               "Dames, Wilhelm"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
         }
       ]
     },
@@ -38085,6 +38390,18 @@
           "value": {
             "de": [
               "Schwendener, Simon"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -38196,7 +38513,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Umänderungen, welche die Zeolithe durch Erwärmen bei und nach dem Trübewerden erfahren"
+          "Über die Umänderungen, welche die Zeolithe durch Erwärmen bei und nach dem Trübewerden erfahren (S. 1163–1210)"
         ]
       },
       "items": [
@@ -38490,6 +38807,18 @@
               "Braun, Ferdinand"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
         }
       ]
     },
@@ -38565,6 +38894,18 @@
           "value": {
             "de": [
               "Kronecker, Leopold"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -38662,6 +39003,18 @@
           "value": {
             "de": [
               "Liebreich, Oskar"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         },
@@ -38818,6 +39171,18 @@
               "Hofmann, August Wilhelm von"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
         }
       ]
     },
@@ -38899,57 +39264,16 @@
               "Gabriel, Siegmund"
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/range/r_094933391",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Antrittsrede (S. 788–791)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/canvas/p739",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/canvas/p740",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/canvas/p741",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1890-2!tif/canvas/p742",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Harnack, Adolf"
-            ]
-          }
         },
         {
           "label": {
             "de": [
-              "Textbeziehungen"
+              "Erscheinungsjahr"
             ]
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp242\" target=\"_blank\" rel=\"noopener\">Antwort auf die Antrittsrede von Harnack <span class=\"beziehung-typ\">(Antwort)</span></a></span>"
+              "1890"
             ]
           }
         }
@@ -39067,6 +39391,18 @@
           "value": {
             "de": [
               "Bezold, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         }
@@ -39376,6 +39712,18 @@
               "Dillmann, August"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
+            ]
+          }
         }
       ]
     },
@@ -39455,6 +39803,18 @@
           "value": {
             "de": [
               "Kronecker, Leopold"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1890"
             ]
           }
         },

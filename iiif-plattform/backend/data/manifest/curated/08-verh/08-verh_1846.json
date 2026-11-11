@@ -15861,7 +15861,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Bemerkung über die Zusammensetzung der phosphorichten und unterphosphorichten Säure (S. 115)"
+          "Bemerkung über die Zusammensetzung der phosphorichten und unterphosphorichten Säure (S. 15)"
         ]
       },
       "items": [
@@ -16215,7 +16215,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Beobachtungen über die Astraea und den Biela'schen Cometen"
+          "Beobachtungen über die Astraea und den Biela'schen Cometen (S. 44–50)"
         ]
       },
       "items": [
@@ -16325,7 +16325,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Verschiedenheit des specifischen Gewichts der Kieselerde (S. 553)"
+          "Über die Verschiedenheit des specifischen Gewichts der Kieselerde (S. 53)"
         ]
       },
       "items": [
@@ -16613,7 +16613,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über einige geometrische Lehrsätze und Aufgaben (S. 887)"
+          "Über einige geometrische Lehrsätze und Aufgaben (S. 87)"
         ]
       },
       "items": [
@@ -17614,7 +17614,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Berechnung des Ortes des Schwerpunkts unseres Sonnensystems für 1800- 1883"
+          "Berechnung des Ortes des Schwerpunkts unseres Sonnensystems für 1800- 1883 (S. 173–176)"
         ]
       },
       "items": [
@@ -17717,56 +17717,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp273\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1841.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211841%21tif%2Fcanvas%2Fp179\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1846!tif/range/r_NEU-094946809-37",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über die Gattung Comatula Lam. und ihre Arten : Auszug (S. 177–179)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1846!tif/canvas/p181",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1846!tif/canvas/p182",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1846!tif/canvas/p183",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Müller, Johannes"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1841.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211841%21tif%2Fcanvas%2Fp179\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten : Auszug <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1841.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211841%21tif%2Fcanvas%2Fp179\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten : Auszug <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp273\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1841.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211841%21tif%2Fcanvas%2Fp179\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span>"
             ]
           }
         }
@@ -17827,56 +17778,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp302\" target=\"_blank\" rel=\"noopener\">Bemerkung über die Fussknochen des fossilen Gürtelthiers, Glyptodon clavipes Ow <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1846!tif/range/r_NEU-094962650-27",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Bemerkung über die Fussknochen des fossilen Gürtelthiers, Glyptodon clavipes Ow (S. 179–181)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1846!tif/canvas/p183",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1846!tif/canvas/p184",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1846!tif/canvas/p185",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Müller, Johannes"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp302\" target=\"_blank\" rel=\"noopener\">Bemerkung über die Fussknochen des fossilen Gürtelthiers, Glyptodon clavipes Ow <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp302\" target=\"_blank\" rel=\"noopener\">Bemerkung über die Fussknochen des fossilen Gürtelthiers, Glyptodon clavipes Ow <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp302\" target=\"_blank\" rel=\"noopener\">Bemerkung über die Fussknochen des fossilen Gürtelthiers, Glyptodon clavipes Ow <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -18312,7 +18214,19 @@
           },
           "value": {
             "de": [
-              "Böckh"
+              "Böckh, August"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1846"
             ]
           }
         },
@@ -18335,7 +18249,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über Leibnizens kirchliches Glaubensbekenntniss (S. 2219)"
+          "Über Leibnizens kirchliches Glaubensbekenntniss (S. 219)"
         ]
       },
       "items": [
@@ -19084,7 +18998,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den neuentdeckten Planeten Neptun"
+          "Über den neuentdeckten Planeten Neptun (S. 279–289)"
         ]
       },
       "items": [

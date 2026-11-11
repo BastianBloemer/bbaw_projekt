@@ -18707,7 +18707,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Polhöhe von Berlin"
+          "Über die Polhöhe von Berlin (S. 227–232)"
         ]
       },
       "items": [
@@ -19730,7 +19730,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Ponsschen Cometen"
+          "Über den Ponsschen Cometen (S. 341)"
         ]
       },
       "items": [
@@ -19771,7 +19771,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die genauere Bestimmung der Berliner Polhöhe"
+          "Über die genauere Bestimmung der Berliner Polhöhe (S. 342–348)"
         ]
       },
       "items": [
@@ -19901,7 +19901,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über eine nolanische Amphora (S. 3356)"
+          "Über eine nolanische Amphora (S. 356)"
         ]
       },
       "items": [
@@ -20360,7 +20360,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Entdeckung und Elemente der Astraea"
+          "Entdeckung und Elemente der Astraea (S. 405–407)"
         ]
       },
       "items": [
@@ -20374,66 +20374,6 @@
         },
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p408",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p409",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p410",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p411",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p412",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p413",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p414",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p415",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p416",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p417",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p418",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p419",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p420",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p421",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p422",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1845!tif/canvas/p423",
           "type": "Canvas"
         }
       ],

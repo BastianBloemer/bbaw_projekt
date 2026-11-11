@@ -28921,6 +28921,18 @@
               "Waldeyer, Wilhelm"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1896"
+            ]
+          }
         }
       ]
     },
@@ -29814,6 +29826,18 @@
           "value": {
             "de": [
               "Tobler, Adolf"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1896"
             ]
           }
         },
@@ -31608,6 +31632,18 @@
           "value": {
             "de": [
               "Munk, Hermann"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1896"
             ]
           }
         }

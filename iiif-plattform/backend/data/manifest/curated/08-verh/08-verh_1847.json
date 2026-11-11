@@ -20185,7 +20185,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Die Entdeckung und die ersten Bahnbestimmungen der Astraea"
+          "Die Entdeckung und die ersten Bahnbestimmungen der Astraea (S. 22–25)"
         ]
       },
       "items": [
@@ -20238,7 +20238,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Einige Conjecturen zum DioCassius (S. 226)"
+          "Einige Conjecturen zum DioCassius (S. 26)"
         ]
       },
       "items": [
@@ -20279,7 +20279,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Die Entdeckung und die ersten Bahnbestimmungen der Astraea"
+          "Die Entdeckung und die ersten Bahnbestimmungen der Astraea (S. 28–30)"
         ]
       },
       "items": [
@@ -20374,52 +20374,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1846.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211846%21tif%2Fcanvas%2Fp188\" target=\"_blank\" rel=\"noopener\">Über die Bewegungen der Wärme in Erdschichten von verschiedener geognostischer Beschaffenheit <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1847!tif/range/r_NEU-09494038X-26",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über die Bewegungen der Wärme in Erdschichten von verschiedener geognostischer Beschaffenheit (S. 31–32)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1847!tif/canvas/p31",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1847!tif/canvas/p32",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Dove, Heinrich Wilhelm"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1846.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211846%21tif%2Fcanvas%2Fp188\" target=\"_blank\" rel=\"noopener\">Über die Bewegungen der Wärme in Erdschichten von verschiedener geognostischer Beschaffenheit <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1846.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211846%21tif%2Fcanvas%2Fp188\" target=\"_blank\" rel=\"noopener\">Über die Bewegungen der Wärme in Erdschichten von verschiedener geognostischer Beschaffenheit <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1846.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211846%21tif%2Fcanvas%2Fp188\" target=\"_blank\" rel=\"noopener\">Über die Bewegungen der Wärme in Erdschichten von verschiedener geognostischer Beschaffenheit <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -21143,7 +21098,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über ein optischer Verfahren, die Umdrehungsgeschwindigkeit einer rotirenden Scheibe zu messen (S. 777)"
+          "Über ein optischer Verfahren, die Umdrehungsgeschwindigkeit einer rotirenden Scheibe zu messen (S. 77)"
         ]
       },
       "items": [
@@ -21249,7 +21204,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Säure im Columbit von Nordamerika (S. 886)"
+          "Über die Säure im Columbit von Nordamerika (S. 86)"
         ]
       },
       "items": [
@@ -21740,7 +21695,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über eine ältere Beobachtung des Neptuns"
+          "Über eine ältere Beobachtung des Neptuns (S. 144–147)"
         ]
       },
       "items": [
@@ -22074,7 +22029,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über finnische Wörter (S. 1175)"
+          "Über finnische Wörter (S. 175)"
         ]
       },
       "items": [
@@ -22741,7 +22696,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Anzeige von der Entdeckung eines neuen Planeten [Hebe] durch Hrn.Hencke in Driesen und die erste in Berlin erhaltene Bahnbestimmung"
+          "Anzeige von der Entdeckung eines neuen Planeten [Hebe] durch Hrn.Hencke in Driesen und die erste in Berlin erhaltene Bahnbestimmung (S. 231–233)"
         ]
       },
       "items": [
@@ -23153,7 +23108,19 @@
           },
           "value": {
             "de": [
-              "Böckh"
+              "Böckh, August"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1847"
             ]
           }
         },
@@ -23367,7 +23334,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über eine neue, zuverlässigere Bahnbestimmung der Hebe"
+          "Über eine neue, zuverlässigere Bahnbestimmung der Hebe (S. 283–284)"
         ]
       },
       "items": [
@@ -23964,7 +23931,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "[Von der Öffentlichkeit wissenschaftlicher Vereine.] Festrede gehalten am 21.0ctober 1847 zur Feier des Geburtsfestes Sr. Majestät des Königs"
+          "[Von der Öffentlichkeit wissenschaftlicher Vereine.] Festrede gehalten am 21.0ctober 1847 zur Feier des Geburtsfestes Sr. Majestät des Königs (S. 386)"
         ]
       },
       "items": [
@@ -24131,7 +24098,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Planeten Iris nach den Berechnungen des Hrn. d'Arrest, so wie über den neuesten in England entdeckten Planeten [Flora]"
+          "Über den Planeten Iris nach den Berechnungen des Hrn. d'Arrest, so wie über den neuesten in England entdeckten Planeten [Flora] (S. 395–398)"
         ]
       },
       "items": [
@@ -24184,7 +24151,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die von Hrn. Callan angegebene Volta'sche Batterie, unter Anführung eigner Messungen zum Behuf der Prüfung ihrer Tauglichkeit (S. 3399)"
+          "Über die von Hrn. Callan angegebene Volta'sche Batterie, unter Anführung eigner Messungen zum Behuf der Prüfung ihrer Tauglichkeit (S. 399)"
         ]
       },
       "items": [
@@ -24607,7 +24574,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Elemente und die Berliner Meridianbeobachtungen des neuen Planeten Flora"
+          "Über die Elemente und die Berliner Meridianbeobachtungen des neuen Planeten Flora (S. 438–439)"
         ]
       },
       "items": [

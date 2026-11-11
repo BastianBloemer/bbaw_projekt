@@ -17859,64 +17859,12 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Form und Stärke der gewölbten Bogen : Auszug (S. 487–500)"
+          "Über die Form und Stärke der gewölbten Bogen : Auszug (S. 48)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p49",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p50",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p51",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p52",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p53",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p54",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p55",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p56",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p57",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p58",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p59",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p60",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p61",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p62",
           "type": "Canvas"
         }
       ],
@@ -19056,7 +19004,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Untersuchungen über das Ozon (S. 1170)"
+          "Untersuchungen über das Ozon (S. 170)"
         ]
       },
       "items": [
@@ -19319,7 +19267,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Cometen von Pons : Auszug"
+          "Über den Cometen von Pons : Auszug (S. 209–213)"
         ]
       },
       "items": [
@@ -19935,47 +19883,6 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/range/r_NEU-094954089-25",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Deutsche grenzalterthümer (S. 281)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p284",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Grimm, Jakob"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1843.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211843%21tif%2Fcanvas%2Fp428\" target=\"_blank\" rel=\"noopener\">Deutsche grenzalterthümer <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
       "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/range/r_094969574",
       "type": "Range",
       "label": {
@@ -20015,6 +19922,59 @@
           "value": {
             "de": [
               "1844"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/range/r_NEU-094954089-1",
+      "type": "Range",
+      "label": {
+        "de": [
+          "Deutsche grenzalterthümer (S. 281)"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1844!tif/canvas/p284",
+          "type": "Canvas"
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Autor"
+            ]
+          },
+          "value": {
+            "de": [
+              "Grimm, Jakob"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1844"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1843.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211843%21tif%2Fcanvas%2Fp428\" target=\"_blank\" rel=\"noopener\">Deutsche grenzalterthümer <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
             ]
           }
         }
@@ -20082,7 +20042,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Titansäure : Zweiter Theil (S. 248–252)"
+          "Über die Titansäure : Zweiter Theil (S. 286–290)"
         ]
       },
       "items": [

@@ -14,6 +14,7 @@ danach also immer 03 und 04 erneut ausführen.
 """
 
 import json
+import os
 import re
 from pathlib import Path
 
@@ -38,6 +39,14 @@ def patch_node(node):
     return node
 
 
+def schreibe_json_atomar(pfad: Path, daten):
+    """Erst in eine temporaere Datei schreiben, dann in einem Schritt ersetzen --
+    ein Abbruch hinterlaesst so nie eine halb geschriebene Datei."""
+    tmp = pfad.with_name(pfad.name + ".tmp")
+    tmp.write_text(json.dumps(daten, ensure_ascii=False, indent=2), encoding="utf-8")
+    os.replace(tmp, pfad)
+
+
 def copy_and_patch_urls(input_dir: Path, output_dir: Path):
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -48,7 +57,7 @@ def copy_and_patch_urls(input_dir: Path, output_dir: Path):
         # Unterordner-Struktur im Ausgabe-Ordner beibehalten
         output_path = output_dir / input_path.relative_to(input_dir)
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+        schreibe_json_atomar(output_path, data)
 
 
 def migrate_iiif3_to_v2_service(data):
@@ -106,8 +115,7 @@ def process_manifest_folder(folder: Path):
 
                 migrate_iiif3_to_v2_service(manifest)
 
-                with file_path.open("w", encoding="utf-8") as f:
-                    json.dump(manifest, f, indent=2, ensure_ascii=False)
+                schreibe_json_atomar(file_path, manifest)
 
                 print(f"Erfolgreich überschrieben: {file_path.name}")
                 success_count += 1

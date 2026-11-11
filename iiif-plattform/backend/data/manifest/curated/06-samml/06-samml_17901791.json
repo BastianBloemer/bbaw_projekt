@@ -10518,6 +10518,18 @@
               "1796"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_17921793.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%2117921793%21tif%2Fcanvas%2Fp647\" target=\"_blank\" rel=\"noopener\">Mémoire sur Hérodote et le but de son histoire <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
+            ]
+          }
         }
       ]
     },
@@ -10641,6 +10653,18 @@
           "value": {
             "de": [
               "1796"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_17901791.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%2117901791%21tif%2Fcanvas%2Fp561\" target=\"_blank\" rel=\"noopener\">Mémoire sur Thucydide <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }

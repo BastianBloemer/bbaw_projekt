@@ -8078,7 +8078,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über einige noch unbenutzte Sammlungen deutscher Reichstagsacten (S. 111)"
+          "Über einige noch unbenutzte Sammlungen deutscher Reichstagsacten (S. 11)"
         ]
       },
       "items": [
@@ -8339,7 +8339,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Bestimmung der Drehungsgeschwindigkeit des Windes aus directen Beobachtungen seiner Richtung (S. 229)"
+          "Über die Bestimmung der Drehungsgeschwindigkeit des Windes aus directen Beobachtungen seiner Richtung (S. 29)"
         ]
       },
       "items": [
@@ -8433,52 +8433,11 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1838!tif/range/r_NEU-094929246-22",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über den Unterschied der Benennungen Municipium, Colonia, Praefectura im Römischen Staatsrecht (S. 36)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1838!tif/canvas/p37",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Zumpt, Karl Gottlob"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211839%21tif%2Fcanvas%2Fp698\" target=\"_blank\" rel=\"noopener\">Über den Unterschied der Benennungen Municipium, Colonia, Praefectura im Römischen Staatsrecht <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
       "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1838!tif/range/r_094970734",
       "type": "Range",
       "label": {
         "de": [
-          "Über den Unterschied der Benennungen Municipium, Colonia, Praefectura im Römischen Staatsrecht : Auszug (S. 336)"
+          "Über den Unterschied der Benennungen Municipium, Colonia, Praefectura im Römischen Staatsrecht : Auszug (S. 36)"
         ]
       },
       "items": [
@@ -8509,6 +8468,18 @@
           "value": {
             "de": [
               "1838"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211839%21tif%2Fcanvas%2Fp698\" target=\"_blank\" rel=\"noopener\">Über den Unterschied der Benennungen Municipium, Colonia, Praefectura im Römischen Staatsrecht <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
             ]
           }
         }
@@ -9109,7 +9080,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die beiden Ägyptischen Kolossalstatuen der Sammlung Drovetti, die sich gegenwärtig im Königlichen Ägyptischen Museum zu Berlin befinden (S. 991)"
+          "Über die beiden Ägyptischen Kolossalstatuen der Sammlung Drovetti, die sich gegenwärtig im Königlichen Ägyptischen Museum zu Berlin befinden (S. 91)"
         ]
       },
       "items": [
@@ -9681,7 +9652,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Ring des Saturn : Auszug"
+          "Über den Ring des Saturn : Auszug (S. 138–139)"
         ]
       },
       "items": [
@@ -10169,7 +10140,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die diesjährige Erscheinung des Pons'schen Cometen"
+          "Über die diesjährige Erscheinung des Pons'schen Cometen (S. 183–185)"
         ]
       },
       "items": [

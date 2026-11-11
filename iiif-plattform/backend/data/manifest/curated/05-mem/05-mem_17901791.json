@@ -27746,6 +27746,18 @@
               "1796"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/06-samml/06-samml_17901791.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2106-samml%2117901791%21tif%2Fcanvas%2Fp185\" target=\"_blank\" rel=\"noopener\">Über den Thucydides <span class=\"beziehung-typ\">(Original)</span></a></span>"
+            ]
+          }
         }
       ]
     },

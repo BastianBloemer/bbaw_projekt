@@ -26148,6 +26148,18 @@
               "Kirchhoff, Adolf"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -26278,6 +26290,18 @@
               "Hofmann, August Wilhelm von"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -26335,6 +26359,18 @@
               "Hofmann, August Wilhelm von"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -26372,6 +26408,18 @@
               "Schneider, Robert"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -26407,6 +26455,18 @@
           "value": {
             "de": [
               "Dove, Heinrich Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -26555,6 +26615,18 @@
               "Hofmann, August Wilhelm von"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -26656,109 +26728,12 @@
         {
           "label": {
             "de": [
-              "Textbeziehungen"
+              "Erscheinungsjahr"
             ]
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp65\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp99\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp169\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp325\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp465\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp573\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp137\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp246\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp345\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp590\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp658\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp859\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp1051\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp60\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp165\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp348\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp505\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp13\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp87\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp139\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp373\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp452\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp558\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp626\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp136\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp339\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp479\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp593\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp650\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp755\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp435\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp691\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp741\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp1051\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp68\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp152\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp196\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1870.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211870%21tif%2Fcanvas%2Fp822\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1871.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211871%21tif%2Fcanvas%2Fp78\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/range/r_NEU-094976880-133",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Grammatisch kritische Bemerkungen zum Homer (S. 65–82)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p68",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p69",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p70",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p71",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p72",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p73",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p74",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p75",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p76",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p77",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p78",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p79",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p80",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p81",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p82",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p83",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p84",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p85",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Bekker, Immanuel"
+              "1868"
             ]
           }
         },
@@ -26770,7 +26745,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp68\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp65\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp99\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp169\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp325\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp465\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp573\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp137\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp246\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp345\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp590\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp658\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp859\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp1051\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp60\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp165\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp348\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp505\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp13\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp87\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp139\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp373\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp452\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp558\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp626\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp136\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp339\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp479\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp593\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp650\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp755\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp435\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp691\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp741\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp152\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp196\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1870.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211870%21tif%2Fcanvas%2Fp822\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1871.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211871%21tif%2Fcanvas%2Fp78\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -26948,6 +26923,18 @@
           "value": {
             "de": [
               "Hübner, Emil"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -27128,6 +27115,18 @@
               "Rudorff, Adolf Friedrich"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -27167,6 +27166,18 @@
           "value": {
             "de": [
               "Peters, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -27226,6 +27237,18 @@
               "Kundt, August"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -27257,6 +27280,18 @@
           "value": {
             "de": [
               "Peters, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -27332,6 +27367,18 @@
               "Quincke, Georg"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -27367,6 +27414,18 @@
           "value": {
             "de": [
               "Reichert, Karl Bogislaus"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -27408,6 +27467,18 @@
           "value": {
             "de": [
               "Peters, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -27475,73 +27546,12 @@
         {
           "label": {
             "de": [
-              "Textbeziehungen"
+              "Erscheinungsjahr"
             ]
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp65\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp99\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp169\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp325\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp465\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp573\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp137\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp246\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp345\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp590\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp658\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp859\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp1051\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp60\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp165\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp348\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp505\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp13\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp87\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp139\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp373\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp452\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp558\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp626\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp136\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp339\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp479\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp593\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp650\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp755\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp435\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp691\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp741\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp68\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp1051\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp152\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp196\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1870.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211870%21tif%2Fcanvas%2Fp822\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1871.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211871%21tif%2Fcanvas%2Fp78\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/range/r_NEU-094978034-135",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Grammatisch kritische Bemerkungen zum Homer (S. 149–157)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p152",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p153",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p154",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p155",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p156",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p157",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p158",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p159",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p160",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Bekker, Immanuel"
+              "1868"
             ]
           }
         },
@@ -27553,7 +27563,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp152\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp65\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp99\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp169\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp325\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp465\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp573\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp137\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp246\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp345\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp590\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp658\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp859\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp1051\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp60\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp165\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp348\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp505\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp13\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp87\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp139\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp373\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp452\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp558\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp626\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp136\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp339\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp479\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp593\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp650\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp755\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp435\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp691\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp741\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp68\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp196\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1870.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211870%21tif%2Fcanvas%2Fp822\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1871.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211871%21tif%2Fcanvas%2Fp78\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -27623,6 +27633,18 @@
           "value": {
             "de": [
               "Magnus, Gustav"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -27739,6 +27761,18 @@
               "Grube, Eduard"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -27774,6 +27808,18 @@
           "value": {
             "de": [
               "Burmeister, Hermann"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -27825,6 +27871,18 @@
               "Poggendorff, Johann Christian"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -27864,6 +27922,18 @@
           "value": {
             "de": [
               "Hofmann, August Wilhelm von"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -27927,69 +27997,12 @@
         {
           "label": {
             "de": [
-              "Textbeziehungen"
+              "Erscheinungsjahr"
             ]
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp65\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp99\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp169\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp325\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp465\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp573\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp137\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp246\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp345\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp590\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp658\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp859\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp1051\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp60\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp165\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp348\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp505\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp13\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp87\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp139\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp373\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp452\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp558\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp626\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp136\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp339\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp479\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp593\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp650\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp755\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp435\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp691\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp741\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp68\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp152\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp1051\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp196\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1870.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211870%21tif%2Fcanvas%2Fp822\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1871.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211871%21tif%2Fcanvas%2Fp78\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/range/r_NEU-094947325-137",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Grammatisch kritische Bemerkungen zum Homer (S. 193–200)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p196",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p197",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p198",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p199",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p200",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p201",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p202",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!09-mon!1868!tif/canvas/p203",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Bekker, Immanuel"
+              "1868"
             ]
           }
         },
@@ -28001,7 +28014,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp196\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp65\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp99\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp169\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp325\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp465\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1860.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211860%21tif%2Fcanvas%2Fp573\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp137\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp246\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp345\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp590\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp658\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp859\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1861.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211861%21tif%2Fcanvas%2Fp1051\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp4\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp60\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp165\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp348\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1862.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211862%21tif%2Fcanvas%2Fp505\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp13\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp87\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp139\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp373\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1864.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211864%21tif%2Fcanvas%2Fp452\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp558\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1865.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211865%21tif%2Fcanvas%2Fp626\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp136\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp339\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp479\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp593\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp650\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1866.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211866%21tif%2Fcanvas%2Fp755\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp435\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp691\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1867.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211867%21tif%2Fcanvas%2Fp741\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp68\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1868.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211868%21tif%2Fcanvas%2Fp152\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1870.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211870%21tif%2Fcanvas%2Fp822\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1871.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211871%21tif%2Fcanvas%2Fp78\" target=\"_blank\" rel=\"noopener\">Grammatisch kritische Bemerkungen zum Homer <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -28051,6 +28064,18 @@
           "value": {
             "de": [
               "Rath, Gerhard vom"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         },
@@ -28126,6 +28151,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -28165,6 +28202,18 @@
           "value": {
             "de": [
               "Ehrenberg, Christian Gottfried"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -28369,6 +28418,18 @@
               "Goldschmidt, Siegfried"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -28506,6 +28567,18 @@
               "Peters, Wilhelm"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -28545,6 +28618,18 @@
           "value": {
             "de": [
               "Hofmann, August Wilhelm von"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -28598,6 +28683,18 @@
           "value": {
             "de": [
               "Clebsch, Alfred"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -28742,6 +28839,18 @@
               "Ehrenberg, Christian Gottfried"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -28777,6 +28886,18 @@
           "value": {
             "de": [
               "Magnus, Gustav"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -28920,6 +29041,18 @@
               "Weierstrass, Karl"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -28977,6 +29110,18 @@
               "Kronecker, Leopold"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -29012,6 +29157,18 @@
           "value": {
             "de": [
               "Poggendorff, Johann Christian"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -29065,6 +29222,18 @@
           "value": {
             "de": [
               "Quincke, Georg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -29122,6 +29291,18 @@
           "value": {
             "de": [
               "Peters, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         },
@@ -29378,6 +29559,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -29425,6 +29618,18 @@
           "value": {
             "de": [
               "Haupt, Moriz"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         },
@@ -29486,6 +29691,18 @@
           "value": {
             "de": [
               "Reusch, Eduard"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         },
@@ -29626,6 +29843,18 @@
               "Poggendorff, Johann Christian"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -29707,6 +29936,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Abbildungen"
             ]
           },
@@ -29754,6 +29995,18 @@
           "value": {
             "de": [
               "Hofmann, August Wilhelm von"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -29869,6 +30122,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -29924,6 +30189,18 @@
           "value": {
             "de": [
               "Paalzow, Adolf"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -30104,6 +30381,18 @@
               "Riess, Peter Theophil"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -30221,6 +30510,18 @@
               "Braun, Alexander"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -30256,6 +30557,18 @@
           "value": {
             "de": [
               "Haast, Julius von"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         },
@@ -30460,6 +30773,18 @@
               "Homeyer, Karl Gustav"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -30511,6 +30836,18 @@
           "value": {
             "de": [
               "Peters, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         },
@@ -30574,6 +30911,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Abbildungen"
             ]
           },
@@ -30625,6 +30974,18 @@
           "value": {
             "de": [
               "Rödiger, Emil"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         },
@@ -30716,6 +31077,18 @@
               "Martens, Eduard von"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -30753,6 +31126,18 @@
               "Tardy, Placido"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -30784,6 +31169,18 @@
           "value": {
             "de": [
               "Peters, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -30831,6 +31228,18 @@
               "Ehrenberg, Christian Gottfried"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
+            ]
+          }
         }
       ]
     },
@@ -30874,6 +31283,18 @@
           "value": {
             "de": [
               "Dove, Heinrich Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }
@@ -30923,6 +31344,18 @@
           "value": {
             "de": [
               "Peters, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1868"
             ]
           }
         }

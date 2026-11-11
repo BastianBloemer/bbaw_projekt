@@ -19850,52 +19850,11 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1850!tif/range/r_NEU-094915423-29",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Einige berichtigungen zu der abhandlung über das verbrennen der leichen (S. 16)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1850!tif/canvas/p17",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Grimm, Jacob"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1849.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211849%21tif%2Fcanvas%2Fp825\" target=\"_blank\" rel=\"noopener\">Einige berichtigungen zu der abhandlung über das verbrennen der leichen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
       "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1850!tif/range/r_094963673",
       "type": "Range",
       "label": {
         "de": [
-          "Über das verbrennen der leichen : Auszug (S. 116)"
+          "Über das verbrennen der leichen : Auszug (S. 16)"
         ]
       },
       "items": [
@@ -19937,7 +19896,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1849.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211849%21tif%2Fcanvas%2Fp464\" target=\"_blank\" rel=\"noopener\">Über das verbrennen der leichen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1849.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211849%21tif%2Fcanvas%2Fp825\" target=\"_blank\" rel=\"noopener\">Einige berichtigungen zu der abhandlung über das verbrennen der leichen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1849.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211849%21tif%2Fcanvas%2Fp825\" target=\"_blank\" rel=\"noopener\">Einige berichtigungen zu der abhandlung über das verbrennen der leichen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1849.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211849%21tif%2Fcanvas%2Fp464\" target=\"_blank\" rel=\"noopener\">Über das verbrennen der leichen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -19993,7 +19952,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "[Über Friedrich den Grossen, besonders in seinem Verhältniss zur deutschen Litteratur.] Festrede gehalten am 24. Januar 1850 zur Feier des Jahrestages Friedrichs II"
+          "[Über Friedrich den Grossen, besonders in seinem Verhältniss zur deutschen Litteratur.] Festrede gehalten am 24. Januar 1850 zur Feier des Jahrestages Friedrichs II (S. 20–32)"
         ]
       },
       "items": [
@@ -20040,6 +19999,14 @@
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1850!tif/canvas/p31",
           "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1850!tif/canvas/p32",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1850!tif/canvas/p33",
+          "type": "Canvas"
         }
       ],
       "metadata": [
@@ -20074,7 +20041,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über eine der ältesten Handschriften des Schwabenspiegels (S. 333)"
+          "Über eine der ältesten Handschriften des Schwabenspiegels (S. 33)"
         ]
       },
       "items": [
@@ -20566,7 +20533,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über einen Codex der Ptolomäischen Optik in der Königlichen Bibliothek zu Berlin (S. 777)"
+          "Über einen Codex der Ptolomäischen Optik in der Königlichen Bibliothek zu Berlin (S. 77)"
         ]
       },
       "items": [
@@ -21891,7 +21858,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Beitrag zur Begründung der Methode der kleinsten Quadrate"
+          "Beitrag zur Begründung der Methode der kleinsten Quadrate (S. 211–212)"
         ]
       },
       "items": [
@@ -22948,7 +22915,19 @@
           },
           "value": {
             "de": [
-              "Trendelenburg"
+              "Trendelenburg, Friedrich Adolf"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1850"
             ]
           }
         },
@@ -22971,7 +22950,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Ableitung und Construction der Variation der Constanten bei Planetenstörungen"
+          "Über die Ableitung und Construction der Variation der Constanten bei Planetenstörungen (S. 317–321)"
         ]
       },
       "items": [
@@ -23764,7 +23743,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Thynnidae und verwandten Hymenopteren-Familien (S. 3390)"
+          "Über die Thynnidae und verwandten Hymenopteren-Familien (S. 390)"
         ]
       },
       "items": [
@@ -24007,7 +23986,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Arten der Lepidopteren-Gattung Catagramma (S. 4426)"
+          "Über die Arten der Lepidopteren-Gattung Catagramma (S. 426)"
         ]
       },
       "items": [

@@ -1,8 +1,0 @@
-pandas
-requests
-rapidfuzz
-rdflib
-pyshacl
-langdetect
-# optional fuer 03_title_llm.py mit LLM_PROVIDER=anthropic:
-# anthropic

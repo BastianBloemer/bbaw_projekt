@@ -18122,6 +18122,18 @@
               "Brieger, Ludwig"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
         }
       ]
     },
@@ -18173,6 +18185,18 @@
           "value": {
             "de": [
               "Nagel, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
             ]
           }
         }
@@ -18386,6 +18410,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -18483,6 +18519,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Abbildungen"
             ]
           },
@@ -18568,6 +18616,18 @@
               "Nernst, Walther"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
         }
       ]
     },
@@ -18641,6 +18701,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Abbildungen"
             ]
           },
@@ -18702,11 +18774,23 @@
               "Heinricius, Gustaf"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
         }
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094924716-149",
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094924716-19",
       "type": "Range",
       "label": {
         "de": [
@@ -18783,89 +18867,12 @@
         {
           "label": {
             "de": [
-              "Textbeziehungen"
+              "Erscheinungsjahr"
             ]
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1881.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211881%21tif%2Fcanvas%2Fp1187\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094938776-156",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 123–135)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p139",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p140",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p141",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p142",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p143",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p144",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p145",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p146",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p147",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p148",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p149",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p150",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p151",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
+              "1889"
             ]
           }
         },
@@ -18877,363 +18884,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1883-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211883-1%21tif%2Fcanvas%2Fp518\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094964718-164",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 123–135)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p139",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p140",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p141",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p142",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p143",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p144",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p145",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p146",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p147",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p148",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p149",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p150",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p151",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1885-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211885-2%21tif%2Fcanvas%2Fp244\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094952345-172",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 123–135)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p139",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p140",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p141",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p142",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p143",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p144",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p145",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p146",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p147",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p148",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p149",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p150",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p151",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1886-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211886-2%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094933758-187",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 123–135)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p139",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p140",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p141",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p142",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p143",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p144",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p145",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p146",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p147",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p148",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p149",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p150",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p151",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-1%21tif%2Fcanvas%2Fp114\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-09491852X-192",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 123–135)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p139",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p140",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p141",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p142",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p143",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p144",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p145",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p146",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p147",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p148",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p149",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p150",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p151",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp478\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1881.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211881%21tif%2Fcanvas%2Fp1187\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1883-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211883-1%21tif%2Fcanvas%2Fp518\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1885-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211885-2%21tif%2Fcanvas%2Fp244\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1886-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211886-2%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-1%21tif%2Fcanvas%2Fp114\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp478\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -19317,6 +18968,18 @@
               "Wattenbach, Wilhelm"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
         }
       ]
     },
@@ -19372,6 +19035,18 @@
           "value": {
             "de": [
               "Hofmann, August Wilhelm von"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
             ]
           }
         }
@@ -19519,6 +19194,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -19531,7 +19218,7 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094924716-150",
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094924716-20",
       "type": "Range",
       "label": {
         "de": [
@@ -19644,125 +19331,12 @@
         {
           "label": {
             "de": [
-              "Textbeziehungen"
+              "Erscheinungsjahr"
             ]
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1881.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211881%21tif%2Fcanvas%2Fp1187\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094938776-157",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 199–220)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p215",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p216",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p217",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p218",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p219",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p220",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p221",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p222",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p223",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p224",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p225",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p226",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p227",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p228",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p229",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p230",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p231",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p232",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p233",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p234",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p235",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p236",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
+              "1889"
             ]
           }
         },
@@ -19774,507 +19348,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1883-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211883-1%21tif%2Fcanvas%2Fp518\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094964718-165",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 199–220)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p215",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p216",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p217",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p218",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p219",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p220",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p221",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p222",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p223",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p224",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p225",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p226",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p227",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p228",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p229",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p230",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p231",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p232",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p233",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p234",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p235",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p236",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1885-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211885-2%21tif%2Fcanvas%2Fp244\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094952345-173",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 199–220)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p215",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p216",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p217",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p218",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p219",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p220",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p221",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p222",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p223",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p224",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p225",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p226",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p227",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p228",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p229",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p230",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p231",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p232",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p233",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p234",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p235",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p236",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1886-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211886-2%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094933758-188",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 199–220)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p215",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p216",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p217",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p218",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p219",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p220",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p221",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p222",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p223",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p224",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p225",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p226",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p227",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p228",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p229",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p230",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p231",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p232",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p233",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p234",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p235",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p236",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-1%21tif%2Fcanvas%2Fp114\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-09491852X-193",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 199–220)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p215",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p216",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p217",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p218",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p219",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p220",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p221",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p222",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p223",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p224",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p225",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p226",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p227",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p228",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p229",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p230",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p231",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p232",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p233",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p234",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p235",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p236",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp478\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1881.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211881%21tif%2Fcanvas%2Fp1187\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1883-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211883-1%21tif%2Fcanvas%2Fp518\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1885-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211885-2%21tif%2Fcanvas%2Fp244\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1886-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211886-2%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-1%21tif%2Fcanvas%2Fp114\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp478\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -20312,6 +19386,18 @@
           "value": {
             "de": [
               "Köhler, Ulrich"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
             ]
           }
         }
@@ -20387,6 +19473,18 @@
               "Schwendener, Simon"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
         }
       ]
     },
@@ -20456,6 +19554,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -20468,7 +19578,7 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094924716-151",
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094924716-21",
       "type": "Range",
       "label": {
         "de": [
@@ -20577,121 +19687,12 @@
         {
           "label": {
             "de": [
-              "Textbeziehungen"
+              "Erscheinungsjahr"
             ]
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1881.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211881%21tif%2Fcanvas%2Fp1187\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094938776-158",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 255–275)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p271",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p272",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p273",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p274",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p275",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p276",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p277",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p278",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p279",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p280",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p281",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p282",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p283",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p284",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p285",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p286",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p287",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p288",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p289",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p290",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p291",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
+              "1889"
             ]
           }
         },
@@ -20703,491 +19704,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1883-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211883-1%21tif%2Fcanvas%2Fp518\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094964718-166",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 255–275)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p271",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p272",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p273",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p274",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p275",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p276",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p277",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p278",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p279",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p280",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p281",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p282",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p283",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p284",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p285",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p286",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p287",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p288",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p289",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p290",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p291",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1885-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211885-2%21tif%2Fcanvas%2Fp244\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094952345-174",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 255–275)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p271",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p272",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p273",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p274",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p275",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p276",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p277",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p278",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p279",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p280",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p281",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p282",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p283",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p284",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p285",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p286",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p287",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p288",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p289",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p290",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p291",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1886-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211886-2%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094933758-189",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 255–275)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p271",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p272",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p273",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p274",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p275",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p276",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p277",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p278",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p279",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p280",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p281",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p282",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p283",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p284",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p285",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p286",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p287",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p288",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p289",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p290",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p291",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-1%21tif%2Fcanvas%2Fp114\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-09491852X-194",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 255–275)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p271",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p272",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p273",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p274",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p275",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p276",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p277",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p278",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p279",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p280",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p281",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p282",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p283",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p284",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p285",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p286",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p287",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p288",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p289",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p290",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p291",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp478\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1881.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211881%21tif%2Fcanvas%2Fp1187\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1883-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211883-1%21tif%2Fcanvas%2Fp518\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1885-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211885-2%21tif%2Fcanvas%2Fp244\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1886-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211886-2%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-1%21tif%2Fcanvas%2Fp114\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp478\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -21261,6 +19778,18 @@
           "value": {
             "de": [
               "Thiesen, Max"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
             ]
           }
         }
@@ -21376,7 +19905,7 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094924716-152",
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094924716-22",
       "type": "Range",
       "label": {
         "de": [
@@ -21437,73 +19966,12 @@
         {
           "label": {
             "de": [
-              "Textbeziehungen"
+              "Erscheinungsjahr"
             ]
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1881.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211881%21tif%2Fcanvas%2Fp1187\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094938776-159",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 309–317)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p325",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p326",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p327",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p328",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p329",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p330",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p331",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p332",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p333",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
+              "1889"
             ]
           }
         },
@@ -21515,299 +19983,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1883-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211883-1%21tif%2Fcanvas%2Fp518\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094964718-167",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 309–317)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p325",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p326",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p327",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p328",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p329",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p330",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p331",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p332",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p333",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1885-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211885-2%21tif%2Fcanvas%2Fp244\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094952345-175",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 309–317)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p325",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p326",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p327",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p328",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p329",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p330",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p331",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p332",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p333",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1886-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211886-2%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-094933758-190",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 309–317)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p325",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p326",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p327",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p328",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p329",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p330",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p331",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p332",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p333",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-1%21tif%2Fcanvas%2Fp114\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/range/r_NEU-09491852X-195",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Zur Theorie der elliptischen Functionen (S. 309–317)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p325",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p326",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p327",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p328",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p329",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p330",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p331",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p332",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1889-1!tif/canvas/p333",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kronecker, Leopold"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp478\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1881.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211881%21tif%2Fcanvas%2Fp1187\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1883-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211883-1%21tif%2Fcanvas%2Fp518\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1885-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211885-2%21tif%2Fcanvas%2Fp244\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1886-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211886-2%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-1%21tif%2Fcanvas%2Fp114\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1890-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211890-2%21tif%2Fcanvas%2Fp478\" target=\"_blank\" rel=\"noopener\">Zur Theorie der elliptischen Functionen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -21927,6 +20103,18 @@
               "Puchstein, Otto"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
         }
       ]
     },
@@ -22006,6 +20194,18 @@
           "value": {
             "de": [
               "Kronecker, Leopold"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
             ]
           }
         }
@@ -22089,6 +20289,18 @@
               "Cichorius, Konrad"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
         }
       ]
     },
@@ -22158,6 +20370,18 @@
               "Virchow, Rudolf"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
+            ]
+          }
         }
       ]
     },
@@ -22209,6 +20433,18 @@
           "value": {
             "de": [
               "Sieben, Georg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
             ]
           }
         },
@@ -22282,6 +20518,18 @@
           "value": {
             "de": [
               "Cohn, Emil"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1889"
             ]
           }
         }

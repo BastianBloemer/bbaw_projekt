@@ -38018,6 +38018,18 @@
               "Plate, Ludwig Hermann"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
+            ]
+          }
         }
       ]
     },
@@ -38163,6 +38175,18 @@
               "Brunner, Heinrich"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
+            ]
+          }
         }
       ]
     },
@@ -38274,6 +38298,18 @@
           "value": {
             "de": [
               "König, Arthur"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
             ]
           }
         }
@@ -38496,6 +38532,18 @@
           "value": {
             "de": [
               "Du Bois-reymond, Emil"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
             ]
           }
         }
@@ -39547,6 +39595,18 @@
               "Munk, Hermann"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
+            ]
+          }
         }
       ]
     },
@@ -40476,7 +40536,7 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1894-2!tif/range/r_NEU-094937710-202",
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1894-2!tif/range/r_NEU-094937710-31",
       "type": "Range",
       "label": {
         "de": [
@@ -40551,6 +40611,18 @@
           "value": {
             "de": [
               "Fuchs, Lazarus"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
             ]
           }
         },
@@ -41163,6 +41235,18 @@
               "Plate, Ludwig Hermann"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
+            ]
+          }
         }
       ]
     },
@@ -41214,6 +41298,18 @@
           "value": {
             "de": [
               "Wulff, Ludwig"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
             ]
           }
         },
@@ -41418,12 +41514,69 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
           "value": {
             "de": [
               "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1892-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211892-1%21tif%2Fcanvas%2Fp173\" target=\"_blank\" rel=\"noopener\">Über lineare Differentialgleichungen, welche von Parametern unabhängige Substitutionsgruppen besitzen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1893-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211893-2%21tif%2Fcanvas%2Fp541\" target=\"_blank\" rel=\"noopener\">Über lineare Differentialgleichungen , welche von Parametern unabhängige Substitutionsgruppen besitzen <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1894-2.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211894-2%21tif%2Fcanvas%2Fp489\" target=\"_blank\" rel=\"noopener\">Über lineare Differentialgleichungen , welche von Parametern unabhängige Substitutionsgruppen besitzen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1894-2!tif/range/r_09494783X",
+      "type": "Range",
+      "label": {
+        "de": [
+          "Über die Abwärtsbiegung des Schwanztheiles der Wirbelsäule bei Ichthyosauren (S. 1133–1134)"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1894-2!tif/canvas/p648",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1894-2!tif/canvas/p649",
+          "type": "Canvas"
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Autor"
+            ]
+          },
+          "value": {
+            "de": [
+              "Schulze, Franz Eilhard"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
             ]
           }
         }
@@ -41651,51 +41804,6 @@
           "value": {
             "de": [
               "Eschenhagen, Max"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Erscheinungsjahr"
-            ]
-          },
-          "value": {
-            "de": [
-              "1894"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1894-2!tif/range/r_09494783X",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über die Abwärtsbiegung des Schwanztheiles der Wirbelsäule bei Ichthyosauren (S. 1133–1134)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1894-2!tif/canvas/p684",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!10-sitz!1894-2!tif/canvas/p685",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Schulze, Franz Eilhard"
             ]
           }
         },
@@ -42096,7 +42204,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1893-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211893-1%21tif%2Fcanvas%2Fp56\" target=\"_blank\" rel=\"noopener\">Über norddeutsche Basalte <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1893-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211893-1%21tif%2Fcanvas%2Fp56\" target=\"_blank\" rel=\"noopener\">Über norddeutsche Basalte <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/10-sitz/10-sitz_1893-1.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2110-sitz%211893-1%21tif%2Fcanvas%2Fp56\" target=\"_blank\" rel=\"noopener\">Über norddeutsche Basalte <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -42319,6 +42427,18 @@
           "value": {
             "de": [
               "Plate, Ludwig Hermann"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1894"
             ]
           }
         }

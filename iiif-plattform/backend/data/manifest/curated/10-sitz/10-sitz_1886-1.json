@@ -21429,6 +21429,18 @@
               "Steiner, Isidor"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -21626,6 +21638,18 @@
           "value": {
             "de": [
               "Websky, Martin"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -21960,6 +21984,18 @@
               "Weingarten, Julius"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -22003,6 +22039,18 @@
           "value": {
             "de": [
               "Biondi, Domenico"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -22068,6 +22116,18 @@
           "value": {
             "de": [
               "Fritsch, Gustav"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         },
@@ -22209,6 +22269,18 @@
           "value": {
             "de": [
               "Munk, Hermann"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         },
@@ -22412,6 +22484,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Abbildungen"
             ]
           },
@@ -22483,6 +22567,18 @@
           "value": {
             "de": [
               "Munk, Hermann"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -22618,6 +22714,18 @@
               "Landolt, Hans"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -22673,6 +22781,18 @@
           "value": {
             "de": [
               "Schott, Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -22821,6 +22941,18 @@
               "Kronecker, Leopold"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -22860,6 +22992,18 @@
           "value": {
             "de": [
               "Baginsky, Benno"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -22945,6 +23089,18 @@
           "value": {
             "de": [
               "Siemens, Werner von"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -23060,6 +23216,18 @@
               "Fuchs, Lazarus"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -23131,6 +23299,18 @@
           "value": {
             "de": [
               "Kirchhoff, Adolf"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -23259,6 +23439,18 @@
               "Burmeister, Hermann"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -23336,6 +23528,18 @@
               "Du Bois-reymond, Paul"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -23344,7 +23548,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Bedeutung des Mundium im Deutschen Recht"
+          "Über die Bedeutung des Mundium im Deutschen Recht (S. 375–392)"
         ]
       },
       "items": [
@@ -23546,6 +23750,18 @@
               "Duncker, Max"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -23579,6 +23795,18 @@
               "Arning, Eduard"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -23606,6 +23834,18 @@
           "value": {
             "de": [
               "Virchow, Rudolf"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -23721,6 +23961,18 @@
               "Fritsch, Gustav"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -23830,6 +24082,18 @@
               "Rammelsberg, Karl Friedrich"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -23869,6 +24133,18 @@
           "value": {
             "de": [
               "Ameghino, Florentineo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -23956,6 +24232,18 @@
               "Schrader, Eberhard"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
+            ]
+          }
         }
       ]
     },
@@ -23999,6 +24287,18 @@
           "value": {
             "de": [
               "Steiner, Isidor"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }
@@ -24060,6 +24360,18 @@
           "value": {
             "de": [
               "Eichler, August Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         },
@@ -24153,6 +24465,18 @@
           "value": {
             "de": [
               "Weber, Heinrich Friedrich"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1886"
             ]
           }
         }

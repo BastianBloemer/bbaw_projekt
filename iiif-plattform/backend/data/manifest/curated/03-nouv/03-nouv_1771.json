@@ -24415,6 +24415,18 @@
               "1773"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1773.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211773%21tif%2Fcanvas%2Fp43\" target=\"_blank\" rel=\"noopener\">Mémoire pour servir à l&#x27;Histoire naturelle de la Mousse : Dernier mémoire <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+            ]
+          }
         }
       ]
     },
@@ -25536,7 +25548,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\">Réflexions sur la résolution algébrique des équations : Suite <span class=\"beziehung-typ\">(Verweis)</span></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1770.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211770%21tif%2Fcanvas%2Fp211\" target=\"_blank\" rel=\"noopener\">Réflexions sur la résolution algébrique des équations <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -26465,6 +26477,18 @@
           "value": {
             "de": [
               "1773"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1777.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211777%21tif%2Fcanvas%2Fp403\" target=\"_blank\" rel=\"noopener\">Observations sur quelques propriétés de l&#x27;âme comparées à celles de la matière: pour servir a l&#x27;examen du Matérialisme : Addition <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }

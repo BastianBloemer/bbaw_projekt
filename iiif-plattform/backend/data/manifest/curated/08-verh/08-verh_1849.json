@@ -15742,7 +15742,7 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1849!tif/range/r_NEU-094973784-41",
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1849!tif/range/r_NEU-094973784-5",
       "type": "Range",
       "label": {
         "de": [
@@ -15765,6 +15765,18 @@
           "value": {
             "de": [
               "Dove, Heinrich Wilhelm"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1849"
             ]
           }
         },
@@ -16967,7 +16979,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den neuentdeckten 18ten Planeten"
+          "Über den neuentdeckten 18ten Planeten (S. 161–164)"
         ]
       },
       "items": [
@@ -17069,7 +17081,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Bestimmung elliptischer Elemente aus drei geocentrischen vollständigen Beobachtungen : Auszug"
+          "Über die Bestimmung elliptischer Elemente aus drei geocentrischen vollständigen Beobachtungen : Auszug (S. 167–175)"
         ]
       },
       "items": [
@@ -17248,7 +17260,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über Eros Hymenäos im Verein mit Dionysos und Aphrodite (S. 1186)"
+          "Über Eros Hymenäos im Verein mit Dionysos und Aphrodite (S. 186)"
         ]
       },
       "items": [
@@ -17884,7 +17896,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Gedächtnissrede auf Eytelwein : Auszug"
+          "Gedächtnissrede auf Eytelwein : Auszug (S. 236–237)"
         ]
       },
       "items": [
@@ -18089,7 +18101,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1849.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211849%21tif%2Fcanvas%2Fp689\" target=\"_blank\" rel=\"noopener\">Altdeutsche gespräche <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1851.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211851%21tif%2Fcanvas%2Fp485\" target=\"_blank\" rel=\"noopener\">Altdeutsche gespräche : Nachtrag <span class=\"beziehung-typ\">(Nachtrag)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1851.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211851%21tif%2Fcanvas%2Fp221\" target=\"_blank\" rel=\"noopener\">Über vatikanische Glossen <span class=\"beziehung-typ\">(Auszug)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1849.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211849%21tif%2Fcanvas%2Fp689\" target=\"_blank\" rel=\"noopener\">Altdeutsche gespräche <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1851.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211851%21tif%2Fcanvas%2Fp485\" target=\"_blank\" rel=\"noopener\">Altdeutsche gespräche : Nachtrag <span class=\"beziehung-typ\">(Nachtrag)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1851.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211851%21tif%2Fcanvas%2Fp221\" target=\"_blank\" rel=\"noopener\">Altdeutsche gespräche : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span>"
             ]
           }
         }
@@ -19040,7 +19052,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Bau und die Entwicklung der Nesselorgane einer Cyanea von Venezuela (S. 3376)"
+          "Über den Bau und die Entwicklung der Nesselorgane einer Cyanea von Venezuela (S. 376)"
         ]
       },
       "items": [

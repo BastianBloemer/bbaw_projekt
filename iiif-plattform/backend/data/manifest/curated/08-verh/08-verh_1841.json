@@ -17150,7 +17150,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über König Karl XI. von Schweden und die Staatsveränderung von 1680 (S. 116)"
+          "Über König Karl XI. von Schweden und die Staatsveränderung von 1680 (S. 16)"
         ]
       },
       "items": [
@@ -17191,7 +17191,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Bemerkungen über die astronomischen Anstalten Englands"
+          "Bemerkungen über die astronomischen Anstalten Englands (S. 17–20)"
         ]
       },
       "items": [
@@ -17593,7 +17593,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Übersicht des neuesten Zustandes des Lotteriespiels für Rechnung der Regierung im Preussischen Staate (S. 661)"
+          "Übersicht des neuesten Zustandes des Lotteriespiels für Rechnung der Regierung im Preussischen Staate (S. 61)"
         ]
       },
       "items": [
@@ -17939,7 +17939,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Über die Natur der Nebenkiemen bei den Knochenfischen <span class=\"beziehung-typ\">(Hauptteil)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Über die Natur der Nebenkiemen bei den Knochenfischen : Nachtrag <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Über die Natur der Nebenkiemen bei den Knochenfischen <span class=\"beziehung-typ\">(Hauptteil)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp190\" target=\"_blank\" rel=\"noopener\">Über die Natur der Nebenkiemen bei den Knochenfischen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -18191,60 +18191,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211840%21tif%2Fcanvas%2Fp89\" target=\"_blank\" rel=\"noopener\">Über die Gattungen der Familie der Eriocauleen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/range/r_NEU-094950059-23",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über die Gattungen der Familie der Eriocauleen (S. 110–113)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p110",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p111",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p112",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p113",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kunth, Karl Sigismund"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211840%21tif%2Fcanvas%2Fp89\" target=\"_blank\" rel=\"noopener\">Über die Gattungen der Familie der Eriocauleen <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211840%21tif%2Fcanvas%2Fp89\" target=\"_blank\" rel=\"noopener\">Über die Gattungen der Familie der Eriocauleen <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211840%21tif%2Fcanvas%2Fp89\" target=\"_blank\" rel=\"noopener\">Über die Gattungen der Familie der Eriocauleen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -18301,52 +18248,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211840%21tif%2Fcanvas%2Fp117\" target=\"_blank\" rel=\"noopener\">Über Mayaca Aubl <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/range/r_NEU-094953945-24",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über Mayaca Aubl (S. 113–114)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p113",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p114",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Kunth, Karl Sigismund"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211840%21tif%2Fcanvas%2Fp117\" target=\"_blank\" rel=\"noopener\">Über Mayaca Aubl <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211840%21tif%2Fcanvas%2Fp117\" target=\"_blank\" rel=\"noopener\">Über Mayaca Aubl <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211840%21tif%2Fcanvas%2Fp117\" target=\"_blank\" rel=\"noopener\">Über Mayaca Aubl <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -19012,7 +18914,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die althochdeutschen Partikeln za, zô, zar, zur (S. 1171)"
+          "Über die althochdeutschen Partikeln za, zô, zar, zur (S. 171)"
         ]
       },
       "items": [
@@ -19118,47 +19020,6 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/range/r_NEU-094974187-39",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über die Gattung Comatula Lam. und ihre Arten : Auszug (S. 179–18)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p179",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Müller, Johannes"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1846.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211846%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten : Auszug <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
       "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/range/r_094946809",
       "type": "Range",
       "label": {
@@ -19245,7 +19106,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp273\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1846.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211846%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp273\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1846.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211846%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1846.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211846%21tif%2Fcanvas%2Fp181\" target=\"_blank\" rel=\"noopener\">Über die Gattung Comatula Lam. und ihre Arten : Auszug <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
             ]
           }
         }
@@ -19256,12 +19117,28 @@
       "type": "Range",
       "label": {
         "de": [
-          "Untersuchungen über die Theorie der complexen Zahlen : Auszug (S. 190–164)"
+          "Untersuchungen über die Theorie der complexen Zahlen : Auszug (S. 190–194)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p190",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p191",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p192",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p193",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p194",
           "type": "Canvas"
         }
       ],
@@ -20241,7 +20118,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den jetzigen Zustand des Schulwesens in England (S. 2285)"
+          "Über den jetzigen Zustand des Schulwesens in England (S. 285)"
         ]
       },
       "items": [
@@ -20436,7 +20313,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Verfahren, den Magnetismus der sogenannten unmagnetischen Metalle nachzuweisen (S. 3309)"
+          "Verfahren, den Magnetismus der sogenannten unmagnetischen Metalle nachzuweisen (S. 309)"
         ]
       },
       "items": [
@@ -21605,7 +21482,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Masse des Merkur"
+          "Über die Masse des Merkur (S. 421–423)"
         ]
       },
       "items": [
@@ -21619,58 +21496,6 @@
         },
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p423",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p424",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p425",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p426",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p427",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p428",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p429",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p430",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p431",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p432",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p433",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p434",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p435",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1841!tif/canvas/p436",
           "type": "Canvas"
         }
       ],

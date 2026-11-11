@@ -42359,7 +42359,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Cometen von Pons : Fünfte Abhandlung"
+          "Über den Cometen von Pons : Fünfte Abhandlung (S. 74–99)"
         ]
       },
       "items": [
@@ -42465,18 +42465,6 @@
         },
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1844!tif/canvas/p547",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1844!tif/canvas/p548",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1844!tif/canvas/p549",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1844!tif/canvas/p550",
           "type": "Canvas"
         }
       ],

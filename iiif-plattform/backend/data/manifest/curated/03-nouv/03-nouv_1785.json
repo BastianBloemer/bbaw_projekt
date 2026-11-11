@@ -24678,6 +24678,18 @@
               "1787"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1786.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211786%21tif%2Fcanvas%2Fp304\" target=\"_blank\" rel=\"noopener\">Mémoire sur les élémens de l&#x27;orbite solaire, dans lequel on détermine, par de nouvelles observations, l&#x27;apogée, la longitude moyenne et la plus grande équation du soleil : Second mémoire <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+            ]
+          }
         }
       ]
     },
@@ -25408,7 +25420,7 @@
           },
           "value": {
             "de": [
-              "Friedrich Ii König von Preussen"
+              "Friedrich II., Preußen, König"
             ]
           }
         },
@@ -26174,7 +26186,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\">Sur l&#x27;origine de la langue Allemande : Supplément <span class=\"beziehung-typ\">(Verweis)</span></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1783.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211783%21tif%2Fcanvas%2Fp614\" target=\"_blank\" rel=\"noopener\">Sur l&#x27;origine de la langue Allemande <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }

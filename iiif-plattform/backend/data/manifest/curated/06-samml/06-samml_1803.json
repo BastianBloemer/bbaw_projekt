@@ -10630,16 +10630,12 @@
       "type": "Range",
       "label": {
         "de": [
-          "Antrittsrede"
+          "Antrittsrede (S. 0)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p8",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p9",
           "type": "Canvas"
         }
       ],
@@ -10675,7 +10671,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Ehrengedächtniss des Herrn Professors Engel (S. 11–18)"
+          "Ehrengedächtniss des Herrn Professors Engel (S. 1–18)"
         ]
       },
       "items": [
@@ -10709,6 +10705,46 @@
         },
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p17",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p18",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p19",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p20",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p21",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p22",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p23",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p24",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p25",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p26",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!06-samml!1803!tif/canvas/p27",
           "type": "Canvas"
         }
       ],
@@ -12090,7 +12126,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_1801.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%211801%21tif%2Fcanvas%2Fp620\" target=\"_blank\" rel=\"noopener\">Des différentes espèces de Mosaïque chez les Anciens <span class=\"beziehung-typ\">(Übersetzung)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_1802.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%211802%21tif%2Fcanvas%2Fp510\" target=\"_blank\" rel=\"noopener\">̂quel point les Anciens ont-ils possédé l&#x27;art de la peinture? <span class=\"beziehung-typ\">(Übersetzung)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_1802.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%211802%21tif%2Fcanvas%2Fp531\" target=\"_blank\" rel=\"noopener\">Remarques sur les Couleurs dont les Anciens se servoient pour peindre, et sur quelques passages de Pline, relatifs à la peinture des Anciens <span class=\"beziehung-typ\">(Übersetzung)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_1803.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%211803%21tif%2Fcanvas%2Fp565\" target=\"_blank\" rel=\"noopener\">Sur la peinture des anciens. Cinquième mémoire. Depuis son origine jusqu&#x27;à la quatre-vingt-quatorzième Olympiade, ou jusqu&#x27;à Apollodore d&#x27;Athènes <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_17991800.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%2117991800%21tif%2Fcanvas%2Fp781\" target=\"_blank\" rel=\"noopener\">Sur les différentes Méthodes de peindre chez les Anciens <span class=\"beziehung-typ\">(Übersetzung)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_1801.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%211801%21tif%2Fcanvas%2Fp620\" target=\"_blank\" rel=\"noopener\">Des différentes espèces de Mosaïque chez les Anciens <span class=\"beziehung-typ\">(Übersetzung)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_1802.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%211802%21tif%2Fcanvas%2Fp510\" target=\"_blank\" rel=\"noopener\">̂quel point les Anciens ont-ils possédé l&#x27;art de la peinture? <span class=\"beziehung-typ\">(Übersetzung)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_1802.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%211802%21tif%2Fcanvas%2Fp531\" target=\"_blank\" rel=\"noopener\">Remarques sur les Couleurs dont les Anciens se servoient pour peindre, et sur quelques passages de Pline, relatifs à la peinture des Anciens <span class=\"beziehung-typ\">(Übersetzung)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_1803.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%211803%21tif%2Fcanvas%2Fp565\" target=\"_blank\" rel=\"noopener\">Sur la peinture des anciens. Cinquième mémoire. Depuis son origine jusqu&#x27;à la quatre-vingt-quatorzième Olympiade, ou jusqu&#x27;à Apollodore d&#x27;Athènes <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }

@@ -17713,7 +17713,7 @@
           },
           "value": {
             "de": [
-              "Friedrich Ii König von Preussen"
+              "Friedrich II., Preußen, König"
             ]
           }
         },
@@ -20011,7 +20011,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Dissertation sur les anciens sceaux des marggraves et électeurs de Brandebourg, et en particulier sur l'aigle à deux têtes, qui se trouve dans les sceaux de Wenceslaus, roi de Bohème, et marggrave de Brandebourg"
+          "Dissertation sur les anciens sceaux des marggraves et électeurs de Brandebourg, et en particulier sur l'aigle à deux têtes, qui se trouve dans les sceaux de Wenceslaus, roi de Bohème, et marggrave de Brandebourg (S. 394–416)"
         ]
       },
       "items": [
@@ -20105,10 +20105,6 @@
         },
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1752!tif/canvas/p428",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!02-hist!1752!tif/canvas/p429",
           "type": "Canvas"
         }
       ],

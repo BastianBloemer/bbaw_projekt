@@ -14027,6 +14027,18 @@
               "1799"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_17921793.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%2117921793%21tif%2Fcanvas%2Fp168\" target=\"_blank\" rel=\"noopener\">Mémoire de numismatique docimastique <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
+            ]
+          }
         }
       ]
     },
@@ -14090,6 +14102,18 @@
           "value": {
             "de": [
               "1799"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_17921793.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%2117921793%21tif%2Fcanvas%2Fp185\" target=\"_blank\" rel=\"noopener\">Analyse chimique de l&#x27;eau des sources bouillantes d&#x27;Islande, et du tuf siliceux qu&#x27;elles déposent <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }
@@ -14187,6 +14211,18 @@
           "value": {
             "de": [
               "mit 2 Tafeln"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_17941795.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%2117941795%21tif%2Fcanvas%2Fp95\" target=\"_blank\" rel=\"noopener\">Mémoire sur les diverses espèces de Tragacanthe <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }
@@ -14304,6 +14340,18 @@
           "value": {
             "de": [
               "mit 3 Tafeln"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/05-mem/05-mem_17941795.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2105-mem%2117941795%21tif%2Fcanvas%2Fp111\" target=\"_blank\" rel=\"noopener\">Sur les espèces de Carex qui croissent sans culture dans les environs de Berlin <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }

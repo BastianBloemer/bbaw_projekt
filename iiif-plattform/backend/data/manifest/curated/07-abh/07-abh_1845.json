@@ -47372,7 +47372,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Polhöhe der neuen Berliner Sternwarte"
+          "Über die Polhöhe der neuen Berliner Sternwarte (S. 86–114)"
         ]
       },
       "items": [
@@ -47490,22 +47490,6 @@
         },
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1845!tif/canvas/p550",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1845!tif/canvas/p551",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1845!tif/canvas/p552",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1845!tif/canvas/p553",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1845!tif/canvas/p554",
           "type": "Canvas"
         }
       ],

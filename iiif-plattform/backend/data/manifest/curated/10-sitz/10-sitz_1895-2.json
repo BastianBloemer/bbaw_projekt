@@ -26660,6 +26660,18 @@
               "Munk, Hermann"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1895"
+            ]
+          }
         }
       ]
     },
@@ -29564,6 +29576,18 @@
           "value": {
             "de": [
               "Frobenius, Georg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1895"
             ]
           }
         }

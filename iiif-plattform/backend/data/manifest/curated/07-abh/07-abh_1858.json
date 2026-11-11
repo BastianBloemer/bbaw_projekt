@@ -48748,18 +48748,6 @@
               "1859"
             ]
           }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1857.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211857%21tif%2Fcanvas%2Fp596\" target=\"_blank\" rel=\"noopener\">Über die Längenbestimmung von Berlin und Königsberg mittelst des Telegraphen <span class=\"beziehung-typ\">(Hauptteil)</span></a></span>"
-            ]
-          }
         }
       ]
     },
@@ -48768,7 +48756,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Längenbestimmung von Berlin und Königsberg mittelst des Telegraphen : Nachtrag"
+          "Über die Längenbestimmung von Berlin und Königsberg mittelst des Telegraphen : Nachtrag (S. 82–99)"
         ]
       },
       "items": [
@@ -48843,30 +48831,6 @@
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1858!tif/canvas/p597",
           "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1858!tif/canvas/p598",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1858!tif/canvas/p599",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1858!tif/canvas/p600",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1858!tif/canvas/p601",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1858!tif/canvas/p602",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!07-abh!1858!tif/canvas/p603",
-          "type": "Canvas"
         }
       ],
       "metadata": [
@@ -48891,6 +48855,18 @@
           "value": {
             "de": [
               "1858"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/09-mon/09-mon_1857.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2109-mon%211857%21tif%2Fcanvas%2Fp596\" target=\"_blank\" rel=\"noopener\">Über die Längenbestimmung von Berlin und Königsberg mittelst des Telegraphen <span class=\"beziehung-typ\">(Hauptteil)</span></a></span>"
             ]
           }
         }

@@ -20330,7 +20330,7 @@
           },
           "value": {
             "de": [
-              "Friedrich Ii König von Preussen"
+              "Friedrich II., Preußen, König"
             ]
           }
         },
@@ -20403,7 +20403,7 @@
           },
           "value": {
             "de": [
-              "Friedrich Ii König von Preussen"
+              "Friedrich II., Preußen, König"
             ]
           }
         },
@@ -20693,6 +20693,18 @@
               "1749"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp210\" target=\"_blank\" rel=\"noopener\">Physikalischchemische Abhandlung von der Scheidung des Goldes vom Silber durch die Präzipitation, die man die trockene Scheidung nennet <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
+            ]
+          }
         }
       ]
     },
@@ -20782,6 +20794,18 @@
               "1749"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp262\" target=\"_blank\" rel=\"noopener\">Von der Methode das Zinn in den Pflanzensäuren aufzulösen, von dem Arsenic, der dem Zinne beygemischt ist, und von den hieher gehörigen Versuchen <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
+            ]
+          }
         }
       ]
     },
@@ -20861,6 +20885,18 @@
           "value": {
             "de": [
               "1749"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp278\" target=\"_blank\" rel=\"noopener\">Pyrotechnische Versuche mit dem Sächsischen Topase <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }
@@ -20988,6 +21024,18 @@
               "1749"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp291\" target=\"_blank\" rel=\"noopener\">Pyrotechnische Untersuchung des Steines, der von den Alten Steatites, und von den Deutschen Speckstein genennet wird <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
+            ]
+          }
         }
       ]
     },
@@ -21071,6 +21119,18 @@
           "value": {
             "de": [
               "1749"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/04-phys/04-phys_3.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2104-phys%213%21tif%2Fcanvas%2Fp248\" target=\"_blank\" rel=\"noopener\">Chemische Versuche aus verschiedenen einheimischen Pflanzen einen wahren Zucker zu verfertigen <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }
@@ -21898,6 +21958,18 @@
           "value": {
             "de": [
               "mit 1 Tafel"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/02-hist/02-hist_1750.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2102-hist%211750%21tif%2Fcanvas%2Fp359\" target=\"_blank\" rel=\"noopener\">Recherches sur la courbe que forme une corde tenduë mise en vibration : Additions <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -23086,7 +23158,7 @@
           },
           "value": {
             "de": [
-              "Friedrich Ii König von Preussen"
+              "Friedrich II., Preußen, König"
             ]
           }
         },

@@ -24354,7 +24354,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\">Recherches sur les variations du Baromêtre : Suite <span class=\"beziehung-typ\">(Verweis)</span></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1773.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211773%21tif%2Fcanvas%2Fp82\" target=\"_blank\" rel=\"noopener\">Recherches sur les variations du Baromètre <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -25699,6 +25699,18 @@
           "value": {
             "de": [
               "mit Tafel 5A, Fig. 1-5"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1775.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211775%21tif%2Fcanvas%2Fp362\" target=\"_blank\" rel=\"noopener\">Mémoire sur l&#x27;étoile polaire, contenant principalement des recherches de Trigonométrie : Suite <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }

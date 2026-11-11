@@ -14274,7 +14274,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Bemerkungen über Habron von Bate, des Callias Sohn (S. 441)"
+          "Bemerkungen über Habron von Bate, des Callias Sohn (S. 41)"
         ]
       },
       "items": [
@@ -15546,7 +15546,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über eine neue Verbindung der wasserfreien Schwefelsäure mit dem Stickstoffoxyd (S. 1135)"
+          "Über eine neue Verbindung der wasserfreien Schwefelsäure mit dem Stickstoffoxyd (S. 135)"
         ]
       },
       "items": [
@@ -15640,7 +15640,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Die Werke von Marcgrave und Piso über die Naturgeschichte Brasiliens, erläutert aus den wieder aufgefundenen Original-Abbildungen : Schluss im Auszuge (S. 1141)"
+          "Die Werke von Marcgrave und Piso über die Naturgeschichte Brasiliens, erläutert aus den wieder aufgefundenen Original-Abbildungen : Schluss im Auszuge (S. 141)"
         ]
       },
       "items": [
@@ -15947,68 +15947,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211839%21tif%2Fcanvas%2Fp127\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp182\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien : Auszug <span class=\"beziehung-typ\">(Fortsetzung)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/range/r_NEU-094974608-34",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Eine weitere Erläuterung des Organismus mehrerer in Berlin lebend beobachteter Polythalainien der Nordsee (S. 152–157)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p156",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p157",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p158",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p159",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p160",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p161",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Ehrenberg, Christian Gottfried"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211840%21tif%2Fcanvas%2Fp18\" target=\"_blank\" rel=\"noopener\">Eine weitere Erläuterung des Organismus mehrerer in Berlin lebend beobachteter Polythalainien der Nordsee <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211839%21tif%2Fcanvas%2Fp127\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211840%21tif%2Fcanvas%2Fp18\" target=\"_blank\" rel=\"noopener\">Eine weitere Erläuterung des Organismus mehrerer in Berlin lebend beobachteter Polythalainien der Nordsee <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp182\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien : Auszug <span class=\"beziehung-typ\">(Fortsetzung)</span></a></span>"
             ]
           }
         }
@@ -16109,7 +16048,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Vase des Midias : Auszug (S. 1163)"
+          "Über die Vase des Midias : Auszug (S. 163)"
         ]
       },
       "items": [
@@ -16254,39 +16193,6 @@
           "value": {
             "de": [
               "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211839%21tif%2Fcanvas%2Fp127\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1840.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211840%21tif%2Fcanvas%2Fp18\" target=\"_blank\" rel=\"noopener\">Eine weitere Erläuterung des Organismus mehrerer in Berlin lebend beobachteter Polythalainien der Nordsee <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp156\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien : Auszug <span class=\"beziehung-typ\">(Hauptteil)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/range/r_NEU-094974608-35",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Eine weitere Erläuterung des Organismus mehrerer in Berlin lebend beobachteter Polythalainien der Nordsee (S. 178–179)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p182",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p183",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Ehrenberg, Christian Gottfried"
             ]
           }
         }
@@ -16493,92 +16399,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1841.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211841%21tif%2Fcanvas%2Fp86\" target=\"_blank\" rel=\"noopener\">Über die Natur der Nebenkiemen bei den Knochenfischen : Nachtrag <span class=\"beziehung-typ\">(Nachtrag)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/range/r_NEU-094902100-36",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über die Natur der Nebenkiemen bei den Knochenfischen : Nachtrag (S. 186–197)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p190",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p191",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p192",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p193",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p194",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p195",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p196",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p197",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p198",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p199",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p200",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1839!tif/canvas/p201",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Müller, Johannes"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1841.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211841%21tif%2Fcanvas%2Fp86\" target=\"_blank\" rel=\"noopener\">Über die Natur der Nebenkiemen bei den Knochenfischen : Nachtrag <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1841.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211841%21tif%2Fcanvas%2Fp86\" target=\"_blank\" rel=\"noopener\">Über die Natur der Nebenkiemen bei den Knochenfischen : Nachtrag <span class=\"beziehung-typ\">(Nachtrag)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1841.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211841%21tif%2Fcanvas%2Fp86\" target=\"_blank\" rel=\"noopener\">Über die Natur der Nebenkiemen bei den Knochenfischen : Nachtrag <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -17063,7 +16884,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Pistorschen Meridiankreis und die Tiedesche Uhr der hiesigen Sternwarte"
+          "Über den Pistorschen Meridiankreis und die Tiedesche Uhr der hiesigen Sternwarte (S. 255–264)"
         ]
       },
       "items": [

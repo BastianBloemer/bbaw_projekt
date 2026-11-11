@@ -23704,7 +23704,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\">Mémoire pour servir à l&#x27;Histoire naturelle de la Mousse : Dernier mémoire <span class=\"beziehung-typ\">(Verweis)</span></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1771.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211771%21tif%2Fcanvas%2Fp72\" target=\"_blank\" rel=\"noopener\">Mémoire pour servir à l&#x27;Histoire naturelle de la Mousse <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -24037,6 +24037,18 @@
           "value": {
             "de": [
               "mit Tafel 3, Fig. 1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1774.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211774%21tif%2Fcanvas%2Fp164\" target=\"_blank\" rel=\"noopener\">Recherches sur les variations du Baromêtre : Suite <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -24496,6 +24508,18 @@
           "value": {
             "de": [
               "1775"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1775.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211775%21tif%2Fcanvas%2Fp355\" target=\"_blank\" rel=\"noopener\">Sur l&#x27;attraction des sphéroïdes elliptiques : Additions <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -25472,6 +25496,18 @@
           "value": {
             "de": [
               "1775"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1775.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211775%21tif%2Fcanvas%2Fp405\" target=\"_blank\" rel=\"noopener\">Recherches d&#x27;arithmétique : Suite <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }

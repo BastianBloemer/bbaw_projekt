@@ -17,7 +17,9 @@ auszuführen (Download und Korrektur der Manifeste sind nicht nötig).
 
 import html
 import json
+import os
 import re
+import sys
 from pathlib import Path
 from urllib.parse import quote
 
@@ -173,6 +175,16 @@ def baue_metadata(row):
     return metadata
 
 
+def schreibe_json_atomar(pfad: Path, daten):
+    """Erst in eine temporaere Datei schreiben, dann in einem Schritt ersetzen.
+    Wird das Skript mittendrin abgebrochen, bleibt die alte Datei vollstaendig
+    erhalten statt halb geschrieben (abgeschnittenes JSON)."""
+    tmp = pfad.with_name(pfad.name + ".tmp")
+    with tmp.open("w", encoding="utf-8") as f:
+        json.dump(daten, f, indent=2, ensure_ascii=False)
+    os.replace(tmp, pfad)
+
+
 def enrich_manifest(manifest_path, df_band):
     with manifest_path.open("r", encoding="utf-8") as f:
         manifest = json.load(f)
@@ -237,8 +249,7 @@ def enrich_manifest(manifest_path, df_band):
         return 0
 
     manifest["structures"] = structures
-    with manifest_path.open("w", encoding="utf-8") as f:
-        json.dump(manifest, f, indent=2, ensure_ascii=False)
+    schreibe_json_atomar(manifest_path, manifest)
 
     return len(structures)
 
@@ -257,6 +268,7 @@ def main():
 
     gesamt_ranges = 0
     gesamt_manifeste = 0
+    defekt = []
 
     for sr_ordner in sorted(p for p in MANIFESTS_ROOT.iterdir() if p.is_dir()):
         print(f"=== {sr_ordner.name} ===")
@@ -272,7 +284,14 @@ def main():
                 print(f"  [!] Kein Eintrag fuer Band '{band}' ({manifest_path.name})")
                 continue
 
-            anzahl = enrich_manifest(manifest_path, df_band)
+            try:
+                anzahl = enrich_manifest(manifest_path, df_band)
+            except json.JSONDecodeError as e:
+                # Defekte Datei (z.B. durch einen frueheren Abbruch abgeschnitten):
+                # melden und mit den uebrigen Manifesten weitermachen
+                print(f"  [X] {manifest_path.name}: kein gueltiges JSON ({e})")
+                defekt.append(manifest_path)
+                continue
             gesamt_manifeste += 1
             if anzahl:
                 gesamt_ranges += anzahl
@@ -281,6 +300,14 @@ def main():
                 print(f"  [-] {manifest_path.name}: keine gueltigen Ranges")
 
     print(f"\nFertig: {gesamt_ranges} Ranges in {gesamt_manifeste} Manifesten.")
+
+    if defekt:
+        print(f"\nFEHLER: {len(defekt)} Manifest(e) defekt und NICHT angereichert:")
+        for p in defekt:
+            print(f"  {p}")
+        print("Abhilfe: 02_manifest_correct.py erzeugt alle Manifeste neu aus data/manifest/raw, "
+              "danach 03_manifest_enrich.py und 04_manifest_collection.py erneut ausführen.")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

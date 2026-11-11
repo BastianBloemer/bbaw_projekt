@@ -10635,7 +10635,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211839%21tif%2Fcanvas%2Fp127\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp156\" target=\"_blank\" rel=\"noopener\">Eine weitere Erläuterung des Organismus mehrerer in Berlin lebend beobachteter Polythalainien der Nordsee <span class=\"beziehung-typ\">(Auszug)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp182\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211839%21tif%2Fcanvas%2Fp127\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp156\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1839.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211839%21tif%2Fcanvas%2Fp182\" target=\"_blank\" rel=\"noopener\">Über noch jetzt zahlreich lebende Thierarten der Kreidebildung und den Organismus der Polythalamien : Auszug <span class=\"beziehung-typ\">(Auszug)</span></a></span>"
             ]
           }
         }
@@ -11013,7 +11013,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Mittheilung über den dritten der von Hrn. Galle entdeckten Cometen"
+          "Mittheilung über den dritten der von Hrn. Galle entdeckten Cometen (S. 53–55)"
         ]
       },
       "items": [
@@ -11164,7 +11164,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Bau der Farrnkräuter : Dritte Abhandlung. Auszug (S. 663)"
+          "Über den Bau der Farrnkräuter : Dritte Abhandlung. Auszug (S. 63)"
         ]
       },
       "items": [
@@ -11969,7 +11969,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über jetzt lebende Thierformen der Kreidemergel (S. 1147)"
+          "Über jetzt lebende Thierformen der Kreidemergel (S. 147)"
         ]
       },
       "items": [
@@ -12946,7 +12946,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Bericht über die Elemente des jetzt [19. Nov. 1840] sichtbaren Cometen"
+          "Bericht über die Elemente des jetzt [19. Nov. 1840] sichtbaren Cometen (S. 230–231)"
         ]
       },
       "items": [
@@ -13276,7 +13276,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Störungen der Vesta durch Jupiter, Saturn und Mars, berechnet von den Herren Dr. Wolfers und Galle : Auszug"
+          "Über die Störungen der Vesta durch Jupiter, Saturn und Mars, berechnet von den Herren Dr. Wolfers und Galle : Auszug (S. 253–259)"
         ]
       },
       "items": [
@@ -13306,42 +13306,6 @@
         },
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p257",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p258",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p259",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p260",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p261",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p262",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p263",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p264",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p265",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1840!tif/canvas/p266",
           "type": "Canvas"
         }
       ],

@@ -22798,7 +22798,7 @@
           },
           "value": {
             "de": [
-              "Friedrich Ii König von Preussen"
+              "Friedrich II., Preußen, König"
             ]
           }
         },
@@ -22811,6 +22811,18 @@
           "value": {
             "de": [
               "1772"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/02-hist/02-hist_1763.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2102-hist%211763%21tif%2Fcanvas%2Fp354\" target=\"_blank\" rel=\"noopener\">Essai sur l&#x27;amour propre envisagé comme principe de morale <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
             ]
           }
         }
@@ -23638,6 +23650,18 @@
           "value": {
             "de": [
               "1772"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/02-hist/02-hist_1768.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2102-hist%211768%21tif%2Fcanvas%2Fp47\" target=\"_blank\" rel=\"noopener\">Pensées sur la nécessité d&#x27;une école vétérinaire, avec des projets sur la manière de l&#x27;établir, dressés à la réquisition du Grand Directoire Royal et soumis à l&#x27;examen de l&#x27;Académie Royale des Sciences et Belles-Lettres <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
             ]
           }
         }
@@ -24941,6 +24965,18 @@
           "value": {
             "de": [
               "1772"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1771.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211771%21tif%2Fcanvas%2Fp194\" target=\"_blank\" rel=\"noopener\">Réflexions sur la résolution algébrique des équations : Suite <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }

@@ -5211,7 +5211,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Die Scholien zu des Aeschines Rede über die Gesandtschaft aus Pariser Handschriften (Coislin. 249 =/und Reg. 3003 (S. 113)"
+          "Die Scholien zu des Aeschines Rede über die Gesandtschaft aus Pariser Handschriften (Coislin. 249 =/und Reg. 3003 (S. 13)"
         ]
       },
       "items": [
@@ -5297,7 +5297,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Bau der Farrnkräuter : Zweite Abhandlung. Auszug aus der letzten Hälfte dieser Abhandlung (S. 117)"
+          "Über den Bau der Farrnkräuter : Zweite Abhandlung. Auszug aus der letzten Hälfte dieser Abhandlung (S. 17)"
         ]
       },
       "items": [
@@ -5428,7 +5428,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Gattung Sterna (S. 223)"
+          "Über die Gattung Sterna (S. 23)"
         ]
       },
       "items": [
@@ -5792,16 +5792,12 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Cometenerscheinungen des Jahres 1835 : Auszug"
+          "Über die Cometenerscheinungen des Jahres 1835 : Auszug (S. 335)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p38",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p39",
           "type": "Canvas"
         }
       ],
@@ -5935,7 +5931,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Zur Theorie der Berührungen : Auszug (S. 441)"
+          "Zur Theorie der Berührungen : Auszug (S. 41)"
         ]
       },
       "items": [
@@ -6078,7 +6074,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Zur Characteristik der vegetabilischen Organismen in Nordafrika und Westasien (S. 447)"
+          "Zur Characteristik der vegetabilischen Organismen in Nordafrika und Westasien (S. 47)"
         ]
       },
       "items": [
@@ -6262,28 +6258,12 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über fossile Infusionsthiere (S. 50–54)"
+          "Über fossile Infusionsthiere (S. 55)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p58",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p59",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p60",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p61",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p62",
           "type": "Canvas"
         }
       ],
@@ -6486,7 +6466,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die verschiedenen Constanten, welche sich auf die geographische Lage von Berlin beziehen, die Werthe der magnetischen Abweichung, Neigung und Intensität, und die mittlere Temperatur und Barometerhöhe, wie sie aus den neusten Beobachtungen sich ergeben"
+          "Über die verschiedenen Constanten, welche sich auf die geographische Lage von Berlin beziehen, die Werthe der magnetischen Abweichung, Neigung und Intensität, und die mittlere Temperatur und Barometerhöhe, wie sie aus den neusten Beobachtungen sich ergeben (S. 64–66)"
         ]
       },
       "items": [
@@ -6710,7 +6690,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über fossile Infusionsthiere (S. 55–56)"
+          "Über fossile Infusionsthiere (S. 83–86)"
         ]
       },
       "items": [
@@ -6720,6 +6700,14 @@
         },
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p87",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p88",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1836!tif/canvas/p89",
           "type": "Canvas"
         }
       ],
@@ -6906,7 +6894,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Althochdeutsche, dem Anfange des 11ten Jahrhunderts angehörige, Übersetzung und Erläuterung der aristotelischen Abhandlungen: kategoriai und peri hermeneias : Auszug aus der Abhandlung über die Übersetzung von peri hermeneias"
+          "Althochdeutsche, dem Anfange des 11ten Jahrhunderts angehörige, Übersetzung und Erläuterung der aristotelischen Abhandlungen: kategoriai und peri hermeneias : Auszug aus der Abhandlung über die Übersetzung von peri hermeneias (S. 95–98)"
         ]
       },
       "items": [
@@ -6960,7 +6948,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1835.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211835%21tif%2Fcanvas%2Fp1057\" target=\"_blank\" rel=\"noopener\">Althochdeutsche, dem Anfange des 11ten Jahrhunderts angehörige, Übersetzung und Erläuterung der aristotelischen Abhandlungen: kategoriai und peri hermeneias <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1835.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211835%21tif%2Fcanvas%2Fp1057\" target=\"_blank\" rel=\"noopener\">Althochdeutsche, dem Anfange des 11ten Jahrhunderts angehörige, Übersetzung und Erläuterung der aristotelischen Abhandlungen: kategoriai und peri hermeneias <span class=\"beziehung-typ\">(Verweis)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1835.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211835%21tif%2Fcanvas%2Fp1057\" target=\"_blank\" rel=\"noopener\">Althochdeutsche, dem Anfange des 11ten Jahrhunderts angehörige, Übersetzung und Erläuterung der aristotelischen Abhandlungen: kategoriai und peri hermeneias <span class=\"beziehung-typ\">(Übersetzung)</span></a></span>"
             ]
           }
         }
@@ -7065,7 +7053,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Einfache Beweise der isoperimetrischen Hauptsätze : Auszug (S. 1105)"
+          "Einfache Beweise der isoperimetrischen Hauptsätze : Auszug (S. 105)"
         ]
       },
       "items": [

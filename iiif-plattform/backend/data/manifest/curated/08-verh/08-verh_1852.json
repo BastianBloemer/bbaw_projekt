@@ -27612,7 +27612,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Berechnung der allgemeinen Planetenstörungen"
+          "Über die Berechnung der allgemeinen Planetenstörungen (S. 17–25)"
         ]
       },
       "items": [
@@ -29783,12 +29783,28 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über eine neue Methode der Berechnung der Planetenstörungen : Nachtrag"
+          "Über eine neue Methode der Berechnung der Planetenstörungen : Nachtrag (S. 268–272)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p270",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p271",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p272",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p273",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p274",
           "type": "Canvas"
         }
       ],
@@ -29825,68 +29841,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1851.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211851%21tif%2Fcanvas%2Fp611\" target=\"_blank\" rel=\"noopener\">Über eine neue Methode der Berechnung der Planetenstörungen : Nachtrag <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/range/r_NEU-094953279-44",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über eine neue Methode der Berechnung der Planetenstörungen (S. 268–273)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p270",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p271",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p272",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p273",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p274",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p275",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Encke, Johann Franz"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1851.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211851%21tif%2Fcanvas%2Fp611\" target=\"_blank\" rel=\"noopener\">Über eine neue Methode der Berechnung der Planetenstörungen <span class=\"beziehung-typ\">(Hauptteil)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1851.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211851%21tif%2Fcanvas%2Fp611\" target=\"_blank\" rel=\"noopener\">Über eine neue Methode der Berechnung der Planetenstörungen <span class=\"beziehung-typ\">(Hauptteil)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/08-verh/08-verh_1851.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2108-verh%211851%21tif%2Fcanvas%2Fp611\" target=\"_blank\" rel=\"noopener\">Über eine neue Methode der Berechnung der Planetenstörungen <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -30169,7 +30124,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Bruch des Freundschaftsverhältnisses des Königs Siegmund und des Kurfürsten Friedrich I. von Brandenburg"
+          "Über den Bruch des Freundschaftsverhältnisses des Königs Siegmund und des Kurfürsten Friedrich I. von Brandenburg (S. 301–325)"
         ]
       },
       "items": [
@@ -31056,7 +31011,19 @@
           },
           "value": {
             "de": [
-              "Ehrenberg"
+              "Ehrenberg, Christian Gottfried"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1852"
             ]
           }
         },
@@ -31166,7 +31133,19 @@
           },
           "value": {
             "de": [
-              "Encke"
+              "Encke, Johann Franz"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1852"
             ]
           }
         },
@@ -32857,7 +32836,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den Metarsus von Aepyornis (S. 6622)"
+          "Über den Metarsus von Aepyornis (S. 622)"
         ]
       },
       "items": [
@@ -33020,12 +32999,24 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Wärme, welche frei wird, wenn die Krystalle des Schwefels, die durch Schmelzen erhalten werden, in die andere Form übergehen (S. 639–39)"
+          "Über die Wärme, welche frei wird, wenn die Krystalle des Schwefels, die durch Schmelzen erhalten werden, in die andere Form übergehen (S. 636–639)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p641",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p642",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p643",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1852!tif/canvas/p644",
           "type": "Canvas"
         }
       ],

@@ -36112,6 +36112,18 @@
               "1803"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/06-samml/06-samml_17981800.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2106-samml%2117981800%21tif%2Fcanvas%2Fp214\" target=\"_blank\" rel=\"noopener\">Ueber die Mahlerey bey den Alten. Erste Abhandlung <span class=\"beziehung-typ\">(Original)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/06-samml/06-samml_18011802.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2106-samml%2118011802%21tif%2Fcanvas%2Fp143\" target=\"_blank\" rel=\"noopener\">Zweite Abhandlung. Ueber die verschiedenen Mosaïkarten bei den Alten <span class=\"beziehung-typ\">(Original)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/06-samml/06-samml_18011802.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2106-samml%2118011802%21tif%2Fcanvas%2Fp161\" target=\"_blank\" rel=\"noopener\">Ueber die Mahlerey bey den Alten. Dritte Abhandlung. In welchem Umfange besassen die Alten die Kunst zu malen? <span class=\"beziehung-typ\">(Original)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/06-samml/06-samml_18011802.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2106-samml%2118011802%21tif%2Fcanvas%2Fp177\" target=\"_blank\" rel=\"noopener\">Ueber die Mahlerey bey den Alten. Vierte Abhandlung. Ueber die Farben, deren sich sie Alten zum Malen bedienten, und über einige merkwürdige Nachrichten bei Plinius, die Malerei der Alten betreffend <span class=\"beziehung-typ\">(Original)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/06-samml/06-samml_1803.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2106-samml%211803%21tif%2Fcanvas%2Fp206\" target=\"_blank\" rel=\"noopener\">Ueber die Mahlerey bey den Alten. Fuenfte Abhandlung. Von ihrem Ursprunge bis auf die 94. Olympias, oder Apollodor von Athen <span class=\"beziehung-typ\">(Original)</span></a></span>"
+            ]
+          }
         }
       ]
     }

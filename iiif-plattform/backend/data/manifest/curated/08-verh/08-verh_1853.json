@@ -32261,52 +32261,11 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/range/r_NEU-094938725-30",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Graf Rudolph von Habsburg und Burggraf Friedrich III. von Nürnberg in ihren Verhältnissen zu einander (S. 123)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/canvas/p125",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Riedel, Adolph Friedrich"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1852.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211852%21tif%2Fcanvas%2Fp997\" target=\"_blank\" rel=\"noopener\">Graf Rudolph von Habsburg und Burggraf Friedrich III. von Nürnberg in ihren Verhältnissen zu einander <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
       "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/range/r_094933774",
       "type": "Range",
       "label": {
         "de": [
-          "Graf Rudolph von Habsburg und Burggraf Friedrich III. von Nürnberg in ihren Verhältnissen zu einander : Auszug"
+          "Graf Rudolph von Habsburg und Burggraf Friedrich III. von Nürnberg in ihren Verhältnissen zu einander : Auszug (S. 123)"
         ]
       },
       "items": [
@@ -32348,7 +32307,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1852.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211852%21tif%2Fcanvas%2Fp997\" target=\"_blank\" rel=\"noopener\">Graf Rudolph von Habsburg und Burggraf Friedrich III. von Nürnberg in ihren Verhältnissen zu einander : Auszug <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1852.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211852%21tif%2Fcanvas%2Fp997\" target=\"_blank\" rel=\"noopener\">Graf Rudolph von Habsburg und Burggraf Friedrich III. von Nürnberg in ihren Verhältnissen zu einander <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1852.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211852%21tif%2Fcanvas%2Fp997\" target=\"_blank\" rel=\"noopener\">Graf Rudolph von Habsburg und Burggraf Friedrich III. von Nürnberg in ihren Verhältnissen zu einander <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -32416,7 +32375,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "[Friedrich der Grosse in seinem Verhältniss zum Pflichtbegriff] : Festrede gehalten am 27. Januar 1853 zur Feier des Jahrestages Friedrichs II"
+          "[Friedrich der Grosse in seinem Verhältniss zum Pflichtbegriff] : Festrede gehalten am 27. Januar 1853 zur Feier des Jahrestages Friedrichs II (S. 129–136)"
         ]
       },
       "items": [
@@ -32583,7 +32542,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Bemerkungen über die Primzahlen"
+          "Bemerkungen über die Primzahlen (S. 143–146)"
         ]
       },
       "items": [
@@ -32847,36 +32806,12 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Entwickelung der allgemeinen Störungen der Flora"
+          "Über die Entwickelung der allgemeinen Störungen der Flora (S. 1171)"
         ]
       },
       "items": [
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/canvas/p174",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/canvas/p175",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/canvas/p176",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/canvas/p177",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/canvas/p178",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/canvas/p179",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1853!tif/canvas/p180",
           "type": "Canvas"
         }
       ],
@@ -34102,7 +34037,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die von Hrn. Dr. Brünnow abgeleiteten allgemeinen Störungen der Flora durch Jupiter und Saturn"
+          "Über die von Hrn. Dr. Brünnow abgeleiteten allgemeinen Störungen der Flora durch Jupiter und Saturn (S. 301–314)"
         ]
       },
       "items": [
@@ -35168,7 +35103,19 @@
           },
           "value": {
             "de": [
-              "Böckh"
+              "Böckh, August"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1853"
             ]
           }
         },

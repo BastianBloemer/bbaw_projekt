@@ -26471,7 +26471,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\">Recherches sur les unités de la Nature. Premier mémoire : Sur les unités physiques. Second mémoire <span class=\"beziehung-typ\">(Verweis)</span></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1778.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211778%21tif%2Fcanvas%2Fp377\" target=\"_blank\" rel=\"noopener\">Recherches sur les Unités de la Nature. Premier mémoire <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -27311,7 +27311,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\">Du goût national considéré dans son influence sur la traduction : Troisième et dernier mémoire <span class=\"beziehung-typ\">(Verweis)</span></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/03-nouv/03-nouv_1775.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2103-nouv%211775%21tif%2Fcanvas%2Fp535\" target=\"_blank\" rel=\"noopener\">Du goût national considéré dans son influence sur la traduction : Premier et second mémoire <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }

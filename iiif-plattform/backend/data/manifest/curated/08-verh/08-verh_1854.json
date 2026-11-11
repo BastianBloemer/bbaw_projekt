@@ -28879,63 +28879,6 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/range/r_NEU-09489888X-31",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Darstellung der Wärme-Erscheinungen durch fünftägige Mittel von 1782 bis 1855, mit besonderer Berücksichtigung strenger Winter (S. 3–10)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p4",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p5",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p6",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p7",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p8",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p9",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p10",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p11",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Dove, Heinrich Wilhelm"
-            ]
-          }
-        }
-      ]
-    },
-    {
       "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/range/r_094935084",
       "type": "Range",
       "label": {
@@ -29490,7 +29433,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über Vogel's Beobachtungen des Sternschwankens"
+          "Über Vogel's Beobachtungen des Sternschwankens (S. 53)"
         ]
       },
       "items": [
@@ -30056,7 +29999,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Einige Abbildungen von Vögeln aus Mossambique (S. 1134)"
+          "Einige Abbildungen von Vögeln aus Mossambique (S. 134)"
         ]
       },
       "items": [
@@ -30544,7 +30487,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über ein Altitaliänisches Fragment (Königl. Bibliothek Ms. ital. quart. 27.) 1852. MB S. 65-68. - Nachtrag (S. 1176)"
+          "Über ein Altitaliänisches Fragment (Königl. Bibliothek Ms. ital. quart. 27.) 1852. MB S. 65-68. - Nachtrag (S. 176)"
         ]
       },
       "items": [
@@ -30850,7 +30793,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Geographische Einleitung und erster Theil einer Untersuchung über die in Ortsnamen und Mythen vorliegenden Sprachreste des alten Kleinasiens, namentlich über die in historischer Zeit fortdauernde Gränze zwischen arischen und semitischen Dialekten : Fortsetzung (S. 1196)"
+          "Geographische Einleitung und erster Theil einer Untersuchung über die in Ortsnamen und Mythen vorliegenden Sprachreste des alten Kleinasiens, namentlich über die in historischer Zeit fortdauernde Gränze zwischen arischen und semitischen Dialekten : Fortsetzung (S. 196)"
         ]
       },
       "items": [
@@ -31650,7 +31593,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die letzte Erscheinung des Cometen von Pons im Jahre 1852 und seine nächste Wiederkehr im Jahre 1855"
+          "Über die letzte Erscheinung des Cometen von Pons im Jahre 1852 und seine nächste Wiederkehr im Jahre 1855 (S. 283)"
         ]
       },
       "items": [
@@ -32366,7 +32309,19 @@
           },
           "value": {
             "de": [
-              "Böckh"
+              "Böckh, August"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1854"
             ]
           }
         },
@@ -32537,7 +32492,19 @@
           },
           "value": {
             "de": [
-              "Ehrenberg"
+              "Ehrenberg, Christian Gottfried"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1854"
             ]
           }
         },
@@ -32617,7 +32584,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Zwei neue Papageien (S. 3371)"
+          "Zwei neue Papageien (S. 371)"
         ]
       },
       "items": [
@@ -33267,7 +33234,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Versuche über die Vertheilung der Electricität (S. 4431)"
+          "Versuche über die Vertheilung der Electricität (S. 431)"
         ]
       },
       "items": [
@@ -34641,7 +34608,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über Mesotrocha sexoculata (S. 5593)"
+          "Über Mesotrocha sexoculata (S. 593)"
         ]
       },
       "items": [
@@ -34741,63 +34708,6 @@
           "value": {
             "de": [
               "1854"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/range/r_NEU-094907420-47",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Nachtrag zu der Übersicht der Anneliden von Mossambique (S. 607–614)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p614",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p615",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p616",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p617",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p618",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p619",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p620",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1854!tif/canvas/p621",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Peters, Wilhelm"
             ]
           }
         },
@@ -34978,7 +34888,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Archäologischer Commentar zu Pausanias B. II. Kap. 24. (Die Gottheiten auf Larissa, der Hochburg von Argos.) : Auszug (S. 6636)"
+          "Archäologischer Commentar zu Pausanias B. II. Kap. 24. (Die Gottheiten auf Larissa, der Hochburg von Argos.) : Auszug (S. 636)"
         ]
       },
       "items": [
@@ -35019,7 +34929,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Bemerkungen über die neu entdeckten kleinen Planeten Nr. 5-33"
+          "Bemerkungen über die neu entdeckten kleinen Planeten Nr. 5-33 (S. 638–639)"
         ]
       },
       "items": [
@@ -35209,7 +35119,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Versuche, nach der von Bromeis angegebenen Methode aus Stearinsäure Margarinsäure zu erzeugen (S. 6666)"
+          "Versuche, nach der von Bromeis angegebenen Methode aus Stearinsäure Margarinsäure zu erzeugen (S. 666)"
         ]
       },
       "items": [

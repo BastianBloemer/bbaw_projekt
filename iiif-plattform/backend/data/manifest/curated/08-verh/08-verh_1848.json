@@ -19357,7 +19357,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Bestimmung der Planetenbahnen aus geocentrischen Beobachtungen"
+          "Über die Bestimmung der Planetenbahnen aus geocentrischen Beobachtungen (S. 60–64)"
         ]
       },
       "items": [
@@ -19561,52 +19561,11 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/range/r_NEU-09492824X-28",
-      "type": "Range",
-      "label": {
-        "de": [
-          "Über den letzten Unterschied der philosophischen Systeme (S. 75)"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p77",
-          "type": "Canvas"
-        }
-      ],
-      "metadata": [
-        {
-          "label": {
-            "de": [
-              "Autor"
-            ]
-          },
-          "value": {
-            "de": [
-              "Trendelenburg, Friedrich Adolf"
-            ]
-          }
-        },
-        {
-          "label": {
-            "de": [
-              "Textbeziehungen"
-            ]
-          },
-          "value": {
-            "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp830\" target=\"_blank\" rel=\"noopener\">Über den letzten Unterschied der philosophischen Systeme <span class=\"beziehung-typ\">(Volltext)</span></a></span>"
-            ]
-          }
-        }
-      ]
-    },
-    {
       "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/range/r_094970556",
       "type": "Range",
       "label": {
         "de": [
-          "Über den letzten Unterschied der philosophischen Systeme : Auszug (S. 775)"
+          "Über den letzten Unterschied der philosophischen Systeme : Auszug (S. 75)"
         ]
       },
       "items": [
@@ -19648,7 +19607,7 @@
           },
           "value": {
             "de": [
-              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp830\" target=\"_blank\" rel=\"noopener\">Über den letzten Unterschied der philosophischen Systeme <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp830\" target=\"_blank\" rel=\"noopener\">Über den letzten Unterschied der philosophischen Systeme <span class=\"beziehung-typ\">(Volltext)</span></a></span><br><span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/07-abh/07-abh_1847.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2107-abh%211847%21tif%2Fcanvas%2Fp830\" target=\"_blank\" rel=\"noopener\">Über den letzten Unterschied der philosophischen Systeme <span class=\"beziehung-typ\">(Verweis)</span></a></span>"
             ]
           }
         }
@@ -19659,7 +19618,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über das Mikrometer von Amici, bei welchem das Princip der doppelten Bilder, ganz wie bei dem Heliometer zum Grunde gelegt ist"
+          "Über das Mikrometer von Amici, bei welchem das Princip der doppelten Bilder, ganz wie bei dem Heliometer zum Grunde gelegt ist (S. 76–78)"
         ]
       },
       "items": [
@@ -20622,7 +20581,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über das Verhältniss der ethischen Principien des Plotinos zu denen des Platon und Aristoteles (S. 1171)"
+          "Über das Verhältniss der ethischen Principien des Plotinos zu denen des Platon und Aristoteles (S. 171)"
         ]
       },
       "items": [
@@ -20659,7 +20618,7 @@
       ]
     },
     {
-      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/range/r_NEU-09493990X-40",
+      "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/range/r_NEU-09493990X-4",
       "type": "Range",
       "label": {
         "de": [
@@ -20768,6 +20727,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1848"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -20784,7 +20755,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die diesjährige Wiedererscheinung des Pons'schen Cometen"
+          "Über die diesjährige Wiedererscheinung des Pons'schen Cometen (S. 193–194)"
         ]
       },
       "items": [
@@ -21045,7 +21016,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über den neuen (den 17.) Planeten"
+          "Über den neuen (den 17.) Planeten (S. 210–212)"
         ]
       },
       "items": [
@@ -21326,7 +21297,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Lepidopteren-Gattung Synemon. Nebst einem Nachtrage über Castniae (S. 2230)"
+          "Über die Lepidopteren-Gattung Synemon. Nebst einem Nachtrage über Castniae (S. 230)"
         ]
       },
       "items": [
@@ -21667,7 +21638,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Familie der Dioscorineen : Auszug (S. 2275)"
+          "Über die Familie der Dioscorineen : Auszug (S. 275)"
         ]
       },
       "items": [
@@ -21814,7 +21785,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Über die Larven und die Metamorphose der Echinodermen. Zweite Abhandlung : Auszug (S. 2284)"
+          "Über die Larven und die Metamorphose der Echinodermen. Zweite Abhandlung : Auszug (S. 284)"
         ]
       },
       "items": [
@@ -22419,7 +22390,7 @@
       "type": "Range",
       "label": {
         "de": [
-          "Neue Beobachtungen über das gewöhnlich in der Atmosphäre unsichtbar getragene formenreiche Leben (S. 325–345)"
+          "Neue Beobachtungen über das gewöhnlich in der Atmosphäre unsichtbar getragene formenreiche Leben (S. 349–361)"
         ]
       },
       "items": [
@@ -22473,38 +22444,6 @@
         },
         {
           "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p364",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p365",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p366",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p367",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p368",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p369",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p370",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p371",
-          "type": "Canvas"
-        },
-        {
-          "id": "https://digilib.bbaw.de/digilib/Manifester/IIIF/3/silo10!Bibliothek.tiff!08-verh!1848!tif/canvas/p372",
           "type": "Canvas"
         }
       ],

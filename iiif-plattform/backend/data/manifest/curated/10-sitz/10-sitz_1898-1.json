@@ -19291,6 +19291,18 @@
               "Fuchs, Lazarus"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1898"
+            ]
+          }
         }
       ]
     },
@@ -20568,6 +20580,18 @@
         {
           "label": {
             "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1898"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
               "Textbeziehungen"
             ]
           },
@@ -20671,7 +20695,19 @@
           },
           "value": {
             "de": [
-              "Diels"
+              "Diels, Hermann"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Erscheinungsjahr"
+            ]
+          },
+          "value": {
+            "de": [
+              "1898"
             ]
           }
         },

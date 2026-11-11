@@ -25385,6 +25385,18 @@
               "1805"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Textbeziehungen"
+            ]
+          },
+          "value": {
+            "de": [
+              "<span class=\"beziehung-wert\"><a href=\"viewer.html?manifest=../../backend/data/manifest/curated/06-samml/06-samml_18011802.json&canvas=https%3A%2F%2Fdigilib.bbaw.de%2Fdigilib%2FManifester%2FIIIF%2F3%2Fsilo10%21Bibliothek.tiff%2106-samml%2118011802%21tif%2Fcanvas%2Fp119\" target=\"_blank\" rel=\"noopener\">Ueber Abstraktionen, ihre nothwendigen Unvollkommenheiten, und ihren öftern Missbrauch <span class=\"beziehung-typ\">(Original)</span></a></span>"
+            ]
+          }
         }
       ]
     },
