@@ -1,6 +1,0 @@
-**Autor:** Duc-Thuan Vo, Ebrahim Bagheri
-**Datum:** 2016-01-01
-
-**Zusammenfassung**
-
-Open Information Extraction (Open IE) systems aim to obtain relation tuples with highly scalable extraction in portable across domain by identifying a variety of relation phrases and their arguments in arbitrary sentences. The first generation of Open IE learns linear chain models based on unlexicalized features such as Part-of-Speech (POS) or shallow tags to label the intermediate words between pair of potential arguments for identifying extractable relations. Open IE currently is developed in the second generation that is able to extract instances of the most frequently observed relation types such as Verb, Noun and Prep, Verb and Prep, and Infinitive with deep linguistic analysis. They expose simple yet principled ways in which verbs express relationships in linguistics such as verb phrase-based extraction or clause-based extraction. They obtain a significantly higher performance over previous systems in the first generation. In this paper, we describe an overview of two Open IE generations including strengths, weaknesses and application areas.

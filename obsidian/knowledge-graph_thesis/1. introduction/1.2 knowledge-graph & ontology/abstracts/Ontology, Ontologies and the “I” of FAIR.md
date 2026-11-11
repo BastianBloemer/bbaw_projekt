@@ -1,6 +1,0 @@
-**Autor:** Giancarlo Guizzardi
-**Datum:** 2020-01-01
-
-**Zusammenfassung**
-
-According to the FAIR guiding principles, one of the central attributes for maximizing the added value of information artifacts is interoperability. In this paper, I discuss the importance, and propose a characterization of the notion of Semantic Interoperability. Moreover, I show that a direct consequence of this view is that Semantic Interoperability cannot be achieved without the support of, on one hand, (i) ontologies, as meaning contracts capturing the conceptualizations represented in information artifacts and, on the other hand, of (ii) Ontology, as a discipline proposing formal methods and theories for clarifying these conceptualizations and articulating their representations. In particular, I discuss the fundamental role of formal ontological theories (in the latter sense) to properly ground the construction of representation languages, as well as methodological and computational tools for supporting the engineering of ontologies (in the former sense) in the context of FAIR.

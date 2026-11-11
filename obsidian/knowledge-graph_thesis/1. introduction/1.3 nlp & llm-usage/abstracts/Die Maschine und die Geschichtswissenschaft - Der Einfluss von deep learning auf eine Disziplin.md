@@ -1,6 +1,0 @@
-**Autor:** Karoline Dominika Döring, Stefan Haas, Mareike König, Jörg Wettlaufer, Tobias Hodel
-**Datum:** 2022-08-22
-
-**Zusammenfassung**
-
-Deep learning is a method from the field of artificial intelligence that is currently being used in many disciplines to create appraisal decisions. The form of machine learning is also being used in history, for example for text recognition or the identification of named entities. Since deep learning will become a much stronger part of the methodological apparatus in the future, it is worth taking a critical look at what is happening. The moment of training plays a crucial role within the method. There, models are created and optimized. Based on the provided data, patterns can be recognized and imitated. Significantly, the created models are only verifiable in retrospect and with test procedures and are at most partially comprehensible. Thus, hermeneutic approaches are needed to understand and classify the models. Accordingly, the use of deep learning in history will entail a new reflection on methods, which must take into account technical circumstances on the one hand and disciplinary specifications on the other.

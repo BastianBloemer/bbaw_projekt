@@ -1,6 +1,0 @@
-**Autor:** Behrooz Mansouri
-**Datum:** 2025-05-06
-
-**Zusammenfassung**
-
-This paper presents a survey of Abstract Meaning Representation (AMR), a semantic representation framework that captures the meaning of sentences through a graph-based structure. AMR represents sentences as rooted, directed acyclic graphs, where nodes correspond to concepts and edges denote relationships, effectively encoding the meaning of complex sentences. This survey investigates AMR and its extensions, focusing on AMR capabilities. It then explores the parsing (text-to-AMR) and generation (AMR-to-text) tasks by showing traditional, current, and possible futures approaches. It also reviews various applications of AMR including text generation, text classification, and information extraction and information seeking. By analyzing recent developments and challenges in the field, this survey provides insights into future directions for research and the potential impact of AMR on enhancing machine understanding of human language.

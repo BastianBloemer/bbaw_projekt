@@ -1,6 +1,0 @@
-**Autor:** Selina Galka, Georg Vogeler
-**Datum:** 2026-01-28
-
-**Zusammenfassung**
-
-This paper explores the use of large language models (LLMs) to enhance semantic annotation and annotation projection in digital scholarly editions (DSEs), focusing on historical ego-documents. Using the TEI/XML-encoded French memoirs of Countess Luise Charlotte of Schwerin (1684–1732) and their German translation as a case study, we evaluate LLMs for Named Entity Recognition (NER), annotation transfer across aligned bilingual texts, and the extraction of interpersonal relationships. A comparative analysis with a traditional NER framework shows that LLMs significantly outperform baseline models, particularly in recognizing complex person references, such as non-rigid designators and nested entities. For annotation projection, we demonstrate that LLMs can reliably transfer entity annotations between French and German texts without intermediate alignment layers, achieving over 97% of correct projected entities using zero-shot prompting. Additionally, a pilot experiment illustrates the potential of LLMs for structured relationship modeling. The analysis of the errors puts further emphasis on the question of our intentions as editors when translating and indexing texts.
